@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Device Not Compatible</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            text-align: center;
+            padding: 2rem;
+            border-radius: 10px;
+            max-width: 90%;
+        }
+        .icon {
+            font-size: 4rem;
+            color: #dc3545;
+            margin-bottom: 1rem;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 1rem;
+        }
+        p {
+            color: #666;
+            line-height: 1.6;
+        }
+        .devices {
+
+            font-weight: 600;
+            color: #2ecc71;
+            padding: 1.5rem;
+
+            transition: transform 0.3s ease;
+        }
+        .devices:hover {
+            transform: translateY(-5px);
+        }
+        .devices br {
+            margin: 0.8rem 0;
+        }
+        .devices span {
+            display: block;
+            padding: 0.8rem;
+            margin: 0.5rem 0;
+            background: rgba(46, 204, 113, 0.1);
+            border-radius: 8px;
+            transition: background 0.3s ease;
+        }
+        .devices span:hover {
+            background: rgba(46, 204, 113, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="icon">⚠️</div>
+        <h1>Device Not Compatible</h1>
+        <p>We're sorry, but this site is not compatible with your current device.</p>
+        <p>Please access the site using:</p>
+        <div class="devices">
+            <span>✓ Desktop Computer</span>
+            <span>✓ Android Device</span>
+        </div>
+    </div>
+</body>
+</html>

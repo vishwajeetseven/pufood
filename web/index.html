@@ -1,0 +1,1952 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script>
+    // Check if device is Android
+    function isAndroid() {
+      return /Android/i.test(navigator.userAgent);
+    }
+
+    // Check if device is iPhone
+    function isIPhone() {
+      return /iPhone/i.test(navigator.userAgent);
+    }
+
+    // Redirect based on device type
+    if (isAndroid() && window.location.hostname !== 'app.pufood.xyz') {
+      window.location.href = 'https://android.pufood.xyz';
+    } else if (isIPhone()) {
+      window.location.href = 'https://ios.pufood.xyz';
+    }
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta http-equiv="X-Frame-Options" content="DENY">
+  <meta name="description"
+    content="Discover all food options inside Parul University campus. Explore cafeterias, food courts, and dining options within PU. Compare prices and find the best food deals across various campus outlets.">
+  <meta name="keywords"
+    content="PU food court, Parul University cafeteria, food inside PU, campus dining, PU canteen, PUFood, food price comparison, food deals, campus outlets, food choices, affordability, convenience, dining experience, food ratings, food reviews, food menus, food outlets, food prices, food search, food filters, food sorting">
+  <meta name="robots" content="index, follow">
+  <meta property="og:title" content="PU Food - Complete Guide to Food Options Inside Parul University">
+  <meta property="og:description"
+    content="Discover all food options inside Parul University campus. Compare prices and explore cafeterias, food courts, and dining options within PU.">
+  <meta property="og:image" content="https://pufood.xyz/graph.png">
+  <meta property="og:url" content="https://www.pufood.xyz/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="PUFood">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="PU Food - Complete Guide to Food Options Inside Parul University">
+  <meta name="twitter:description"
+    content="Discover all food options inside Parul University campus. Compare prices and explore cafeterias, food courts, and dining options within PU.">
+  <meta name="twitter:image" content="https://pufood.xyz/graph.png">
+  <meta name="google-adsense-account" content="ca-pub-5191328351960807">
+  <title>PU Food - Complete Guide to Food Options Inside Parul University</title>
+  <script>
+    // Register Service Worker
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/sw.js')
+          .then(registration => {
+            console.log('ServiceWorker registered');
+          })
+          .catch(error => {
+            console.log('ServiceWorker registration failed:', error);
+          });
+      });
+    }
+  </script>
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon.ico">
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="canonical" href="https://pufood.xyz/">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&amp;family=Roboto:wght@400;700&amp;display=swap"
+    rel="stylesheet">
+  <style>
+    /* CSS Variables */
+    :root {
+      --vh: 1vh;
+      --navbar-height: 60px;
+      --primary-bg: rgba(255, 255, 255, 0.95);
+      --secondary-bg: rgba(46, 40, 40, 0.1);
+      --text-primary: #111;
+      --text-secondary: #666;
+      --border-radius: 25px;
+      --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      --shadow-sm: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+      --shadow-md: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    }
+
+    @supports (height: 100dvh) {
+      :root {
+        --vh: 1dvh;
+      }
+    }
+
+    /* General Styles */
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: "Poppins", sans-serif;
+      background: url("bg1.jpg") no-repeat center center fixed;
+      background-size: cover;
+      color: var(--text-primary);
+      transition: var(--transition);
+      overflow-x: hidden;
+      min-height: calc(100 * var(--vh));
+      display: flex;
+      flex-direction: column;
+      scroll-behavior: smooth;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      position: relative;
+    }
+
+    .navbar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background: rgba(46, 40, 40, 0.1);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      padding: 10px 0;
+      text-align: center;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      z-index: 1000;
+      will-change: transform;
+      transform: translateY(-100%);
+    }
+
+    .navbar-brand {
+      position: absolute;
+      left: 20px;
+      color: white;
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+
+    .search-container {
+      position: relative;
+      width: 100%;
+      max-width: 500px;
+      margin: 0 auto;
+      padding: 0 20px;
+      box-sizing: border-box;
+      display: flex;
+      align-items: center;
+    }
+
+    .search-box {
+      width: 100%;
+      padding: 15px 50px 15px 20px;
+      font-size: 1rem;
+      border: none;
+      border-radius: 25px;
+      background: rgba(255, 255, 255, 0.95);
+      color: black;
+      outline: none;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+      box-sizing: border-box;
+      backdrop-filter: blur(5px);
+      -webkit-backdrop-filter: blur(5px);
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .search-box:focus {
+      transform: translateY(-1px);
+      box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+      background: rgba(255, 255, 255, 0.98);
+    }
+
+    .filter-btn {
+      position: absolute;
+      right: 30px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      color: #666;
+      border: none;
+      width: 40px;
+      height: 40px;
+      font-size: 1.2rem;
+      cursor: pointer;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      transition: all 0.3s ease;
+      z-index: 1000;
+    }
+
+    .filter-btn:hover {
+      color: #333;
+    }
+
+    .filter-btn i {
+      font-size: 1rem;
+    }
+
+    .search-suggestions {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      width: 100%;
+      background: white;
+      border-radius: 0 0 15px 15px;
+      box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+      max-height: 200px;
+      overflow-y: auto;
+      z-index: 1000;
+      display: none;
+    }
+
+    .search-suggestions div {
+      padding: 10px 15px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+
+    .search-suggestions div:hover {
+      background: #f4f4f4;
+    }
+
+    /* Updated Filter Dropdown Styles */
+    .filter-dropdown {
+      display: none;
+      position: fixed;
+      top: 60px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: white;
+      padding: 20px;
+      box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+      border-radius: 15px;
+      width: 90%;
+      max-width: 350px;
+      z-index: 1000;
+      animation: slideUp 0.3s ease;
+      overflow-y: auto;
+      max-height: 70vh;
+    }
+
+    .filter-dropdown h3 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 15px;
+      color: #333;
+    }
+
+    .filter-category {
+      margin-bottom: 20px;
+    }
+
+    .filter-option {
+      padding: 12px;
+      margin: 8px 0;
+      border-radius: 12px;
+      background: rgba(249, 249, 249, 0.9);
+      cursor: pointer;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      border: 1px solid rgba(238, 238, 238, 0.5);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-weight: 500;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .filter-option::after {
+      content: '';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 100%;
+      height: 100%;
+      background: rgba(255, 255, 255, 0.2);
+      transform: translate(-50%, -50%) scale(0);
+      border-radius: 50%;
+      transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .filter-option:hover {
+      background: #f1f1f1;
+    }
+
+    /* Veg option turns green when selected */
+    .filter-option[data-value="diet-veg"].selected {
+      background: #4caf50;
+      color: white;
+      border-color: #4caf50;
+    }
+
+    /* Non-Veg option turns red when selected */
+    .filter-option[data-value="diet-non-veg"].selected {
+      background: #de4e4e;
+      color: white;
+      border-color: #de4e4e;
+    }
+
+    /* Price sort options turn blue when selected */
+    .filter-option[data-value^="price-"].selected {
+      background: #2196f3;
+      color: white;
+      border-color: #2196f3;
+    }
+
+    /* High Protein option turns purple when selected */
+    .filter-option[data-value="high-protein"].selected {
+      background: #9c27b0;
+      color: white;
+      border-color: #9c27b0;
+    }
+
+    .filter-inputs {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .filter-inputs input {
+      width: 100%;
+      padding: 10px;
+      border-radius: 8px;
+      border: 1px solid #ddd;
+      font-size: 0.9rem;
+      outline: none;
+    }
+
+    .filter-inputs input:focus {
+      border-color: #de4e4e;
+    }
+
+    .filter-buttons {
+      display: flex;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .filter-buttons button {
+      flex: 1;
+      padding: 10px;
+      border-radius: 8px;
+      border: none;
+      font-size: 0.9rem;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    #applyFilter {
+      background: #de4e4e;
+      color: white;
+    }
+
+    #applyFilter:hover {
+      background: #c03e3e;
+    }
+
+    #clearFilters {
+      background: #f1f1f1;
+      color: #333;
+    }
+
+    #clearFilters:hover {
+      background: #ddd;
+    }
+
+    .close-dropdown {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background: none;
+      border: none;
+      font-size: 1.2rem;
+      color: #666;
+      cursor: pointer;
+      transition: color 0.3s ease;
+    }
+
+    .close-dropdown:hover {
+      color: #333;
+    }
+
+    @keyframes slideUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    /* Rest of the CSS remains unchanged */
+    .landing {
+      text-align: center;
+      position: absolute;
+      top: 45%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+      padding: 30px;
+      border-radius: 20px;
+      width: 90%;
+      max-width: 600px;
+      backdrop-filter: blur(0px);
+      -webkit-backdrop-filter: blur(0px);
+      border: 0px solid rgba(255, 255, 255, 0.1);
+      animation: fadeInUp 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    footer {
+      position: fixed;
+      bottom: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      box-sizing: border-box;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      width: 100%;
+      backdrop-filter: blur(10px);
+      min-height: 80px;
+      background: rgba(46, 40, 40, 0.1);
+      z-index: 999;
+    }
+
+    .site-name {
+      color: white;
+      font-size: 3.5rem;
+      font-weight: bold;
+      margin-bottom: 30px;
+      padding: 10px;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+      animation: scaleIn 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+      background: linear-gradient(135deg, #ffffff 0%, #f0f0f0 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      letter-spacing: 1px;
+    }
+
+    .food-list {
+      display: none;
+      flex-direction: column;
+      gap: 20px;
+      padding: 80px 20px 100px;
+      width: 100%;
+      max-width: 1200px;
+      margin: 0 auto;
+      box-sizing: border-box;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      animation: fadeIn 0.5s ease-out;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+
+      to {
+        opacity: 1;
+      }
+    }
+
+    @media screen and (max-width: 768px) {
+      .site-name {
+        font-size: 2.5rem;
+        margin-bottom: 20px;
+      }
+
+      .search-container {
+        padding: 0 10px;
+      }
+
+      .search-box {
+        padding: 12px 40px 12px 15px;
+        font-size: 0.9rem;
+      }
+
+      .filter-btn {
+        right: 20px;
+        width: 35px;
+        height: 35px;
+      }
+
+      .outlet-group {
+        padding: 15px;
+      }
+
+      .outlet-name {
+        font-size: 1.2rem;
+      }
+
+      .food-list {
+        padding: 70px 10px 90px;
+      }
+
+      .filter-dropdown {
+        width: 85%;
+        max-height: 60vh;
+        top: 70px;
+      }
+
+      .filter-option {
+        padding: 10px;
+        font-size: 0.9rem;
+      }
+
+      footer {
+        padding: 10px;
+        min-height: 70px;
+        font-size: 0.9rem;
+      }
+    }
+
+    @media screen and (max-width: 480px) {
+      .site-name {
+        font-size: 2rem;
+      }
+
+      .navbar-brand {
+        font-size: 1.2rem;
+        left: 10px;
+      }
+
+      .search-container {
+        padding: 0 8px;
+      }
+
+      .outlet-group {
+        padding: 12px;
+      }
+
+      .filter-dropdown {
+        width: 90%;
+        padding: 15px;
+      }
+    }
+
+    .results-counter {
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+      padding: 10px 20px;
+      border-radius: 8px;
+      color: white;
+      text-align: center;
+      margin-bottom: 20px;
+      font-size: 1.1rem;
+      animation: fadeIn 0.3s ease;
+    }
+
+    .results-counter span {
+      font-weight: bold;
+      color: #de4e4e;
+    }
+
+    .outlet-group {
+      background: rgba(255, 255, 255, 0.08);
+      backdrop-filter: blur(15px);
+      -webkit-backdrop-filter: blur(15px);
+      border-radius: 16px;
+      padding: 20px;
+      box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      margin-bottom: 20px;
+    }
+
+    .outlet-group:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+      background: rgba(255, 255, 255, 0.1);
+    }
+
+    .outlet-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 15px;
+      position: relative;
+    }
+
+    .outlet-name-container {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .outlet-name {
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #333;
+      margin-bottom: 4px;
+    }
+
+    .expand-hint {
+      font-size: 0.7rem;
+      color: #666;
+      margin-top: -2px;
+    }
+
+    .view-menu-btn {
+      padding: 8px 15px;
+      background-color: #de4e4e;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-size: 0.9rem;
+      transition: background-color 0.3s ease;
+    }
+
+    .view-menu-btn:hover {
+      background-color: #c03e3e;
+    }
+
+    .food-items {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 15px;
+    }
+
+    .food-item {
+      background: rgba(255, 255, 255, 0.95);
+      border-radius: 12px;
+      padding: 15px;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+      position: relative;
+      opacity: 0;
+      transform: translateY(20px);
+      transition: all 0.4s cubic-bezier(0.2, 0.8, 0.2, 1);
+      will-change: transform, opacity, box-shadow;
+      cursor: pointer;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(5px);
+      -webkit-backdrop-filter: blur(5px);
+    }
+
+    .food-item.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .loading-indicator {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+      color: white;
+      font-size: 1rem;
+      font-weight: 500;
+      background: rgba(0, 0, 0, 0.7);
+      backdrop-filter: blur(5px);
+      -webkit-backdrop-filter: blur(5px);
+      border-radius: 12px;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 9999;
+      box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      animation: fadeIn 0.3s ease-out;
+    }
+
+    .loading-indicator .spinner {
+      width: 24px;
+      height: 24px;
+      margin-right: 12px;
+      border: 3px solid rgba(255, 255, 255, 0.3);
+      border-top: 3px solid #ffffff;
+      border-radius: 50%;
+      animation: spin 1s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    }
+
+    @keyframes spin {
+      0% {
+        transform: rotate(0deg);
+      }
+
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+
+    .outlet-header {
+      cursor: pointer;
+      padding: 15px;
+      background: rgba(255, 255, 255, 0.9);
+      border-radius: 10px;
+      margin-bottom: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .toggle-icon {
+      margin-left: 10px;
+      transition: transform 0.3s ease;
+    }
+
+    .toggle-icon.fa-chevron-up {
+      transform: rotate(180deg);
+    }
+
+    .food-items.collapsed {
+      display: none;
+    }
+
+    .food-item:hover {
+      transform: translateY(-5px) scale(1.02);
+      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+      background: rgba(255, 255, 255, 0.98);
+    }
+
+    .food-name {
+      font-size: 1.2rem;
+      font-weight: bold;
+      margin-bottom: 10px;
+      color: #333;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .food-price {
+      font-size: 1.1rem;
+      font-weight: bold;
+      color: #de4e4e;
+      margin-bottom: 10px;
+    }
+
+    .food-macros {
+      font-size: 0.9rem;
+      color: #666;
+      display: flex;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+
+    .food-macros i {
+      margin-right: 5px;
+    }
+
+    .more-info-btn {
+      display: inline-block;
+      padding: 8px 15px;
+      background-color: whitesmoke;
+      color: black;
+      text-decoration: none;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      margin-top: 12px;
+      transition: all 0.3s ease;
+      cursor: pointer;
+      border: 1.5px solid #de4e4e;
+      width: 100%;
+      text-align: center;
+      letter-spacing: 0.5px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    }
+
+    .more-info-btn:hover {
+      background-color: #de4e4e;
+      color: white;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .food-type {
+      padding: 5px 10px;
+      border-radius: 5px;
+      font-size: 0.8rem;
+      color: white;
+    }
+
+    .veg {
+      background: #4caf50;
+    }
+
+    .non-veg {
+      background: #de4e4e;
+    }
+
+    .compare-icon {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      color: #de4e4e;
+      cursor: pointer;
+      font-size: 1.2rem;
+      transition: color 0.3s ease;
+    }
+
+    .compare-icon.selected {
+      color: #4caf50;
+    }
+
+    .compare-icon:hover {
+      color: #c03e3e;
+    }
+
+    .compare-btn {
+      position: fixed;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #4caf50;
+      color: white;
+      border: none;
+      padding: 15px 20px;
+      border-radius: 25px;
+      font-size: 1rem;
+      cursor: pointer;
+      display: none;
+      transition: all 0.3s ease;
+      box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+      z-index: 1000;
+      width: 90%;
+      max-width: 300px;
+      text-align: center;
+    }
+
+    .compare-btn:hover {
+      background: #45a049;
+    }
+
+    .comparison-table {
+      display: none;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%) scale(0.95);
+      background: rgba(255, 255, 255, 0.98);
+      padding: 25px;
+      border-radius: 20px;
+      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+      z-index: 1001;
+      width: 90%;
+      max-width: 800px;
+      overflow-x: auto;
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      opacity: 0;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .comparison-table.show {
+      opacity: 1;
+      transform: translate(-50%, -50%) scale(1);
+    }
+
+    .comparison-table table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 600px;
+    }
+
+    .comparison-table th,
+    .comparison-table td {
+      padding: 10px;
+      text-align: center;
+      border: 1px solid #ddd;
+    }
+
+    .comparison-table th {
+      background: #f4f4f4;
+      font-weight: bold;
+    }
+
+    .comparison-table td {
+      background: white;
+    }
+
+    .comparison-table .close-btn {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background: #e27373;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 50%;
+      cursor: pointer;
+    }
+
+    .comparison-table .close-btn:hover {
+      background: #c03e3e;
+    }
+
+    .no-food {
+      text-align: center;
+      font-size: 2.5rem;
+      font-weight: bold;
+      color: #fff;
+      margin-top: 50px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 90%;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    footer {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      box-sizing: border-box;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      width: 100%;
+      backdrop-filter: blur(10px);
+      margin-top: 10px;
+      min-height: 80px;
+      background: rgba(46, 40, 40, 0.1);
+    }
+
+    footer p {
+      margin: 5px 0;
+      font-size: 0.9rem;
+    }
+
+    footer a {
+      color: #de4e4e;
+      text-decoration: none;
+      margin: 0 5px;
+      transition: color 0.3s ease;
+    }
+
+    footer a:hover {
+      color: #c03e3e;
+      text-decoration: underline;
+    }
+
+    @media screen and (max-width: 600px) {
+      .navbar-brand {
+        display: none;
+      }
+
+      .site-name {
+        font-size: 2.5rem;
+        padding: 10px;
+      }
+
+      .search-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        padding: 10px;
+        background: var(--primary-bg);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+        box-shadow: var(--shadow-sm);
+        z-index: 1000;
+        height: var(--navbar-height);
+        box-sizing: border-box;
+        display: flex;
+        align-items: center;
+      }
+
+      .search-box {
+        font-size: 16px;
+        /* Prevent iOS zoom */
+        padding: 12px;
+        border-radius: calc(var(--border-radius) / 2);
+        background: white;
+        width: 100%;
+        margin: 0;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+      }
+
+      .food-list {
+        padding: calc(var(--navbar-height) + 10px) 10px 20px;
+        grid-template-columns: 1fr;
+        height: calc(100 * var(--vh) - var(--navbar-height));
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        background: rgba(255, 255, 255, 0.5);
+        backdrop-filter: blur(5px);
+        -webkit-backdrop-filter: blur(5px);
+      }
+
+      .food-name {
+        font-size: 1.2rem;
+      }
+
+      .food-price {
+        font-size: 1rem;
+      }
+
+      .food-macros {
+        font-size: 0.8rem;
+      }
+
+      .food-outlet {
+        font-size: 0.9rem;
+      }
+
+      .no-food {
+        font-size: 1rem;
+      }
+
+      .compare-btn {
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 90%;
+        max-width: 300px;
+        text-align: center;
+        border-radius: calc(var(--border-radius) / 2);
+        background: var(--primary-bg);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+        box-shadow: var(--shadow-md);
+      }
+
+      .comparison-table {
+        width: 95%;
+        max-width: 95%;
+        padding: 15px;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        background: var(--primary-bg);
+        border-radius: var(--border-radius);
+        box-shadow: var(--shadow-md);
+      }
+
+      .comparison-table table {
+        min-width: 500px;
+      }
+
+      .comparison-table th,
+      .comparison-table td {
+        padding: 10px;
+        font-size: 0.9rem;
+        min-width: 80px;
+      }
+
+      .filter-dropdown {
+        width: 90%;
+        left: 5%;
+        max-height: calc(80 * var(--vh));
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        background: var(--primary-bg);
+        border-radius: var(--border-radius);
+        box-shadow: var(--shadow-md);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+      }
+
+      .landing {
+        width: 90%;
+        padding: 20px;
+        height: calc(100 * var(--vh) - 40px);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+
+      #toast {
+        width: 90%;
+        left: 5%;
+        bottom: 20px;
+        background: var(--primary-bg);
+        border-radius: calc(var(--border-radius) / 2);
+        box-shadow: var(--shadow-md);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+      }
+
+      /* Handle keyboard state */
+      body.keyboard-open {
+        height: calc(100 * var(--vh));
+        overflow: hidden;
+      }
+
+      body.keyboard-open #footer {
+        display: none;
+      }
+
+      body.keyboard-open .food-list {
+        height: calc(100 * var(--vh) - var(--navbar-height));
+      }
+    }
+
+    .toast {
+      position: fixed;
+      bottom: 100px;
+      left: 50%;
+      transform: translateX(-50%) translateY(20px);
+      background: rgba(51, 51, 51, 0.95);
+      color: #fff;
+      padding: 15px 30px;
+      border-radius: 30px;
+      font-size: 0.95rem;
+      font-weight: 500;
+      z-index: 10000;
+      opacity: 0;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+
+    .ad-container {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    .ad-container iframe {
+      display: inline-block;
+      margin: 0 auto;
+    }
+
+    /* Progress Bar Styles */
+    .progress-bar {
+      width: 100%;
+      height: 5px;
+      border-radius: 5px;
+      background: #eee;
+      margin-bottom: 10px;
+      overflow: hidden;
+    }
+
+    .progress-bar .progress {
+      height: 100%;
+      width: 100%;
+      transition: width 0.3s ease;
+    }
+
+    .progress-bar.veg .progress {
+      background: #4caf50;
+    }
+
+    .progress-bar.non-veg .progress {
+      background: #de4e4e;
+    }
+
+    /* Outlet Location Styles */
+    .outlet-location {
+      font-size: 0.9rem;
+      color: #666;
+      margin-top: 10px;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .outlet-location i {
+      color: #de4e4e;
+    }
+  </style>
+</head>
+
+<body oncontextmenu="return false">
+  <div id="installPrompt"
+    style="display: none; position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: white; padding: 15px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); z-index: 9999; text-align: center;">
+    <p style="margin: 0 0 10px 0;">Add PUFood to Home Screen</p>
+    <button onclick="installPWA()"
+      style="background: #de4e4e; color: white; border: none; padding: 8px 15px; border-radius: 5px; margin-right: 10px;">Install</button>
+    <button onclick="closeInstallPrompt()"
+      style="background: #f1f1f1; border: none; padding: 8px 15px; border-radius: 5px;">Not Now</button>
+  </div>
+  <div class="navbar" id="navbar">
+    <div class="navbar-brand">
+      PUFood
+    </div>
+    <div class="search-container">
+      <input type="text" id="searchBox" class="search-box" placeholder="Search for food or the outlet...">
+      <div class="filter-btn" id="filterBtn">
+        <i class="fas fa-sliders"></i>
+      </div>
+      <div class="search-suggestions" id="searchSuggestions"></div>
+    </div>
+    <div class="filter-dropdown" id="filterDropdown">
+      <button class="close-dropdown" id="closeDropdown">✕</button>
+      <div class="filter-options">
+        <div class="filter-category">
+          <h3>Sort By</h3>
+          <div class="filter-option" data-value="price-low-to-high">
+            Price Low to High
+          </div>
+          <div class="filter-option" data-value="price-high-to-low">
+            Price High to Low
+          </div>
+        </div>
+        <div class="filter-category">
+          <h3>Dietary Preferences</h3>
+          <div class="filter-option" data-value="diet-veg">
+            Veg
+          </div>
+          <div class="filter-option" data-value="diet-non-veg">
+            Non-Veg
+          </div>
+          <div class="filter-option" data-value="high-protein">
+            High Protein
+          </div>
+        </div>
+      </div>
+      <div class="filter-inputs">
+        <input type="number" id="minPrice" placeholder="Min Price">
+        <input type="number" id="maxPrice" placeholder="Max Price">
+      </div>
+      <div class="filter-buttons">
+        <button id="applyFilter">Apply Filter</button> <button id="clearFilters">Clear Filters</button>
+      </div>
+    </div>
+  </div>
+  <div class="landing" id="landing">
+    <div class="site-name">
+      <script>
+        const texts = ["PUFood", "Find Your Food", "Hungry?"];
+        document.write(texts[Math.floor(Math.random() * texts.length)]);
+      </script>
+    </div>
+    <div class="search-container">
+      <input type="text" id="landingSearch" class="search-box" placeholder="Search for food or the outlet...">
+    </div>
+  </div>
+  <div class="food-list" id="foodList"></div><button class="compare-btn" id="compareBtn">Compare Selected Items</button>
+  <div class="comparison-table" id="comparisonTable">
+    <button class="close-btn" id="closeComparison">✕</button>
+    <table>
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Price</th>
+          <th>Protein</th>
+          <th>Carbs</th>
+          <th>Fat</th>
+          <th>Outlet</th>
+        </tr>
+      </thead>
+      <tbody id="comparisonBody"></tbody>
+    </table>
+  </div>
+  <div class="overlay"></div>
+  <div id="toast" class="toast"></div>
+  <div class="ad-container">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5191328351960807"
+      crossorigin="anonymous"></script> <ins class="adsbygoogle" style="display: block"
+      data-ad-client="ca-pub-5191328351960807" data-ad-slot="1234567890" data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    <script>
+
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+  <footer id="footer">
+    <p>Made with ❤️ for PU Students</p>
+    <p><a href="contributors.html">Contributors</a> | <a href="submit.html">Submit the Menu</a> | <a
+        href="group.html">Community</a> | <a href="about.html">About
+        Us</a> | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms of Service</a> | <a
+        href="contact.html">Contact me</a></p>
+  </footer>
+  <script>
+    let allFoodData = [];
+    let outletMenus = [];
+    let selectedItems = [];
+    let currentDisplayedData = [];
+    const backgroundImages = ["bg.jpg", "bg1.jpg", "bg2.jpg"];
+    const nonVegKeywords = [
+      "chicken", "egg", "hen", "mutton", "fish", "beef", "pork", "duck meat", "turkey",
+      "prawns", "shrimp", "crab", "lobster", "squid", "octopus", "quail meat", "rabbit meat",
+      "goose meat", "deer meat", "camel meat", "frog legs", "nonveg", "fry piece biryani",
+      "chicken fry", "chicken biryani", "mutton biryani", "fish fry", "fish biryani",
+      "egg biryani", "egg fry", "egg biryani", "egg fry", "egg biryani", "egg fry",
+      "egg biryani", "egg fry", "egg biryani", "egg fry", "egg biryani", "egg fry",
+      "egg biry", "lollipop biryani", "Non-Veg", "omelette", "omelet"
+    ];
+
+    function isNonVeg(foodName) {
+      return nonVegKeywords.some((keyword) =>
+        foodName.toLowerCase().includes(keyword)
+      );
+    }
+
+    function sortByProteinDescending(data) {
+      return data.sort((a, b) => b.protein - a.protein);
+    }
+
+    document.body.style.backgroundImage = `url('${backgroundImages[Math.floor(Math.random() * backgroundImages.length)]}')`;
+
+    function showToast(message) {
+      const toast = document.getElementById("toast");
+      toast.textContent = message;
+      toast.classList.add("show");
+
+      setTimeout(() => {
+        toast.classList.remove("show");
+      }, 3000);
+    }
+
+    function handleSearchFocus() {
+      const navbar = document.getElementById("navbar");
+      const landing = document.getElementById("landing");
+      const foodList = document.getElementById("foodList");
+      const searchBox = document.getElementById("searchBox");
+      const footer = document.getElementById("footer");
+
+      // Smooth transition for navbar
+      navbar.style.transform = "translateY(0)";
+
+      // Fade out landing with scale
+      landing.style.opacity = "0";
+      landing.style.transform = "translate(-50%, -60%) scale(0.95)";
+      landing.style.pointerEvents = "none";
+
+      // Show food list with animation
+      foodList.style.display = "flex";
+      foodList.style.paddingTop = "80px";
+      foodList.style.opacity = "1";
+
+      // Focus search box with delay for smooth transition
+      setTimeout(() => {
+        searchBox.focus();
+      }, 300);
+
+      // Slide out footer
+      footer.style.transform = "translateY(100%)";
+
+      fetchFoodData();
+
+      // Scroll to top on mobile
+      if (window.innerWidth <= 768) {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+    }
+
+    // Handle both focus and click events
+    document.getElementById("landingSearch").addEventListener("focus", handleSearchFocus);
+    document.getElementById("landingSearch").addEventListener("click", handleSearchFocus);
+
+    // Handle mobile keyboard show/hide
+    window.addEventListener('resize', function () {
+      const foodList = document.getElementById("foodList");
+      if (window.innerWidth <= 768) {
+        const viewportHeight = window.innerHeight;
+        foodList.style.height = `${viewportHeight - 60}px`; // Adjust for navbar height
+        foodList.style.overflowY = 'auto';
+      } else {
+        foodList.style.height = '';
+        foodList.style.overflowY = '';
+      }
+    });
+
+    async function fetchWithRetry(url, maxRetries = 3) {
+      // Try to get data from cache first
+      try {
+        const cachedData = localStorage.getItem(url);
+        if (cachedData) {
+          const { data, timestamp } = JSON.parse(cachedData);
+          // Cache is valid for 24 hours
+          if (Date.now() - timestamp < 24 * 60 * 60 * 1000) {
+            return data;
+          }
+        }
+      } catch (error) {
+        console.warn('Error reading from cache:', error);
+      }
+
+      // If no cache or expired, fetch from network
+      const baseUrl = 'https://www.pufood.xyz/';
+      const fullUrl = url.startsWith('http') ? url : baseUrl + url;
+
+      for (let i = 0; i < maxRetries; i++) {
+        try {
+          const response = await fetch(fullUrl);
+          if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+          const data = await response.json();
+
+          // Save to cache
+          try {
+            localStorage.setItem(url, JSON.stringify({
+              data,
+              timestamp: Date.now()
+            }));
+          } catch (error) {
+            console.warn('Error saving to cache:', error);
+          }
+
+          return data;
+        } catch (error) {
+          console.error(`Attempt ${i + 1} failed:`, error);
+          if (i === maxRetries - 1) throw error;
+          await new Promise(resolve => setTimeout(resolve, 1000 * Math.pow(2, i))); // Exponential backoff
+        }
+      }
+    }
+
+    async function fetchFoodData() {
+      if (allFoodData.length === 0) {
+        const loadingIndicator = document.createElement('div');
+        loadingIndicator.className = 'loading-indicator';
+        loadingIndicator.innerHTML = `
+          <div class="spinner"></div>
+          <span>Loading food data...</span>
+        `;
+        document.body.appendChild(loadingIndicator);
+
+        try {
+          const data = await fetchWithRetry('data.json');
+          allFoodData = data.sort(() => Math.random() - 0.5);
+          currentDisplayedData = [...allFoodData];
+          displayFoodItems(currentDisplayedData);
+          showToast("Food data loaded successfully!");
+        } catch (error) {
+          console.error('Error loading food data:', error);
+          showToast("Failed to load food data. Retrying...");
+          setTimeout(fetchFoodData, 3000); // Retry after 3 seconds
+        } finally {
+          loadingIndicator.remove();
+        }
+      }
+    }
+
+    async function loadOutletMenus() {
+      try {
+        const data = await fetchWithRetry('outletMenus.json');
+        outletMenus = data;
+        showToast("Menu data loaded successfully!");
+      } catch (error) {
+        console.error('Error loading outlet menus:', error);
+        showToast("Failed to load outlet menus. Retrying...");
+        setTimeout(loadOutletMenus, 3000); // Retry after 3 seconds
+      }
+    }
+
+    // Initialize data loading and mobile optimization
+    window.addEventListener('load', () => {
+      fetchFoodData();
+      loadOutletMenus();
+
+      // Add search box focus/blur handlers for navbar visibility
+      const searchBox = document.getElementById("searchBox");
+      const navbar = document.querySelector(".navbar");
+
+      searchBox.addEventListener("focus", function () {
+        navbar.style.transform = "translateY(0)";
+      });
+
+      // Remove the blur event listener to keep navbar visible after search
+      searchBox.addEventListener("input", function () {
+        if (this.value.trim().length > 0) {
+          navbar.style.transform = "translateY(0)";
+        }
+      });
+
+      // Set initial viewport height for mobile
+      if (window.innerWidth <= 768) {
+        const vh = window.innerHeight * 0.01;
+        document.documentElement.style.setProperty('--vh', `${vh}px`);
+      }
+
+      // Prevent iOS bounce scroll
+      document.body.addEventListener('touchmove', function (e) {
+        if (e.target.closest('.food-list, .filter-dropdown, .comparison-table') === null) {
+          e.preventDefault();
+        }
+      }, { passive: false });
+
+      // Handle iOS keyboard show/hide
+      const searchInputs = document.querySelectorAll('input[type="text"], input[type="search"]');
+      searchInputs.forEach(input => {
+        input.addEventListener('focus', () => {
+          if (window.innerWidth <= 768) {
+            // Add padding to prevent content from being hidden behind keyboard
+            document.body.style.paddingBottom = '50vh';
+            // Scroll the input into view with a delay
+            setTimeout(() => input.scrollIntoView({ behavior: 'smooth', block: 'start' }), 100);
+          }
+        });
+
+        input.addEventListener('blur', () => {
+          if (window.innerWidth <= 768) {
+            document.body.style.paddingBottom = '0';
+          }
+        });
+      });
+    });
+
+    // Enhanced lazy loading with batch processing
+    let currentBatch = 0;
+    const BATCH_SIZE = 12;
+    const PRELOAD_THRESHOLD = 2;
+
+    const foodObserver = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const foodItem = entry.target;
+          foodItem.classList.add('visible');
+          foodObserver.unobserve(foodItem);
+
+          // Preload next batch when approaching end
+          const visibleItems = document.querySelectorAll('.food-item.visible').length;
+          if (visibleItems >= (currentBatch * BATCH_SIZE) - (BATCH_SIZE * PRELOAD_THRESHOLD)) {
+            loadNextBatch();
+          }
+        }
+      });
+    }, {
+      threshold: 0.1,
+      rootMargin: '100px 0px'
+    });
+
+    function loadNextBatch() {
+      const start = currentBatch * BATCH_SIZE;
+      const end = start + BATCH_SIZE;
+      const items = document.querySelectorAll('.food-item:not(.visible)');
+
+      items.forEach((item, index) => {
+        if (index >= start && index < end) {
+          foodObserver.observe(item);
+          item.style.transitionDelay = `${(index % BATCH_SIZE) * 50}ms`;
+        }
+      });
+
+      currentBatch++;
+    }
+
+    document.getElementById("searchBox").addEventListener("input", function () {
+      const query = this.value.toLowerCase().trim();
+      const words = query.split(/\s+/);
+
+      // Always group by outlets for better organization
+      currentDisplayedData = allFoodData.filter((food) =>
+        words.every((word) =>
+          food.name.toLowerCase().includes(word) ||
+          food.outlet.toLowerCase().includes(word)
+        )
+      );
+
+      const groupedData = currentDisplayedData.reduce((acc, food) => {
+        if (!acc[food.outlet]) {
+          acc[food.outlet] = [];
+        }
+        acc[food.outlet].push(food);
+        return acc;
+      }, {});
+
+      displayGroupedFoodItems(groupedData);
+
+      // Add lazy loading to newly displayed items
+      document.querySelectorAll('.food-item:not(.visible)').forEach(item => {
+        foodObserver.observe(item);
+      })
+    });
+
+    // Fixed displayGroupedFoodItems function
+    function displayGroupedFoodItems(groupedData) {
+      const foodList = document.getElementById("foodList");
+      foodList.innerHTML = "";
+
+      if (Object.keys(groupedData).length === 0) {
+        foodList.innerHTML =
+          '<div class="no-food">No food found matching your criteria.</div>';
+        return;
+      }
+
+      for (const outlet in groupedData) {
+        const outletGroup = document.createElement("div");
+        outletGroup.classList.add("outlet-group");
+        const outletHeader = document.createElement("div");
+        outletHeader.classList.add("outlet-header");
+
+        const outletNameContainer = document.createElement("div");
+        outletNameContainer.classList.add("outlet-name-container");
+
+        const outletName = document.createElement("div");
+        outletName.classList.add("outlet-name");
+        outletName.textContent = outlet;
+
+        const expandHint = document.createElement("div");
+        expandHint.classList.add("expand-hint");
+        expandHint.textContent = "Click to see menu items below";
+
+        // Update hint text based on collapse state
+        outletHeader.addEventListener("click", (e) => {
+          if (e.target.classList.contains("view-menu-btn")) return;
+          expandHint.textContent = foodItems.classList.contains("collapsed") ?
+            "Click to hide menu items" :
+            "Click to see menu items below";
+        });
+
+        outletNameContainer.appendChild(outletName);
+        outletNameContainer.appendChild(expandHint);
+        outletHeader.appendChild(outletNameContainer);
+
+
+
+        const outletMenu = outletMenus.find((menu) => menu.name === outlet);
+        if (outletMenu) {
+          const viewMenuBtn = document.createElement("a");
+          viewMenuBtn.href = outletMenu.link;
+          viewMenuBtn.target = "_blank";
+          viewMenuBtn.classList.add("view-menu-btn");
+          viewMenuBtn.textContent = "Menu";
+          outletHeader.appendChild(viewMenuBtn);
+        }
+
+        outletGroup.appendChild(outletHeader);
+        const foodItems = document.createElement("div");
+        foodItems.classList.add("food-items", "collapsed");
+
+        // Store the food items for this outlet
+        outletGroup.dataset.foodItems = JSON.stringify(groupedData[outlet]);
+
+        // Add click event for expand/collapse
+        outletHeader.addEventListener("click", (e) => {
+          if (e.target.classList.contains("view-menu-btn")) return;
+
+          if (foodItems.classList.contains("collapsed")) {
+            // Clear and repopulate food items when expanding
+            foodItems.innerHTML = "";
+            const outletFoodItems = JSON.parse(outletGroup.dataset.foodItems);
+            outletFoodItems.forEach((food) => {
+              const foodItem = createFoodItem(food);
+              foodItems.appendChild(foodItem);
+              foodObserver.observe(foodItem);
+            });
+          }
+
+          foodItems.classList.toggle("collapsed");
+          expandHint.textContent = foodItems.classList.contains("collapsed") ?
+            "Click to see menu items below" :
+            "Click to hide menu items";
+        });
+
+        outletGroup.appendChild(foodItems);
+        foodList.appendChild(outletGroup);
+      }
+    }
+
+    // Helper function to create food item elements
+    function createFoodItem(food) {
+      const foodItem = document.createElement("div");
+      foodItem.classList.add("food-item");
+
+      const compareIcon = document.createElement("i");
+      compareIcon.classList.add("fas", "fa-plus", "compare-icon");
+      if (selectedItems.includes(food)) {
+        compareIcon.classList.add("selected");
+      }
+      compareIcon.addEventListener("click", () =>
+        toggleCompare(food, compareIcon)
+      );
+      foodItem.appendChild(compareIcon);
+
+      const foodName = document.createElement("div");
+      foodName.classList.add("food-name");
+      foodName.textContent = food.name;
+      foodItem.appendChild(foodName);
+
+      const foodPrice = document.createElement("div");
+      foodPrice.classList.add("food-price");
+      foodPrice.textContent = `₹${food.price}`;
+      foodItem.appendChild(foodPrice);
+
+      const foodMacros = document.createElement("div");
+      foodMacros.classList.add("food-macros");
+      foodMacros.innerHTML = `
+            <span><i class="fas fa-dumbbell"></i> Protein: ${food.protein}g</span> |
+            <span><i class="fas fa-bread-slice"></i> Carbs: ${food.carbs}g</span> |
+            <span><i class="fas fa-bacon"></i> Fat: ${food.fat}g</span>
+        `;
+      foodItem.appendChild(foodMacros);
+
+      // Add outlet location below the macros
+      const outletLocation = document.createElement("div");
+      outletLocation.classList.add("outlet-location");
+      outletLocation.innerHTML = `<i class="fas fa-map-marker-alt"></i> ${food.outlet}`;
+      foodItem.appendChild(outletLocation);
+
+      // Progress Bar for Veg/Non-Veg
+      const progressBar = document.createElement("div");
+      progressBar.classList.add(
+        "progress-bar",
+        isNonVeg(food.name) ? "non-veg" : "veg"
+      );
+      progressBar.innerHTML = `<div class="progress"></div>`;
+      foodItem.appendChild(progressBar);
+
+      // Add More Info button
+      const moreInfoBtn = document.createElement("button");
+      moreInfoBtn.classList.add("more-info-btn");
+      moreInfoBtn.textContent = "More Info";
+      moreInfoBtn.addEventListener("click", () => {
+        window.open(`https://www.perplexity.ai/search?q=${encodeURIComponent(food.name)}`, '_blank');
+      });
+      foodItem.appendChild(moreInfoBtn);
+
+      return foodItem;
+    }
+
+    function displayFoodItems(data) {
+      const foodList = document.getElementById("foodList");
+      foodList.innerHTML = "";
+      currentBatch = 0;
+
+      if (data.length === 0) {
+        foodList.innerHTML =
+          '<div class="no-food">No food found matching your criteria.</div>';
+        return;
+      }
+
+      // Group items by outlet
+      const groupedByOutlet = {};
+      data.forEach(food => {
+        if (!groupedByOutlet[food.outlet]) {
+          groupedByOutlet[food.outlet] = [];
+        }
+        groupedByOutlet[food.outlet].push(food);
+      });
+
+      // Add loading indicator
+      const loadingIndicator = document.createElement('div');
+      loadingIndicator.className = 'loading-indicator';
+      loadingIndicator.innerHTML = '<div class="spinner"></div><span>Loading more items...</span>';
+      foodList.appendChild(loadingIndicator);
+
+      // Initial batch load
+      setTimeout(() => {
+        loadingIndicator.remove();
+        displayGroupedFoodItems(groupedByOutlet);
+      }, 100);
+    }
+
+    function toggleCompare(food, compareIcon) {
+      if (selectedItems.includes(food)) {
+        selectedItems = selectedItems.filter((item) => item !== food);
+        compareIcon.classList.remove("selected");
+        showToast(`${food.name} removed from comparison.`);
+      } else {
+        if (selectedItems.length < 4) {
+          selectedItems.push(food);
+          compareIcon.classList.add("selected");
+          showToast(`${food.name} added to comparison.`);
+        } else {
+          showToast("You can compare up to 4 items only.");
+        }
+      }
+      updateCompareButton();
+    }
+
+    function updateCompareButton() {
+      const compareBtn = document.getElementById("compareBtn");
+      if (selectedItems.length > 1) {
+        compareBtn.style.display = "block";
+      } else {
+        compareBtn.style.display = "none";
+      }
+    }
+
+    document.getElementById("compareBtn").addEventListener("click", function () {
+      const comparisonTable = document.getElementById("comparisonTable");
+      const comparisonBody = document.getElementById("comparisonBody");
+      comparisonBody.innerHTML = "";
+
+      selectedItems.forEach((food, index) => {
+        const row = document.createElement("tr");
+        row.style.opacity = "0";
+        row.style.transform = "translateY(20px)";
+        row.style.transition = "all 0.3s cubic-bezier(0.4, 0, 0.2, 1)";
+        row.style.transitionDelay = `${index * 0.1}s`;
+        row.innerHTML = `
+          <td>${food.name}</td>
+          <td>₹${food.price}</td>
+          <td>${food.protein}g</td>
+          <td>${food.carbs}g</td>
+          <td>${food.fat}g</td>
+          <td>${food.outlet}</td>
+        `;
+        comparisonBody.appendChild(row);
+
+        // Trigger animation
+        setTimeout(() => {
+          row.style.opacity = "1";
+          row.style.transform = "translateY(0)";
+        }, 50);
+      });
+
+      comparisonTable.style.display = "block";
+      document.querySelector(".overlay").style.display = "block";
+
+      // Add show class for animation
+      setTimeout(() => {
+        comparisonTable.classList.add("show");
+      }, 50);
+
+      this.style.display = "none";
+
+      selectedItems = [];
+
+      document.querySelectorAll(".compare-icon").forEach((icon) => {
+        icon.classList.remove("selected");
+      });
+
+      showToast("Comparison list cleared.");
+    });
+
+    document.getElementById("closeComparison").addEventListener("click", function () {
+      document.getElementById("comparisonTable").style.display = "none";
+      document.querySelector(".overlay").style.display = "none";
+    });
+
+    document.addEventListener("click", function (e) {
+      const comparisonTable = document.getElementById("comparisonTable");
+      const overlay = document.querySelector(".overlay");
+
+      if (e.target === overlay) {
+        comparisonTable.style.display = "none";
+        overlay.style.display = "none";
+      }
+    });
+
+    document.getElementById("filterBtn").addEventListener("click", function () {
+      document.getElementById("filterDropdown").style.display = "block";
+    });
+
+    document.getElementById("closeDropdown").addEventListener("click", function () {
+      document.getElementById("filterDropdown").style.display = "none";
+    });
+
+    document.getElementById("applyFilter").addEventListener("click", function () {
+      const selectedSort = document.querySelector(
+        '.filter-option.selected[data-value^="price-"]'
+      );
+      const minPrice = document.getElementById("minPrice").value;
+      const maxPrice = document.getElementById("maxPrice").value;
+      const selectedDiet = document.querySelector(
+        '.filter-option.selected[data-value^="diet-"]'
+      );
+      const isHighProtein =
+        document.querySelector(
+          '.filter-option[data-value="high-protein"].selected'
+        ) !== null;
+
+      let filteredData = [...currentDisplayedData];
+
+      // Add price filters
+      if (minPrice !== "") {
+        filteredData = filteredData.filter(
+          (food) => food.price >= parseFloat(minPrice)
+        );
+      }
+
+      if (maxPrice !== "") {
+        filteredData = filteredData.filter(
+          (food) => food.price <= parseFloat(maxPrice)
+        );
+      }
+
+      // Add dietary filters
+      if (selectedDiet) {
+        const dietValue = selectedDiet.getAttribute("data-value");
+        if (dietValue === "diet-veg") {
+          filteredData = filteredData.filter(
+            (food) => !isNonVeg(food.name)
+          );
+        } else if (dietValue === "diet-non-veg") {
+          filteredData = filteredData.filter((food) => isNonVeg(food.name));
+        }
+      }
+
+      // Add high protein filter
+      if (isHighProtein) {
+        filteredData = filteredData.filter(food => food.protein >= 8);
+      }
+
+      // Add price sorting
+      if (selectedSort) {
+        const sortValue = selectedSort.getAttribute("data-value");
+        if (sortValue === "price-low-to-high") {
+          filteredData.sort((a, b) => a.price - b.price);
+        } else if (sortValue === "price-high-to-low") {
+          filteredData.sort((a, b) => b.price - a.price);
+        }
+      }
+
+      // Group the filtered data by outlet
+      const groupedData = filteredData.reduce((acc, food) => {
+        if (!acc[food.outlet]) {
+          acc[food.outlet] = [];
+        }
+        acc[food.outlet].push(food);
+        return acc;
+      }, {});
+
+      displayGroupedFoodItems(groupedData);
+      document.getElementById("filterDropdown").style.display = "none";
+    });
+
+    document.getElementById("clearFilters").addEventListener("click", function () {
+      currentDisplayedData = [...allFoodData];
+      displayFoodItems(allFoodData);
+      document.getElementById("filterDropdown").style.display = "none";
+      document.querySelectorAll(".filter-option").forEach((option) => option.classList.remove("selected"));
+      document.getElementById("minPrice").value = "";
+      document.getElementById("maxPrice").value = "";
+    });
+
+    document.querySelectorAll(".filter-option").forEach((option) => {
+      option.addEventListener("click", function () {
+        const value = this.getAttribute("data-value");
+
+        if (value.startsWith("diet-")) {
+          document.querySelectorAll('.filter-option[data-value^="diet-"]').forEach((opt) => {
+            if (opt !== this) opt.classList.remove("selected");
+          });
+        }
+
+        if (value.startsWith("price-")) {
+          document.querySelectorAll('.filter-option[data-value^="price-"]').forEach((opt) => {
+            if (opt !== this) opt.classList.remove("selected");
+          });
+        }
+
+        this.classList.toggle("selected");
+      });
+    });
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-9B4N66WC80"></script>
+
+  <script>
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+    gtag("config", "G-9B4N66WC80");
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Protect sensitive areas
+Disallow: /Menu/
+
+# Allow important pages
+Allow: /about.html
+Allow: /community.html
+Allow: /contributors.html
+Allow: /submit.html
+Allow: /terms.html
+Allow: /privacy.html
+Allow: /contact.html
+
+# Sitemap location
+Sitemap: https://www.pufood.xyz/sitemap.xml

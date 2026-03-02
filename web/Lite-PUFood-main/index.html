@@ -1,0 +1,1388 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>PU Food - Complete Guide to Food Options Inside Parul University</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@400;700&display=swap"
+    rel="stylesheet">
+  <style>
+    /* Light Mode Variables */
+    :root {
+      --primary-color: #af4c4c;
+      --primary-hover: #923e3e;
+      --background: #f5f5f5;
+      --card-bg: #ffffff;
+      --text-primary: #111;
+      --text-secondary: #666;
+      --transition-speed: 0.3s;
+      --navbar-bg: rgba(255, 255, 255, 0.95);
+      --search-bg: rgba(255, 255, 255, 0.8);
+      --search-focus-bg: rgba(255, 255, 255, 0.95);
+      --food-item-bg: var(--background);
+      --filter-btn-bg: #f0f0f0;
+      --filter-btn-hover-bg: #e0e0e0;
+      --border-color: #ddd;
+      --box-shadow-light: rgba(0, 0, 0, 0.05);
+      --box-shadow-medium: rgba(0, 0, 0, 0.08);
+      --box-shadow-dark: rgba(0, 0, 0, 0.15);
+      --spinner-border-color: rgba(175, 76, 76, 0.1);
+      --skeleton-gradient-start: rgba(0, 0, 0, 0.06);
+      --skeleton-gradient-mid: rgba(0, 0, 0, 0.12);
+    }
+
+    /* Dark Mode Variables */
+    body.dark-mode {
+      --primary-color: #e57373;
+      --primary-hover: #ef9a9a;
+      --background: #1a1a1a;
+      --card-bg: #2b2b2b;
+      --text-primary: #e0e0e0;
+      --text-secondary: #b0b0b0;
+      --navbar-bg: rgba(43, 43, 43, 0.95);
+      --search-bg: rgba(50, 50, 50, 0.8);
+      --search-focus-bg: rgba(60, 60, 60, 0.95);
+      --food-item-bg: #3a3a3a;
+      --filter-btn-bg: #4a4a4a;
+      --filter-btn-hover-bg: #5a5a5a;
+      --border-color: #555;
+      --box-shadow-light: rgba(0, 0, 0, 0.15);
+      --box-shadow-medium: rgba(0, 0, 0, 0.25);
+      --box-shadow-dark: rgba(0, 0, 0, 0.4);
+      --spinner-border-color: rgba(229, 115, 115, 0.1);
+      --skeleton-gradient-start: rgba(255, 255, 255, 0.06);
+      --skeleton-gradient-mid: rgba(255, 255, 255, 0.12);
+    }
+
+    body {
+      margin: 0;
+      padding: 70px 0 0 0;
+      font-family: "Poppins", sans-serif;
+      background: var(--background);
+      color: var(--text-primary);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease;
+    }
+
+    .navbar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background: var(--navbar-bg);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      padding: 15px 10px;
+      /* Reduced horizontal padding for very small screens */
+      box-shadow: 0px 2px 15px var(--box-shadow-dark);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      z-index: 1000;
+      box-sizing: border-box;
+      transform: translateY(0);
+      transition: transform 0.3s ease, box-shadow 0.3s ease, background-color var(--transition-speed) ease;
+    }
+
+    .navbar.hidden {
+      transform: translateY(-100%);
+    }
+
+    .navbar-brand {
+      color: var(--text-primary);
+      font-size: 1.5rem;
+      font-weight: bold;
+      text-decoration: none;
+      transition: color var(--transition-speed) ease;
+    }
+
+    .search-container {
+      flex: 1;
+      max-width: 500px;
+      margin: 0 10px;
+      /* Reduced horizontal margin */
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+
+    .search-box {
+      width: 100%;
+      padding: 12px 50px 12px 15px;
+      font-size: 1rem;
+      border: 2px solid transparent;
+      border-radius: 25px;
+      background: var(--search-bg);
+      color: var(--text-primary);
+      outline: none;
+      box-shadow: 0px 2px 8px var(--box-shadow-light);
+      transition: all var(--transition-speed) ease;
+      backdrop-filter: blur(5px);
+      -webkit-backdrop-filter: blur(5px);
+    }
+
+    .search-box:focus {
+      border-color: var(--primary-color);
+      background: var(--search-focus-bg);
+      box-shadow: 0px 4px 12px rgba(175, 76, 76, 0.15);
+      /* Keep primary color shadow */
+      transform: translateY(-1px);
+    }
+
+    .outlet-list {
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+
+    .outlet-card {
+      background: var(--card-bg);
+      border-radius: 15px;
+      padding: 20px;
+      box-shadow: 0 4px 6px var(--box-shadow-light);
+      cursor: pointer;
+      transition: all var(--transition-speed) cubic-bezier(0.4, 0, 0.2, 1);
+      transform: translateY(0);
+      opacity: 0;
+      /* Initial state for entrance animation */
+    }
+
+    .outlet-card.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .outlet-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 12px var(--box-shadow-medium);
+    }
+
+    .outlet-header {
+      display: flex;
+      justify-content: space-between;
+      /* Push info left, toggle right */
+      align-items: center;
+      /* Vertically center items */
+      margin-bottom: 10px;
+      flex-wrap: nowrap;
+      /* Prevent wrapping of main header elements */
+      gap: 10px;
+      /* Gap between info and actions */
+    }
+
+    .outlet-info {
+      display: flex;
+      flex-direction: column;
+      /* Stack name, queue time, and menu button */
+      align-items: flex-start;
+      /* Align name, queue time, and menu button to the left */
+      flex-grow: 1;
+      /* Allows it to take available space */
+      /* Max width to prevent it from pushing actions too much */
+      max-width: calc(100% - 70px);
+      /* 100% minus space for toggle icon (approx 40px) and some gap */
+    }
+
+    .outlet-name {
+      font-size: 1.2rem;
+      font-weight: bold;
+      color: var(--text-primary);
+      transition: color var(--transition-speed) ease;
+      white-space: nowrap;
+      /* Prevent text wrapping */
+      overflow: hidden;
+      /* Hide overflow content */
+      text-overflow: ellipsis;
+      /* Show ellipsis for overflow */
+      width: 100%;
+      /* Ensure it takes full available width within its container */
+    }
+
+    .outlet-actions {
+      display: flex;
+      gap: 15px;
+      align-items: center;
+      flex-shrink: 0;
+      /* Prevent actions from shrinking */
+    }
+
+    .outlet-toggle {
+      /* Re-added CSS for the toggle icon */
+      font-size: 1.2rem;
+      color: var(--text-secondary);
+      transition: transform 0.3s ease, color var(--transition-speed) ease;
+      cursor: pointer;
+    }
+
+    .menu-btn {
+      background: var(--primary-color);
+      color: white;
+      border: none;
+      padding: 10px 18px;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      cursor: pointer;
+      transition: all var(--transition-speed) cubic-bezier(0.4, 0, 0.2, 1);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      position: relative;
+      overflow: hidden;
+      margin-top: 8px;
+      /* Added margin to separate from queue time */
+    }
+
+    .menu-btn:hover {
+      background: var(--primary-hover);
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(175, 76, 76, 0.2);
+      /* Keep primary color shadow */
+    }
+
+    .menu-btn:active {
+      transform: translateY(0);
+    }
+
+    .menu-btn::after {
+      content: '';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 100%;
+      height: 100%;
+      background: rgba(255, 255, 255, 0.2);
+      transform: translate(-50%, -50%) scale(0);
+      border-radius: 50%;
+      transition: transform 0.4s ease-out;
+    }
+
+    .menu-btn:active::after {
+      transform: translate(-50%, -50%) scale(2);
+      opacity: 0;
+    }
+
+    .menu-btn i {
+      font-size: 1rem;
+    }
+
+    .outlet-menu {
+      display: grid;
+      margin-top: 15px;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 15px;
+      opacity: 0;
+      max-height: 0;
+      overflow: hidden;
+      /* This is the initial state for collapsing */
+      transition: opacity var(--transition-speed) ease, max-height var(--transition-speed) ease;
+    }
+
+    .outlet-card.expanded .outlet-menu {
+      opacity: 1;
+      max-height: 5000px;
+      /* Increased max-height to prevent clipping */
+      overflow-y: auto;
+      /* Allow vertical scrolling within the menu */
+    }
+
+    .outlet-card.expanded .outlet-toggle {
+      /* Re-added CSS for toggle rotation */
+      transform: rotate(180deg);
+    }
+
+    .food-item {
+      background: var(--food-item-bg);
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 2px 4px var(--box-shadow-light);
+      transform: scale(1);
+      transition: transform 0.2s ease, box-shadow 0.2s ease, background-color var(--transition-speed) ease;
+      opacity: 0;
+      /* Initial state for entrance animation */
+      transform: translateY(10px);
+      /* Initial state for entrance animation */
+    }
+
+    .food-item.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .food-item:hover {
+      transform: scale(1.02);
+      box-shadow: 0 4px 8px var(--box-shadow-medium);
+    }
+
+    .food-name {
+      font-weight: bold;
+      margin-bottom: 8px;
+      color: var(--text-primary);
+      transition: color var(--transition-speed) ease;
+    }
+
+    .food-price {
+      color: #de4e4e;
+      /* Keep red for price */
+      font-weight: bold;
+      margin-bottom: 8px;
+    }
+
+    .food-macros {
+      grid-column: 1 / -1;
+      display: flex;
+      gap: 15px;
+      font-size: 14px;
+      color: var(--text-secondary);
+      transition: color var(--transition-speed) ease;
+    }
+
+    .food-actions {
+      display: flex;
+      gap: 10px;
+      margin-top: 10px;
+      grid-column: 1 / -1;
+    }
+
+    .more-info-btn,
+    .share-btn {
+      flex: 1;
+      background: var(--filter-btn-bg);
+      color: var(--text-secondary);
+      border: none;
+      padding: 8px 10px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 5px;
+      transition: background-color 0.2s ease, color var(--transition-speed) ease;
+    }
+
+    .more-info-btn:hover,
+    .share-btn:hover {
+      background: var(--filter-btn-hover-bg);
+    }
+
+    .no-results {
+      text-align: center;
+      color: var(--text-secondary);
+      padding: 20px;
+      font-size: 1.1rem;
+      transition: color var(--transition-speed) ease;
+    }
+
+    .loading-popup {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%) scale(0.95);
+      background: var(--card-bg);
+      padding: 30px 50px;
+      border-radius: 20px;
+      box-shadow: 0 4px 25px var(--box-shadow-dark);
+      z-index: 1001;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+      opacity: 0;
+      visibility: hidden;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      color: var(--text-primary);
+    }
+
+    .loading-popup.show {
+      opacity: 1;
+      visibility: visible;
+      transform: translate(-50%, -50%) scale(1);
+    }
+
+    .loading-spinner {
+      width: 50px;
+      height: 50px;
+      border: 3px solid var(--spinner-border-color);
+      border-top: 3px solid var(--primary-color);
+      border-radius: 50%;
+      animation: spin 1s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+      filter: drop-shadow(0 0 2px rgba(175, 76, 76, 0.2));
+      /* Keep primary color shadow */
+    }
+
+    @keyframes spin {
+      0% {
+        transform: rotate(0deg);
+      }
+
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+
+    .skeleton-loader {
+      animation: skeleton-loading 1.5s ease infinite;
+      background: linear-gradient(90deg,
+          var(--skeleton-gradient-start) 25%,
+          var(--skeleton-gradient-mid) 37%,
+          var(--skeleton-gradient-start) 63%);
+      background-size: 400% 100%;
+      border-radius: 4px;
+    }
+
+    @keyframes skeleton-loading {
+      0% {
+        background-position: 100% 50%;
+      }
+
+      100% {
+        background-position: 0 50%;
+      }
+    }
+
+    .skeleton-card {
+      background: var(--card-bg);
+      border-radius: 15px;
+      padding: 20px;
+      margin-bottom: 15px;
+      box-shadow: 0 4px 6px var(--box-shadow-light);
+    }
+
+    .skeleton-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .skeleton-title {
+      height: 24px;
+      width: 200px;
+    }
+
+    .skeleton-actions {
+      display: flex;
+      gap: 10px;
+    }
+
+    .skeleton-button {
+      height: 36px;
+      width: 100px;
+      border-radius: 8px;
+    }
+
+    .filter-button {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: var(--primary-color);
+      color: white;
+      width: 56px;
+      height: 56px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 15px rgba(175, 76, 76, 0.3);
+      /* Keep primary color shadow */
+      cursor: pointer;
+      z-index: 1000;
+      border: none;
+      transition: all var(--transition-speed) cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .filter-button:hover {
+      transform: translateY(-2px) scale(1.05);
+      box-shadow: 0 6px 20px rgba(175, 76, 76, 0.4);
+      /* Keep primary color shadow */
+      background: var(--primary-hover);
+    }
+
+    .filter-button:active {
+      transform: translateY(0) scale(0.95);
+    }
+
+    .filter-menu {
+      position: fixed;
+      bottom: 85px;
+      right: 20px;
+      background: var(--card-bg);
+      border-radius: 15px;
+      padding: 20px;
+      box-shadow: 0 4px 20px var(--box-shadow-dark);
+      z-index: 1000;
+      /* Adjusted width for better mobile responsiveness */
+      width: calc(100% - 40px);
+      /* Take full width minus padding */
+      max-width: 300px;
+      /* Still limit max width for larger screens */
+      opacity: 0;
+      visibility: hidden;
+      transform: translateY(20px) scale(0.95);
+      transition: all var(--transition-speed) cubic-bezier(0.4, 0, 0.2, 1);
+      color: var(--text-primary);
+    }
+
+    .filter-menu.show {
+      opacity: 1;
+      visibility: visible;
+      transform: translateY(0) scale(1);
+    }
+
+    .filter-section {
+      margin-bottom: 20px;
+    }
+
+    .filter-section-title {
+      font-weight: 600;
+      margin-bottom: 10px;
+      color: var(--text-primary);
+      transition: color var(--transition-speed) ease;
+    }
+
+    .price-range {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      margin-bottom: 15px;
+    }
+
+    .price-input {
+      /* Adjusted for better responsiveness */
+      flex: 1;
+      /* Allow inputs to grow and shrink */
+      min-width: 80px;
+      /* Ensure a minimum width */
+      padding: 8px;
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      font-size: 14px;
+      transition: all 0.2s ease;
+      background: var(--background);
+      color: var(--text-primary);
+    }
+
+    .price-input:focus {
+      border-color: var(--primary-color);
+      outline: none;
+      box-shadow: 0 0 0 2px rgba(175, 76, 76, 0.1);
+      /* Keep primary color shadow */
+    }
+
+    .filter-checkbox {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 8px;
+      cursor: pointer;
+    }
+
+    .filter-checkbox input[type="checkbox"],
+    .filter-checkbox input[type="radio"] {
+      width: 18px;
+      height: 18px;
+      border: 2px solid var(--border-color);
+      border-radius: 4px;
+      transition: all 0.2s ease;
+      cursor: pointer;
+      background: var(--background);
+      appearance: none;
+      /* Hide default checkbox/radio */
+      -webkit-appearance: none;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .filter-checkbox input[type="radio"] {
+      border-radius: 50%;
+      /* Make radio buttons round */
+    }
+
+    .filter-checkbox input[type="checkbox"]:checked,
+    .filter-checkbox input[type="radio"]:checked {
+      background-color: var(--primary-color);
+      border-color: var(--primary-color);
+    }
+
+    /* Custom checkmark for checkboxes */
+    .filter-checkbox input[type="checkbox"]:checked::before {
+      content: '\2713';
+      /* Unicode checkmark */
+      font-size: 14px;
+      color: white;
+    }
+
+    /* Custom dot for radio buttons */
+    .filter-checkbox input[type="radio"]:checked::before {
+      content: '';
+      width: 8px;
+      height: 8px;
+      background-color: white;
+      border-radius: 50%;
+    }
+
+    .filter-checkbox label {
+      font-size: 14px;
+      color: var(--text-primary);
+      cursor: pointer;
+      transition: color var(--transition-speed) ease;
+    }
+
+    .apply-filters {
+      background: var(--primary-color);
+      color: white;
+      border: none;
+      padding: 10px;
+      width: 100%;
+      border-radius: 8px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .apply-filters:hover {
+      background: var(--primary-hover);
+      transform: translateY(-1px);
+    }
+
+    .apply-filters:active {
+      transform: translateY(0);
+    }
+
+    .filter-option {
+      padding: 10px;
+      cursor: pointer;
+      transition: background 0.2s;
+      border-radius: 5px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .filter-option:hover {
+      background: var(--filter-btn-hover-bg);
+    }
+
+    /* Dark Mode Toggle Button */
+    .dark-mode-toggle {
+      background: none;
+      border: none;
+      font-size: 1.5rem;
+      cursor: pointer;
+      color: var(--text-secondary);
+      transition: color var(--transition-speed) ease, transform 0.2s ease;
+      margin-left: 15px;
+    }
+
+    .dark-mode-toggle:hover {
+      color: var(--primary-color);
+      transform: scale(1.1);
+    }
+
+    .dark-mode-toggle i {
+      pointer-events: none;
+      /* Prevent icon from interfering with click */
+    }
+
+    /* Queue Time Display */
+    .queue-time {
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      transition: color var(--transition-speed) ease;
+      margin-top: 5px;
+      /* Space from the outlet name above it */
+    }
+
+    .queue-time i {
+      color: #e6b800;
+      /* A warning/info color for the clock icon */
+    }
+
+    .queue-time.closed {
+      color: #d32f2f;
+      /* Red color for closed status */
+    }
+
+    /* Media queries for improved responsiveness */
+    @media (min-width: 480px) {
+      .navbar {
+        padding: 15px 20px;
+      }
+
+      .search-container {
+        margin: 0 20px;
+      }
+    }
+
+    @media (min-width: 600px) {
+      .outlet-header {
+        flex-direction: row;
+        /* Back to row on larger screens */
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .outlet-info {
+        /* On larger screens, take majority of space, but allow actions to fit */
+        flex-basis: 75%;
+        /* New: Allocate 75% of space */
+        max-width: 75%;
+        /* Ensure it doesn't exceed 75% */
+        width: auto;
+        /* Reset width for larger screens */
+      }
+
+      .outlet-actions {
+        flex-basis: 25%;
+        /* New: Allocate 25% of space */
+        width: auto;
+        /* Reset width for larger screens */
+        margin-left: 0;
+        /* Remove auto margin as width is set */
+        justify-content: flex-end;
+        /* Push content to the right within its 25% */
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="navbar" id="navbar">
+    <div class="navbar-brand">PUFood</div>
+    <div class="search-container">
+      <input type="text" id="searchBox" class="search-box" placeholder="Search...">
+    </div>
+    <button id="darkModeToggle" class="dark-mode-toggle">
+      <i class="fas fa-moon"></i>
+    </button>
+  </div>
+  <div class="outlet-list" id="outletList"></div>
+  <button class="filter-button" id="filterButton">
+    <i class="fas fa-filter"></i>
+  </button>
+  <div class="filter-menu" id="filterMenu">
+    <div class="filter-section">
+      <div class="filter-section-title">Price Range</div>
+      <div class="price-range">
+        <input type="number" class="price-input" id="minPrice" placeholder="Min ₹" min="0">
+        <span>to</span>
+        <input type="number" class="price-input" id="maxPrice" placeholder="Max ₹" min="0">
+      </div>
+    </div>
+
+    <div class="filter-section">
+      <div class="filter-section-title">Sort By</div>
+      <div class="filter-checkbox">
+        <input type="radio" name="sort" id="sortLowHigh" value="low">
+        <label for="sortLowHigh">Price: Low to High</label>
+      </div>
+      <div class="filter-checkbox">
+        <input type="radio" name="sort" id="sortHighLow" value="high">
+        <label for="sortHighLow">Price: High to Low</label>
+      </div>
+    </div>
+
+    <div class="filter-section">
+      <div class="filter-section-title">Dietary Preferences</div>
+      <div class="filter-checkbox">
+        <input type="checkbox" id="filterHighProtein">
+        <label for="filterHighProtein">High Protein (>15g)</label>
+      </div>
+      <div class="filter-checkbox">
+        <input type="checkbox" id="filterLowCarb">
+        <label for="filterLowCarb">Low Carb (&lt;30g)</label>
+      </div>
+    </div>
+
+    <button class="apply-filters" onclick="applyFilters()">Apply Filters</button>
+  </div>
+  <div id="loadingPopup" class="loading-popup">
+    <div class="loading-spinner"></div>
+    <div>Loading food items...</div>
+  </div>
+  <script>
+    let allFoodData = [];
+    let outletMenus = [];
+    let currentDisplayedData = [];
+    let lastScrollTop = 0;
+    const navbar = document.getElementById('navbar');
+    const darkModeToggle = document.getElementById('darkModeToggle');
+    const body = document.body;
+
+    // --- Dark Mode Logic ---
+    /**
+     * Toggles dark mode on or off.
+     * Stores the user's preference in local storage.
+     */
+    function toggleDarkMode() {
+      body.classList.toggle('dark-mode');
+      const isDarkMode = body.classList.contains('dark-mode');
+      localStorage.setItem('darkMode', isDarkMode);
+      updateDarkModeIcon(isDarkMode);
+    }
+
+    /**
+     * Updates the dark mode toggle icon based on the current theme.
+     * @param {boolean} isDarkMode - True if dark mode is active, false otherwise.
+     */
+    function updateDarkModeIcon(isDarkMode) {
+      const icon = darkModeToggle.querySelector('i');
+      if (isDarkMode) {
+        icon.classList.remove('fa-moon');
+        icon.classList.add('fa-sun');
+        icon.title = 'Switch to Light Mode';
+      } else {
+        icon.classList.remove('fa-sun');
+        icon.classList.add('fa-moon');
+        icon.title = 'Switch to Dark Mode';
+      }
+    }
+
+    // Initialize dark mode based on user's preference or system setting
+    function initializeDarkMode() {
+      const savedMode = localStorage.getItem('darkMode');
+      if (savedMode === 'true') {
+        body.classList.add('dark-mode');
+        updateDarkModeIcon(true);
+      } else if (savedMode === null && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        // If no preference saved, check system preference
+        body.classList.add('dark-mode');
+        updateDarkModeIcon(true);
+      } else {
+        updateDarkModeIcon(false);
+      }
+    }
+
+    // Event listener for dark mode toggle button
+    darkModeToggle.addEventListener('click', toggleDarkMode);
+    // Listen for system theme changes
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', event => {
+      // Only update if user hasn't explicitly set a preference
+      if (localStorage.getItem('darkMode') === null) {
+        if (event.matches) {
+          body.classList.add('dark-mode');
+          updateDarkModeIcon(true);
+        } else {
+          body.classList.remove('dark-mode');
+          updateDarkModeIcon(false);
+        }
+      }
+    });
+
+    // --- Navbar hide on scroll ---
+    window.addEventListener('scroll', () => {
+      const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+      if (scrollTop > lastScrollTop && scrollTop > 100) {
+        navbar.classList.add('hidden');
+      } else {
+        navbar.classList.remove('hidden');
+      }
+      lastScrollTop = scrollTop;
+    });
+
+    /**
+     * Creates and appends skeleton loader cards to the outlet list.
+     * This provides a visual cue that content is being loaded.
+     */
+    function createSkeletonLoader() {
+      const outletList = document.getElementById('outletList');
+      // Clear existing content before adding skeletons
+      outletList.innerHTML = '';
+      for (let i = 0; i < 4; i++) { // Add 4 skeleton cards
+        const skeletonCard = document.createElement('div');
+        skeletonCard.className = 'skeleton-card';
+        skeletonCard.innerHTML = `
+          <div class="skeleton-header">
+            <div class="skeleton-title skeleton-loader"></div>
+            <div class="skeleton-actions">
+              <div class="skeleton-button skeleton-loader"></div>
+            </div>
+          </div>
+        `;
+        outletList.appendChild(skeletonCard);
+      }
+    }
+
+    /**
+     * Fetches food data and outlet menus from the specified URLs.
+     * Displays a loading popup and skeleton loaders during the fetch operation.
+     */
+    async function fetchFoodData() {
+      try {
+        // Show skeleton loading immediately
+        createSkeletonLoader();
+
+        // Show loading popup with animation
+        const loadingPopup = document.getElementById('loadingPopup');
+        loadingPopup.style.display = 'flex';
+        // Small delay to ensure display:flex takes effect before adding 'show' class
+        setTimeout(() => loadingPopup.classList.add('show'), 10);
+
+        // Fetch food data and outlet menus concurrently
+        const [foodResponse, menuResponse] = await Promise.all([
+          fetch("https://pufood.xyz/data.json"),
+          fetch("https://pufood.xyz/outletMenus.json")
+        ]);
+
+        // Check if responses are successful
+        if (!foodResponse.ok || !menuResponse.ok) {
+          throw new Error('Failed to fetch data');
+        }
+
+        // Parse JSON responses
+        const [foodData, menuData] = await Promise.all([
+          foodResponse.json(),
+          menuResponse.json()
+        ]);
+
+        // Store fetched data globally
+        allFoodData = foodData;
+        currentDisplayedData = [...allFoodData]; // Initialize with all data
+        outletMenus = menuData;
+
+        // Add a small delay for smoother transition from skeleton to actual content
+        setTimeout(() => {
+          displayOutlets(currentDisplayedData); // Display the fetched data
+          setupSearch(); // Initialize search functionality
+        }, 300); // 300ms delay
+      } catch (error) {
+        console.error('Error loading data:', error);
+        // Display an error message if data fetching fails
+        document.getElementById("outletList").innerHTML =
+          '<div class="no-results">Failed to load data. Please try again later.</div>';
+      } finally {
+        // Hide loading popup with animation, regardless of success or failure
+        const loadingPopup = document.getElementById('loadingPopup');
+        loadingPopup.classList.remove('show');
+        // Small delay to allow fade-out animation before hiding completely
+        setTimeout(() => loadingPopup.style.display = 'none', 300);
+      }
+    }
+
+    /**
+     * Calculates the estimated queue waiting time based on the current time.
+     * @returns {string} The estimated waiting time string.
+     */
+    function getQueueWaitingTime() {
+      const now = new Date();
+      const hour = now.getHours();
+      const minute = now.getMinutes();
+
+      // Convert current time to minutes for easier comparison
+      const currentTimeInMinutes = hour * 60 + minute;
+
+      // Define time slots in minutes
+      const slot1Start = 11 * 60; // 11:00 AM
+      const slot1End = 13 * 60;   // 1:00 PM (13:00)
+
+      const slot2Start = 16 * 60; // 4:00 PM (16:00)
+      const slot2End = 18 * 60;   // 6:00 PM (18:00)
+
+      const slot3Start = 19 * 60; // 7:00 PM (19:00)
+      const slot3End = 20 * 60;   // 8:00 PM (20:00)
+
+      const slot4Start = 20 * 60; // 8:00 PM (20:00)
+      const slot4End = 21 * 60;   // 9:00 PM (21:00)
+
+      const shopClosedStart = 21 * 60 + 30; // 9:30 PM (21:30)
+      const shopClosedEnd = 7 * 60 + 30;   // 7:30 AM (7:30) - This will cross midnight
+
+      // Handle overnight closed period
+      if (currentTimeInMinutes >= shopClosedStart || currentTimeInMinutes < shopClosedEnd) {
+        return 'Shop Closed';
+      } else if (currentTimeInMinutes >= slot1Start && currentTimeInMinutes < slot1End) {
+        return 'Min 15 min queue';
+      } else if (currentTimeInMinutes >= slot2Start && currentTimeInMinutes < slot2End) {
+        return 'Bit queue (approx. 5-10 min)';
+      } else if (currentTimeInMinutes >= slot3Start && currentTimeInMinutes < slot3End) {
+        return 'Approx. 10 min queue';
+      } else if (currentTimeInMinutes >= slot4Start && currentTimeInMinutes < slot4End) {
+        return '20 min+ queue';
+      } else {
+        return 'Less than 5 min queue (Take & Go)';
+      }
+    }
+
+    /**
+     * Displays food outlets and their respective menus based on the provided data.
+     * @param {Array} displayData - The array of food items to display.
+     */
+    function displayOutlets(displayData = currentDisplayedData) {
+      const outletList = document.getElementById("outletList");
+      // Clear current content immediately to prepare for new content
+      outletList.innerHTML = "";
+
+      // If no data to display, show a no results message
+      if (displayData.length === 0) {
+        outletList.innerHTML = '<div class="no-results">No matching food items found.</div>';
+        return;
+      }
+
+      // Get unique outlet names and sort them alphabetically
+      const outlets = [...new Set(displayData.map(food => food.outlet))];
+      outlets.sort();
+
+      const queueTime = getQueueWaitingTime(); // Get current queue time once
+
+      // Iterate over each unique outlet to create its card
+      outlets.forEach((outletName, index) => {
+        const outletCard = document.createElement("div");
+        outletCard.classList.add("outlet-card");
+        // Add a delay for each card to appear staggered
+        outletCard.style.transitionDelay = `${index * 0.05}s`;
+
+        const outletHeader = document.createElement("div");
+        outletHeader.classList.add("outlet-header");
+
+        // Container for outlet name, queue time, and menu button (left side)
+        const outletInfo = document.createElement("div");
+        outletInfo.classList.add("outlet-info");
+
+        const nameDiv = document.createElement("div");
+        nameDiv.classList.add("outlet-name");
+        nameDiv.textContent = outletName;
+        outletInfo.appendChild(nameDiv);
+
+        // Add queue time display to outletInfo
+        const queueTimeDiv = document.createElement("div");
+        queueTimeDiv.classList.add("queue-time");
+        if (queueTime === 'Shop Closed') {
+          queueTimeDiv.classList.add('closed');
+          queueTimeDiv.innerHTML = `<i class="fas fa-door-closed"></i> ${queueTime}`;
+        } else {
+          queueTimeDiv.innerHTML = `<i class="far fa-clock"></i> ${queueTime}`;
+        }
+        outletInfo.appendChild(queueTimeDiv);
+
+        const menuBtn = document.createElement("button");
+        menuBtn.classList.add("menu-btn");
+        menuBtn.innerHTML = '<i class="fas fa-book-open"></i> Menu';
+        outletInfo.appendChild(menuBtn); // Append menu button to outletInfo
+
+        // Container for toggle icon (right side)
+        const outletActions = document.createElement("div");
+        outletActions.classList.add("outlet-actions");
+
+        // Re-added the toggle icon as per user request
+        const toggleIcon = document.createElement("div");
+        toggleIcon.classList.add("outlet-toggle");
+        toggleIcon.innerHTML = '<i class="fas fa-chevron-down"></i>';
+
+        // Find the corresponding outlet menu link
+        const outletMenu = outletMenus.find(menu => {
+          const menuName = menu.name.toLowerCase().trim();
+          const outletNameLower = outletName.toLowerCase().trim();
+          // Check for exact match, includes, or partial includes for robustness
+          return menuName === outletNameLower || menuName.includes(outletNameLower) || outletNameLower.includes(menuName);
+        });
+
+        // If a menu link is found, enable the menu button
+        if (outletMenu) {
+          menuBtn.addEventListener("click", (e) => {
+            e.stopPropagation(); // Prevent card expansion when clicking menu button
+            window.open(outletMenu.link.trim(), '_blank'); // Open menu in new tab
+          });
+        } else {
+          // Disable button if no menu is available
+          menuBtn.disabled = true;
+          menuBtn.style.opacity = "0.5";
+          menuBtn.title = "Menu not available";
+        }
+
+        // Append elements to outletActions
+        outletActions.appendChild(toggleIcon);   // Toggle icon
+
+        outletHeader.appendChild(outletInfo);    // Append the left info container
+        outletHeader.appendChild(outletActions); // Append the right actions container
+
+
+        const menuDiv = document.createElement("div");
+        menuDiv.classList.add("outlet-menu");
+
+        // Filter food items belonging to the current outlet
+        const outletFoods = displayData.filter(food => food.outlet === outletName);
+        outletFoods.forEach((food, foodIndex) => {
+          const foodItem = document.createElement("div");
+          foodItem.classList.add("food-item");
+          // Add a delay for each food item to appear staggered
+          foodItem.style.transitionDelay = `${foodIndex * 0.03}s`;
+
+          const foodName = document.createElement("div");
+          foodName.classList.add("food-name");
+          foodName.textContent = food.name;
+          foodItem.appendChild(foodName);
+
+          const foodPrice = document.createElement("div");
+          foodPrice.classList.add("food-price");
+          foodPrice.textContent = `₹${food.price}`;
+          foodItem.appendChild(foodPrice);
+
+          const foodMacros = document.createElement("div");
+          foodMacros.classList.add("food-macros");
+          foodMacros.innerHTML = `
+            <div>Protein: ${food.protein}g</div>
+            <div>Carbs: ${food.carbs}g</div>
+            <div>Fat: ${food.fat}g</div>
+          `;
+          foodItem.appendChild(foodMacros);
+
+          // Container for action buttons (More Info and Share)
+          const foodActions = document.createElement("div");
+          foodActions.classList.add("food-actions");
+
+          const moreInfoBtn = document.createElement("button");
+          moreInfoBtn.classList.add("more-info-btn");
+          moreInfoBtn.innerHTML = '<i class="fas fa-info-circle"></i> More Info';
+          moreInfoBtn.addEventListener("click", (e) => {
+            e.stopPropagation(); // Prevent card expansion
+            // Open Perplexity AI search for more info
+            window.open(`https://www.perplexity.ai/search?q=${encodeURIComponent(food.name)}&mode=reader`, '_blank');
+          });
+          foodActions.appendChild(moreInfoBtn); // Append to foodActions
+
+          // Share Button
+          const shareBtn = document.createElement("button");
+          shareBtn.classList.add("share-btn");
+          shareBtn.innerHTML = '<i class="fas fa-share-alt"></i> Share';
+          shareBtn.addEventListener("click", (e) => {
+            e.stopPropagation(); // Prevent card expansion
+            shareFoodItem(food); // Call the share function
+          });
+          foodActions.appendChild(shareBtn); // Append to foodActions
+
+          foodItem.appendChild(foodActions); // Append the actions container to foodItem
+
+          menuDiv.appendChild(foodItem);
+        });
+
+        outletCard.appendChild(outletHeader);
+        outletCard.appendChild(menuDiv);
+
+        // Add click listener to toggle card expansion
+        outletCard.addEventListener("click", () => {
+          outletCard.classList.toggle("expanded");
+          // Trigger staggered animation for food items when expanded
+          if (outletCard.classList.contains('expanded')) {
+            setTimeout(() => {
+              menuDiv.querySelectorAll('.food-item').forEach(item => {
+                item.classList.add('show');
+              });
+            }, 100); // Small delay after menu starts expanding
+          } else {
+            menuDiv.querySelectorAll('.food-item').forEach(item => {
+              item.classList.remove('show');
+            });
+          }
+        });
+
+        outletList.appendChild(outletCard);
+        // Trigger entrance animation for the outlet card itself
+        setTimeout(() => {
+          outletCard.classList.add('show');
+        }, 50); // Small delay for staggered animation of cards
+      });
+    }
+
+    /**
+     * Shares the details of a specific food item using the Web Share API or a fallback.
+     * @param {object} food - The food item object to share.
+     */
+    async function shareFoodItem(food) {
+      const shareText = `🥘-${food.name}\n📍-${food.outlet}\n💰-Price: ₹${food.price}\n💪-Protein: ${food.protein}g\n🍃-Carbs: ${food.carbs}g\n😩-Fat: ${food.fat}g\nCheck it out on PUFood!\nhttps://www.pufood.xyz`;
+
+      if (navigator.share) {
+        try {
+          await navigator.share({
+            title: food.name,
+            text: shareText,
+            // url: window.location.href // You can add the current page URL if relevant
+          });
+          console.log('Food item shared successfully');
+        } catch (error) {
+          console.error('Error sharing food item:', error);
+        }
+      } else {
+        // Fallback for browsers that do not support the Web Share API
+        // Using document.execCommand('copy') as navigator.clipboard.writeText() might not work in iframes
+        const tempTextArea = document.createElement('textarea');
+        tempTextArea.value = shareText;
+        document.body.appendChild(tempTextArea);
+        tempTextArea.select();
+        try {
+          const successful = document.execCommand('copy');
+          const msg = successful ? 'Text copied to clipboard!' : 'Failed to copy text.';
+          alert(`You can share this food item manually:\n\n${shareText}\n\n${msg}`);
+        } catch (err) {
+          console.error('Fallback: Oops, unable to copy', err);
+          alert(`You can share this food item manually:\n\n${shareText}`);
+        }
+        document.body.removeChild(tempTextArea);
+      }
+    }
+
+
+    // Event listener for the filter button to toggle the filter menu visibility
+    document.getElementById('filterButton').addEventListener('click', () => {
+      document.getElementById('filterMenu').classList.toggle('show');
+    });
+
+    // Close filter menu when clicking outside of it or the filter button
+    document.addEventListener('click', (e) => {
+      const filterMenu = document.getElementById('filterMenu');
+      const filterButton = document.getElementById('filterButton');
+      const darkModeBtn = document.getElementById('darkModeToggle'); // Include dark mode button
+      if (!filterMenu.contains(e.target) && !filterButton.contains(e.target) && !darkModeBtn.contains(e.target)) {
+        filterMenu.classList.remove('show');
+      }
+    });
+
+    /**
+     * Applies filters based on user selections (price range, sort order, dietary preferences).
+     * Updates the displayed food items accordingly.
+     */
+    function applyFilters() {
+      const minPrice = Number(document.getElementById('minPrice').value) || 0;
+      const maxPrice = Number(document.getElementById('maxPrice').value) || Infinity;
+      const sortLowHigh = document.getElementById('sortLowHigh').checked;
+      const sortHighLow = document.getElementById('sortHighLow').checked;
+      const filterHighProtein = document.getElementById('filterHighProtein').checked;
+      const filterLowCarb = document.getElementById('filterLowCarb').checked;
+
+      let filteredData = allFoodData.filter(food => {
+        const price = Number(food.price);
+        const protein = Number(food.protein);
+        const carbs = Number(food.carbs);
+
+        // Apply price range filter
+        const passesPrice = price >= minPrice && (maxPrice === Infinity || price <= maxPrice);
+        // Apply high protein filter
+        const passesHighProtein = !filterHighProtein || protein > 15;
+        // Apply low carb filter
+        const passesLowCarb = !filterLowCarb || carbs < 30;
+
+        return passesPrice && passesHighProtein && passesLowCarb;
+      });
+
+      // Apply sorting based on selected radio button
+      if (sortLowHigh) {
+        filteredData.sort((a, b) => a.price - b.price);
+      } else if (sortHighLow) {
+        filteredData.sort((a, b) => b.price - a.price);
+      }
+
+      currentDisplayedData = filteredData; // Update currently displayed data
+      displayOutlets(filteredData); // Re-render outlets with filtered data
+      document.getElementById('filterMenu').classList.remove('show'); // Hide filter menu
+    }
+
+    /**
+     * Sets up the search functionality.
+     * Filters food items based on search term(s) in food name or outlet name.
+     */
+    function setupSearch() {
+      const searchBox = document.getElementById("searchBox");
+      searchBox.addEventListener("input", (e) => {
+        const searchTerm = e.target.value.toLowerCase().trim(); // Get and clean search term
+
+        if (searchTerm === "") {
+          currentDisplayedData = [...allFoodData]; // If empty, show all data
+        } else {
+          // Split search term into individual keywords
+          const keywords = searchTerm.split(/\s+/).filter(keyword => keyword.length > 0);
+
+          currentDisplayedData = allFoodData.filter(food => {
+            const foodNameLower = food.name.toLowerCase();
+            const outletNameLower = food.outlet.toLowerCase();
+
+            // Check if ALL keywords are present in either food name or outlet name
+            return keywords.every(keyword =>
+              foodNameLower.includes(keyword) || outletNameLower.includes(keyword)
+            );
+          });
+        }
+        displayOutlets(currentDisplayedData); // Re-render with filtered data
+      });
+    }
+
+    // Initialize dark mode and fetch data when the window loads
+    window.addEventListener('load', () => {
+      initializeDarkMode();
+      fetchFoodData();
+      // Update queue time every minute
+      setInterval(() => {
+        // Re-display outlets to update queue time
+        displayOutlets(currentDisplayedData);
+      }, 60 * 1000);
+    });
+
+    // Add smooth scroll behavior for a better user experience
+    document.documentElement.style.scrollBehavior = 'smooth';
+
+    // Add passive touch listener for performance optimization on touch devices
+    document.addEventListener('touchstart', function () { }, { passive: true });
+
+    // Optimize performance with passive scroll listener
+    window.addEventListener('scroll', () => { }, { passive: true });
+  </script>
+  <script>
+    // Generate a unique user number (timestamp + random string)
+    function generateUserNumber() {
+      return 'USER-' + Date.now() + '-' + Math.random().toString(36).substr(2, 9);
+    }
+
+    // Fetch visitor details and send to Google Apps Script
+    async function logVisitor() {
+      try {
+        // Fetch IP and geolocation details from ipapi.co
+        const response = await fetch('https://ipapi.co/json/');
+        const data = await response.json();
+
+        // Extract relevant data
+        const ipAddress = data.ip || 'Unknown';
+        const userAgent = navigator.userAgent || 'Unknown';
+        const referrer = document.referrer || 'Unknown';
+        const userNumber = generateUserNumber();
+        const city = data.city || 'Unknown';
+        const state = data.region || 'Unknown'; // 'region' is the state or province
+        const country = data.country_name || 'Unknown';
+        const isp = data.org || 'Unknown';
+
+        // Prepare payload for Google Apps Script
+        const payload = {
+          userNumber: userNumber,
+          ipAddress: ipAddress,
+          userAgent: userAgent,
+          referrer: referrer,
+          city: city,
+          state: state,
+          country: country,
+          isp: isp
+        };
+
+        // Send data to Google Apps Script
+        await fetch('https://script.google.com/macros/s/AKfycbzOJaEz5VgehZAAiBwfQBTufA65YxuZ1S_gHJU0Xoghfa5mBd3sMh-lbQClwiWKDvcDTw/exec', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload),
+          mode: 'cors' // Enable CORS for cross-origin requests
+        });
+      } catch (error) {
+        console.error('Error logging visitor:', error);
+      }
+    }
+
+    // Run when page loads
+    window.onload = logVisitor;
+  </script>
+</body>
+
+</html>
