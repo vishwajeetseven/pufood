@@ -31,3 +31,5 @@ python -m http.server 8000
 ```
 
 Then open `http://localhost:8000` in your browser.
+
+You can also open `web/index.html` directly in a browser (`file://...`); outlet data is bundled for local-file usage.

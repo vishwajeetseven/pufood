@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+  <script src="data/local-outlet-data.js"></script>
   <script>
     // Check if device is Android
     function isAndroid() {
@@ -1361,7 +1362,34 @@
       }
     });
 
+    function getBundledLocalData(url) {
+      const bundledData = window.PUFOOD_LOCAL_DATA;
+      if (!bundledData) return null;
+
+      const relativeMatch = url.match(/data\/outlets\/[^?#]+/);
+      if (relativeMatch && bundledData[relativeMatch[0]]) {
+        return JSON.parse(JSON.stringify(bundledData[relativeMatch[0]]));
+      }
+
+      try {
+        const parsedUrl = new URL(url, window.location.href);
+        const fileMatch = parsedUrl.pathname.match(/data\/outlets\/[^?#]+/);
+        if (fileMatch && bundledData[fileMatch[0]]) {
+          return JSON.parse(JSON.stringify(bundledData[fileMatch[0]]));
+        }
+      } catch (error) {
+        console.warn('Unable to parse URL for bundled data:', error);
+      }
+
+      return null;
+    }
+
     async function fetchWithRetry(url, maxRetries = 3) {
+      const bundledData = getBundledLocalData(url);
+      if (bundledData) {
+        return bundledData;
+      }
+
       // Try to get data from cache first
       try {
         const cachedData = localStorage.getItem(url);
