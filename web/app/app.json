@@ -1,5 +1,0 @@
-{ 
-  "version": "1.0.1",
-  "apk_url": "https://github.com/iad1tya/pufood-/releases/download/1.0.1/PUFood.apk",
-  "release_notes": "New Features\n- Expandable food item cards with detailed nutrition info\n- Interactive \"Add to Compare\" button in expanded cards\n- Radar chart for nutrition comparison\n- Faster app launch (removed default splash screen)\n\nImprovements\n- Enhanced UI responsiveness\n- Better nutrition data visualization\n- Improved layout across different screen sizes\n- Smoother animations and transitions\n\nBug Fixes\n- Fixed layout issues on various devices\n- Improved error handling\n- Enhanced overall stability"
-}
