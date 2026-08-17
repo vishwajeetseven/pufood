@@ -1,0 +1,385 @@
+{
+  "id": "tea-post",
+  "name": "Tea Post",
+  "menuLink": "https://www.pufood.xyz/Menu/Tea%20Post.pdf",
+  "items": [
+    {
+      "name": "Hot Tea (Half)",
+      "price": 12,
+      "protein": 0,
+      "carbs": 7,
+      "fat": 0,
+      "calories": 27,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Hot Tea (Full)",
+      "price": 20,
+      "protein": 0,
+      "carbs": 14,
+      "fat": 0,
+      "calories": 54,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Indian Masala Tea",
+      "price": 30,
+      "protein": 0,
+      "carbs": 15,
+      "fat": 0,
+      "calories": 60,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Pudina Elaichi Tea",
+      "price": 30,
+      "protein": 0,
+      "carbs": 14,
+      "fat": 0,
+      "calories": 57,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Ginger Pudina Tea",
+      "price": 30,
+      "protein": 0,
+      "carbs": 14,
+      "fat": 0,
+      "calories": 57,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Zafran Tea",
+      "price": 35,
+      "protein": 0,
+      "carbs": 14,
+      "fat": 0,
+      "calories": 57,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Black Tea",
+      "price": 60,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "calories": 0,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Kavo",
+      "price": 60,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 0,
+      "calories": 11,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Green Tea",
+      "price": 60,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "calories": 1,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Healthy Tea",
+      "price": 60,
+      "protein": 0,
+      "carbs": 10,
+      "fat": 0,
+      "calories": 40,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Classic Cold Coffee",
+      "price": 80,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 2,
+      "calories": 89,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Cappuccino",
+      "price": 90,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 5,
+      "calories": 146,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Hazelnut Cold Coffee",
+      "price": 90,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 3,
+      "calories": 107,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Irish Cold Coffee",
+      "price": 90,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 8,
+      "calories": 202,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Mocha Cold Coffee",
+      "price": 90,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 6,
+      "calories": 180,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Kadak Kold Koffee",
+      "price": 90,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 8,
+      "calories": 227,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Black Coffee",
+      "price": 25,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "calories": 0,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Hot Coffee",
+      "price": 30,
+      "protein": 1,
+      "carbs": 15,
+      "fat": 0,
+      "calories": 69,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Hot Coffee Vanilla",
+      "price": 40,
+      "protein": 1,
+      "carbs": 13,
+      "fat": 0,
+      "calories": 59,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Hot Coffee Ginger",
+      "price": 40,
+      "protein": 1,
+      "carbs": 15,
+      "fat": 0,
+      "calories": 69,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Hot Coffee Elaichi",
+      "price": 40,
+      "protein": 1,
+      "carbs": 15,
+      "fat": 0,
+      "calories": 69,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Filter Coffee",
+      "price": 40,
+      "protein": 1,
+      "carbs": 15,
+      "fat": 0,
+      "calories": 69,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Hot Coffee Hazelnut",
+      "price": 40,
+      "protein": 1,
+      "carbs": 15,
+      "fat": 0,
+      "calories": 69,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Lemon Iced Tea",
+      "price": 30,
+      "protein": 0,
+      "carbs": 23,
+      "fat": 0,
+      "calories": 90,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Blueberry Mint Iced Tea",
+      "price": 30,
+      "protein": 0,
+      "carbs": 16,
+      "fat": 0,
+      "calories": 64,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Peach Iced Tea",
+      "price": 30,
+      "protein": 0,
+      "carbs": 27,
+      "fat": 0,
+      "calories": 106,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Fruit Punch",
+      "price": 40,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "calories": 110,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Lemon Ginger Chiller",
+      "price": 40,
+      "protein": 0,
+      "carbs": 18,
+      "fat": 0,
+      "calories": 72,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Masala Lemonade",
+      "price": 40,
+      "protein": 0,
+      "carbs": 26,
+      "fat": 0,
+      "calories": 104,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Mojito",
+      "price": 40,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "calories": 96,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Kala Khatta",
+      "price": 40,
+      "protein": 0,
+      "carbs": 40,
+      "fat": 0,
+      "calories": 157,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Chilli Mango",
+      "price": 40,
+      "protein": 0,
+      "carbs": 65,
+      "fat": 0,
+      "calories": 256,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Mineral Water (500ml)",
+      "price": 10,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "calories": 0,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Mineral Water (1ltr)",
+      "price": 20,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "calories": 0,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Chocolate Milkshake",
+      "price": 60,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 5,
+      "calories": 182,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Strawberry Milkshake",
+      "price": 60,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 5,
+      "calories": 211,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Mango Milkshake",
+      "price": 60,
+      "protein": 4,
+      "carbs": 45,
+      "fat": 5,
+      "calories": 240,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Oreo Milkshake",
+      "price": 50,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 10,
+      "calories": 301,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Cold Bournvita",
+      "price": 70,
+      "protein": 3,
+      "carbs": 35,
+      "fat": 2,
+      "calories": 174,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Cold Coco",
+      "price": 80,
+      "protein": 3,
+      "carbs": 45,
+      "fat": 10,
+      "calories": 274,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Hot Bournvita",
+      "price": 50,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 2,
+      "calories": 127,
+      "outlet": "Tea Post"
+    },
+    {
+      "name": "Hot Chocolate",
+      "price": 80,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 3,
+      "calories": 72,
+      "outlet": "Tea Post"
+    }
+  ]
+}

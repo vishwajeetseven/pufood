@@ -1,0 +1,215 @@
+{
+  "id": "konaseema-ruchulu-wfc-outside-campus",
+  "name": "Konaseema Ruchulu, WFC, Outside Campus",
+  "menuLink": "https://www.pufood.xyz/Menu/Konaseema.jpg",
+  "items": [
+    {
+      "name": "RS Konaseema Ruchulu",
+      "price": 249,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Pulao & Biryani",
+      "price": 199,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Egg Pulao (2 eggs)",
+      "price": 99,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Fry Piece Pulao",
+      "price": 119,
+      "protein": 20,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Joint Pulao",
+      "price": 149,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Fry Piece Biryani",
+      "price": 149,
+      "protein": 20,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Joint Biryani",
+      "price": 199,
+      "protein": 20,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Mughalai Biryani",
+      "price": 199,
+      "protein": 20,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Prawns Biryani",
+      "price": 199,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Fish Biryani",
+      "price": 199,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Dum Biryani Full",
+      "price": 149,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Dum Biryani Half",
+      "price": 119,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Boti Biryani",
+      "price": 179,
+      "protein": 20,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Mutton Dum Biryani",
+      "price": 199,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Apollo Fish Biryani",
+      "price": 149,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Egg Curry + White Rice + Curd",
+      "price": 199,
+      "protein": 20,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Andhra Chicken Curry + White Rice + Curd",
+      "price": 199,
+      "protein": 25,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Pickle Chicken Fry Piece + White Rice + Curd",
+      "price": 199,
+      "protein": 25,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Special Boneless Curry + White Rice + Curd",
+      "price": 199,
+      "protein": 25,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Fish Pulusu + White Rice + Curd",
+      "price": 199,
+      "protein": 25,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Boti Curry + White Rice + Curd",
+      "price": 199,
+      "protein": 25,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Peetala Pulusu + White Rice + Curd",
+      "price": 199,
+      "protein": 20,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Majjiga Pulusu + White Rice + Pickle",
+      "price": 199,
+      "protein": 25,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Mutton Paya + White Rice + Curd",
+      "price": 199,
+      "protein": 25,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Prawns Curry + White Rice + Curd",
+      "price": 199,
+      "protein": 25,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Keema + White Rice + Curd",
+      "price": 199,
+      "protein": 25,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Konaseema Ruchulu, WFC, Outside Campus"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "id": "new-zayaka-biryani-capitol",
+  "name": "New Zayaka Biryani, Capitol",
+  "menuLink": "https://www.pufood.xyz/Menu/Zayaka.pdf",
+  "items": [
+    {
+      "name": "Chicken Biryani",
+      "price": 140,
+      "protein": 25,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Chicken Rice",
+      "price": 120,
+      "protein": 20,
+      "carbs": 45,
+      "fat": 8,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Chicken Noodles",
+      "price": 120,
+      "protein": 22,
+      "carbs": 55,
+      "fat": 12,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Egg with Chicken Fried Rice",
+      "price": 110,
+      "protein": 28,
+      "carbs": 48,
+      "fat": 14,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Chicken Soup",
+      "price": 120,
+      "protein": 18,
+      "carbs": 12,
+      "fat": 6,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Chicken Bhel",
+      "price": 130,
+      "protein": 15,
+      "carbs": 60,
+      "fat": 10,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Chicken 65",
+      "price": 190,
+      "protein": 30,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Chicken Masala",
+      "price": 160,
+      "protein": 28,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Chicken Curry",
+      "price": 180,
+      "protein": 32,
+      "carbs": 20,
+      "fat": 14,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 200,
+      "protein": 35,
+      "carbs": 25,
+      "fat": 18,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "price": 200,
+      "protein": 38,
+      "carbs": 22,
+      "fat": 15,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Chicken Boneless",
+      "price": 180,
+      "protein": 40,
+      "carbs": 10,
+      "fat": 12,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Chicken Leg Piece",
+      "price": 150,
+      "protein": 32,
+      "carbs": 15,
+      "fat": 16,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Fish Curry",
+      "price": 180,
+      "protein": 30,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Chicken Lollipop (9 Pc)",
+      "price": 220,
+      "protein": 40,
+      "carbs": 25,
+      "fat": 20,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Chicken Lollipop (4 Pc)",
+      "price": 110,
+      "protein": 20,
+      "carbs": 12,
+      "fat": 10,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Chicken Tikka (Green)",
+      "price": 150,
+      "protein": 38,
+      "carbs": 10,
+      "fat": 14,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Chicken Tikka (Red)",
+      "price": 150,
+      "protein": 38,
+      "carbs": 10,
+      "fat": 14,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Chicken Tikka (White)",
+      "price": 150,
+      "protein": 38,
+      "carbs": 10,
+      "fat": 14,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Chicken Tandoori",
+      "price": 250,
+      "protein": 50,
+      "carbs": 10,
+      "fat": 20,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Fish Fry (1 Pc)",
+      "price": 60,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 8,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Tawa Roti (Plain)",
+      "price": 10,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 1,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Tawa Butter Roti",
+      "price": 15,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 3,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Lacha Paratha",
+      "price": 20,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Papad (Plain)",
+      "price": 10,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 1,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Papad (Fry)",
+      "price": 10,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "New Zayaka Biryani, Capitol"
+    },
+    {
+      "name": "Mineral Water",
+      "price": "MRP",
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "outlet": "New Zayaka Biryani, Capitol"
+    }
+  ]
+}

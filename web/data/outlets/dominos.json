@@ -1,0 +1,11 @@
+{
+  "id": "dominos",
+  "name": "Dominos",
+  "menuLink": "https://www.dominos.co.in/",
+  "items": [
+    {
+      "name": "Pizza",
+      "outlet": "Dominos"
+    }
+  ]
+}

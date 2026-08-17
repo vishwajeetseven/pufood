@@ -1,0 +1,863 @@
+{
+  "id": "messy-bowl-new-food-court",
+  "name": "Messy Bowl, New Food Court",
+  "menuLink": "https://www.pufood.xyz/Menu/Messy%20Bowl.pdf",
+  "items": [
+    {
+      "name": "Maggi Classic",
+      "price": 50,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Maggi Hakka",
+      "price": 90,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Maggi Classic (Extra Masala)",
+      "price": 60,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Schezwan Maggi",
+      "price": 80,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Butter Masala Maggi",
+      "price": 70,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Cheese Masala Maggi",
+      "price": 100,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Maggi Italiano",
+      "price": 100,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Veg Masala Maggi",
+      "price": 80,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Tandoori Maggi",
+      "price": 90,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Chilly Garlic Maggi",
+      "price": 80,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Exotic Veg Maggi",
+      "price": 120,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Peri Peri Maggi",
+      "price": 70,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Indian Tadka Maggi",
+      "price": 90,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Maggi Bhurji",
+      "price": 70,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Lasagna Maggi",
+      "price": 160,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Salted Fries",
+      "price": 90,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Peri Peri Fries",
+      "price": 100,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Butter Garlic Fries",
+      "price": 100,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Mexican Fries",
+      "price": 110,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Mexican Peri Peri Fries",
+      "price": 120,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Garlic Bread",
+      "price": 120,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Peri Peri Garlic Bread",
+      "price": 130,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Tandoori Garlic Bread",
+      "price": 140,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Penne Arabiata",
+      "price": 140,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Creamy Cheese Burst Pasta",
+      "price": 150,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Fusion Pasta",
+      "price": 150,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Tomato Tangy Pasta",
+      "price": 140,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Pesto Pasta",
+      "price": 160,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Nachos Platter",
+      "price": 160,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Mexican Nachos",
+      "price": 180,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Tandoori Nachos",
+      "price": 180,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Thousand Island Nachos",
+      "price": 180,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Mayo Peri Peri Nachos",
+      "price": 180,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Cheese Balls",
+      "price": 130,
+      "protein": 10,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Chilly Garlic Pops",
+      "price": 130,
+      "protein": 5,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Jalapeno Cheese Pop",
+      "price": 130,
+      "protein": 5,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Veg Sandwich",
+      "price": 90,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "price": 110,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Chilly Garlic Sandwich",
+      "price": 130,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Mexican Sandwich",
+      "price": 140,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Tandoori Paneer Sandwich",
+      "price": 200,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 80,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Cold Coffee with Topping",
+      "price": 90,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Cold Coffee with Ice Cream",
+      "price": 110,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Thick Coffee",
+      "price": 130,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Oreo Coffee",
+      "price": 90,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Affogato",
+      "price": 110,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Kitkat Coffee",
+      "price": 100,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Toffee Twisted Coffee",
+      "price": 90,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Choco Frappe",
+      "price": 130,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Hazelnut Coffee",
+      "price": 130,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Ginger Ale Espresso",
+      "price": 150,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Tonic Espresso",
+      "price": 150,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Mocha",
+      "price": 120,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Cappuccino",
+      "price": 80,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Toffee Cappuccino",
+      "price": 90,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Vanilla Cappuccino",
+      "price": 100,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Café Latte",
+      "price": 90,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Americano",
+      "price": 70,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Hot Chocolate",
+      "price": 90,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Caramel Hot Chocolate",
+      "price": 120,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Hazelnut Hot Chocolate",
+      "price": 130,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Vanilla Milk Shake",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Strawberry Milk Shake",
+      "price": 100,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Mango Milk Shake",
+      "price": 100,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Pineapple Milk Shake",
+      "price": 100,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Chocolate Milk Shake",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Blue Pina Colada Milk Shake",
+      "price": 100,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Mix Fruit Milk Shake",
+      "price": 100,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Black Currant Milk Shake",
+      "price": 100,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Very Berry Milk Shake",
+      "price": 110,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Butter Scotch Milk Shake",
+      "price": 110,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Blue Hawaiian Punch Milk Shake",
+      "price": 100,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Any Flavor Milk Shake",
+      "price": 100,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Black Currant Shake",
+      "price": 150,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Kitkat Shake",
+      "price": 150,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Oreo Shake",
+      "price": 150,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Smooth Silk Shake",
+      "price": 150,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Brownie Shake",
+      "price": 180,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Ferrero Rocher Shake",
+      "price": 180,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Water Bottle",
+      "price": 40,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Cold Drink",
+      "price": 50,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Red Bull",
+      "price": 150,
+      "protein": 0,
+      "carbs": 27,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Coolberg",
+      "price": 150,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Energy Drink",
+      "price": 150,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "price": 100,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Chocolate Ice Cream",
+      "price": 100,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Brownie",
+      "price": 140,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Brownie with Ice Cream",
+      "price": 170,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Lemon Mint Mojito",
+      "price": 70,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Strawberry Mojito",
+      "price": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Orange Mojito",
+      "price": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Watermelon Mojito",
+      "price": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Kiwi Mojito",
+      "price": 90,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Green Apple Mojito",
+      "price": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Guava Mojito",
+      "price": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Blue Berry Mojito",
+      "price": 90,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Black Currant Mojito",
+      "price": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Very Berry Mojito",
+      "price": 90,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Kacha Aam Mojito",
+      "price": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Mango Mojito",
+      "price": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Peach Mojito",
+      "price": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Litchi Mojito",
+      "price": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Green Mint Mojito",
+      "price": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Blue Lagoon Mojito",
+      "price": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Mix Fruit Mojito",
+      "price": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    },
+    {
+      "name": "Any above flavor Slush",
+      "price": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Messy Bowl, New Food Court"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "id": "day-night-vadapav-and-dabeli-greenzy",
+  "name": "Day Night Vadapav & Dabeli, Greenzy",
+  "menuLink": null,
+  "items": [
+    {
+      "name": "Bombay Style Vadapav (Non Hot)",
+      "price": 30,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 8,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Aamchi Mumbai Vadapav (Non Hot)",
+      "price": 35,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 9,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Gravy Masala Vadapav",
+      "price": 30,
+      "protein": 7,
+      "carbs": 43,
+      "fat": 10,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Sp. Dry Masala Vadapav",
+      "price": 40,
+      "protein": 7,
+      "carbs": 45,
+      "fat": 11,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Sp. Lasaniya Vadapav",
+      "price": 40,
+      "protein": 7,
+      "carbs": 44,
+      "fat": 12,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Sp. Thecha Vadapav (Maharashtrian)",
+      "price": 40,
+      "protein": 8,
+      "carbs": 46,
+      "fat": 12,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Spicy Lover Vadapav",
+      "price": 35,
+      "protein": 7,
+      "carbs": 42,
+      "fat": 10,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Day Night Signature Vadapav",
+      "price": 55,
+      "protein": 9,
+      "carbs": 50,
+      "fat": 14,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "U Swaminarayan Sp. Vadapav",
+      "price": 35,
+      "protein": 7,
+      "carbs": 42,
+      "fat": 10,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Jain Special Vadapav",
+      "price": 50,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 8,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Regular Dabeli",
+      "price": 25,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 7,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Jumbo Kadak Dabeli",
+      "price": 75,
+      "protein": 10,
+      "carbs": 55,
+      "fat": 15,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Housefull Katka Dabeli",
+      "price": 85,
+      "protein": 12,
+      "carbs": 60,
+      "fat": 16,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Aflatoon Dabeli",
+      "price": 95,
+      "protein": 14,
+      "carbs": 65,
+      "fat": 18,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Veg Burger",
+      "price": 55,
+      "protein": 10,
+      "carbs": 50,
+      "fat": 14,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Peri-Peri Burger Vadapav",
+      "price": 65,
+      "protein": 12,
+      "carbs": 52,
+      "fat": 15,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Schezwan Burger Vadapav",
+      "price": 75,
+      "protein": 12,
+      "carbs": 54,
+      "fat": 16,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Classic Fries",
+      "price": 49,
+      "protein": 4,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Peri Peri Fries",
+      "price": 69,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 14,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Mexican Cheesy Fries",
+      "price": 79,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 16,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Cheese Poppers",
+      "price": 99,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 18,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Bread Pakoda (Regular)",
+      "price": 30,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    },
+    {
+      "name": "Sabudana Vada (3 pcs)",
+      "price": 45,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 12,
+      "outlet": "Day Night Vadapav & Dabeli, Greenzy"
+    }
+  ]
+}

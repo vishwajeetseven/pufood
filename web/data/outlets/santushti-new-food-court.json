@@ -1,0 +1,1575 @@
+{
+  "id": "santushti-new-food-court",
+  "name": "Santushti, New Food Court",
+  "menuLink": "https://www.pufood.xyz/Menu/Santooshti.pdf",
+  "items": [
+    {
+      "name": "Heavenly Vanilla Thick Shake",
+      "price": 80,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 8,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Belgian Dip Thick Shake",
+      "price": 90,
+      "protein": 5,
+      "carbs": 32,
+      "fat": 9,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Choco Pie Thick Shake",
+      "price": 90,
+      "protein": 4,
+      "carbs": 34,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Gem Of Gems Thick Shake",
+      "price": 90,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 9,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Munch Mania Thick Shake",
+      "price": 95,
+      "protein": 5,
+      "carbs": 36,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Choco Vanilla Thick Shake",
+      "price": 110,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 12,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Cadbury Fruit & Nut Thick Shake",
+      "price": 110,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 14,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Oreo Cookie Thick Shake",
+      "price": 120,
+      "protein": 7,
+      "carbs": 42,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Swiss Chocolate Thick Shake",
+      "price": 130,
+      "protein": 8,
+      "carbs": 45,
+      "fat": 16,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Brownie Nutella Thick Shake",
+      "price": 140,
+      "protein": 9,
+      "carbs": 48,
+      "fat": 18,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Death by Chocolate Thick Shake",
+      "price": 170,
+      "protein": 10,
+      "carbs": 50,
+      "fat": 20,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Premium Ferrero Rocher Thick Shake",
+      "price": 200,
+      "protein": 12,
+      "carbs": 55,
+      "fat": 22,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Belgian Dark Chocolate Shake",
+      "price": 200,
+      "protein": 10,
+      "carbs": 50,
+      "fat": 18,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Rajwadi Delight Nut Thick Shake",
+      "price": 170,
+      "protein": 8,
+      "carbs": 45,
+      "fat": 14,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Fresh Mango Fruit Thick Shake",
+      "price": 130,
+      "protein": 7,
+      "carbs": 42,
+      "fat": 12,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Berry's Treat Fruit Thick Shake",
+      "price": 160,
+      "protein": 8,
+      "carbs": 46,
+      "fat": 14,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Royal Kesar Falooda",
+      "price": 120,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Classic Cold Coffee",
+      "price": 80,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 8,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Classic Oreo Shake",
+      "price": 80,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 9,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Butter Scotch Bliss Milk Shake",
+      "price": 120,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 11,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Black Currant Milk Shake",
+      "price": 140,
+      "protein": 7,
+      "carbs": 40,
+      "fat": 12,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Snicker Hunger Milk Shake",
+      "price": 170,
+      "protein": 9,
+      "carbs": 50,
+      "fat": 18,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Special King Kulfi Milk Shake",
+      "price": 180,
+      "protein": 10,
+      "carbs": 55,
+      "fat": 20,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Choco Chips Coco",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Kitkat Coco",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Brownie Coco",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Red Velvet Coco",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Cheesecake",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Blueberry",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Red Velvet",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Choco Heaven",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Lotus Biscoff",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "SOFTY",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Vanilla",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "SOFTY SUNDAE",
+      "price": 50,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Choco Chips N Dips",
+      "price": 50,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Hot Fudge",
+      "price": 70,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Hot Fudge Brownie",
+      "price": 70,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Hot Fudge Oreo",
+      "price": 70,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "ICE CREAM Vanilla",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Fresh Pineapple",
+      "price": 90,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Fresh Strawberry",
+      "price": 90,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Butter Scotch",
+      "price": 90,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Cookies & Cream",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Kaju Draksh",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Anjeer Pession",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Black Current",
+      "price": 90,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Fresh Sitafal (s)",
+      "price": 90,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Espresso Cream",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "American Nuts",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Chocolate Chips",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Fresh Mango (s)",
+      "price": 90,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Roasted Almond",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Rose Petals",
+      "price": 90,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Mughal-E-Azam",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Spanish Saffron Crunch",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Mocha Brownie",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Rajbhog",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Belgian Chocolate",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Creamy Biscoff",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "ICE CREAMS (ZERO SUGAR) me Chocolate",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "SWISS WAFFLES",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Classic Black & White",
+      "price": 130,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Dark Knight",
+      "price": 130,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Kit Kat",
+      "price": 130,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "White Truffle",
+      "price": 130,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Club Oreo",
+      "price": 140,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Swiss Brownie",
+      "price": 140,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Brownie Kit Kat",
+      "price": 140,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Chocolate Overload",
+      "price": 140,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Crunchy Caramel",
+      "price": 140,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Nutella Kitkat",
+      "price": 140,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Praline Crispy Caramel",
+      "price": 140,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Swiss Choco Chips",
+      "price": 160,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Tripple Chocolate Paradise",
+      "price": 160,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Lotus Split",
+      "price": 160,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Naughty Nutella",
+      "price": 160,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Nutella Brownie",
+      "price": 160,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Nutella Kitkat Brownie",
+      "price": 160,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Pistachio Puro",
+      "price": 160,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Red velvet Cheesecake",
+      "price": 160,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "5 Ice Cream",
+      "price": 160,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Extra Filling",
+      "price": 30,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Topping",
+      "price": 30,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Nutella Filling",
+      "price": 30,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Vanilla Base OR Chocolate Base",
+      "price": 50,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Golden French Fries",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Achari Lemon Fries",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "American Cream & Onion Fries",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Fry O Peri Peri",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Mexican Fries",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Pudina Pataka",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Red Hot Fries",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Tandoori Fries",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Chilli Garlic Fries",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Fries Chettinad",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Cheeselicious Fries",
+      "price": 110,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Chilli Popcorn Fries",
+      "price": 110,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Butter Popcorn Fries",
+      "price": 110,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Cream N Onion Popcorn Fries",
+      "price": 110,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Salted Caramel Popcorn Fries",
+      "price": 110,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Chilli Potato Bites",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Tandoori Veg Strips",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Wacky Wedges",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Cheesy Bites",
+      "price": 100,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Loaded Fries (add on)",
+      "price": 50,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Cheese Jalapeno Dip",
+      "price": 20,
+      "protein": 2,
+      "carbs": 5,
+      "fat": 5,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Mayonnaise Dip",
+      "price": 20,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Chipotle Dip",
+      "price": 20,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 5,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Chilli Sauce Dip",
+      "price": 20,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Garlic Mayo Dip",
+      "price": 20,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Cheese Sauce Dip",
+      "price": 20,
+      "protein": 2,
+      "carbs": 5,
+      "fat": 5,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Waffle Cone",
+      "price": 10,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Heavenly Vanilla",
+      "price": 80,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Belgian Dip",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Choco Pie",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Gem Of Gems",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Munch Mania",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Choco Vanilla",
+      "price": 95,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Cadbury Fruit & Nut",
+      "price": 110,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Cadbury Silk",
+      "price": 110,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Oreo Cookie",
+      "price": 120,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Chocolate Brownie",
+      "price": 120,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Swiss Chocolate",
+      "price": 130,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Hershey's Almond Crunch",
+      "price": 130,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Kit Kat",
+      "price": 130,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Brown Oreo",
+      "price": 140,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Brownie Nutties",
+      "price": 140,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Red Velvet",
+      "price": 140,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Brownie Kit Kat",
+      "price": 150,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Lotus Biscoff",
+      "price": 170,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Death by Chocolate",
+      "price": 170,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Swiss Choco Brownie",
+      "price": 170,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Brownie Rocher",
+      "price": 180,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Nutties Rocher",
+      "price": 200,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Premium Ferrero Rocher",
+      "price": 200,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Extra Topping",
+      "price": 30,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Extra Fererro",
+      "price": 40,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Extra Nutella",
+      "price": 50,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Vanilla",
+      "price": 160,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Kaju Anjeer",
+      "price": 170,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Arriba Cacao",
+      "price": 180,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Belgian Dark Chocolate",
+      "price": 200,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Dark Choco Bournville",
+      "price": 200,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Dark Noir",
+      "price": 200,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Kaju Anjeer",
+      "price": 120,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Belgian Cashewnut",
+      "price": 120,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Kaju Gulkand",
+      "price": 120,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Nutty Butterscotch",
+      "price": 130,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Kaju Kiss Miss",
+      "price": 130,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Crunchy Saffron Nuts",
+      "price": 150,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Roasted Almond",
+      "price": 150,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Rajwadi Delight",
+      "price": 170,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Berry Berry Magic",
+      "price": 120,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Sitafal (s)",
+      "price": 120,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Juicy Strawberry (s)",
+      "price": 120,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Fresh Mango (s)",
+      "price": 130,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Mango Cashew Delight",
+      "price": 130,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Berry's Treat",
+      "price": 140,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Blue Berry Blast",
+      "price": 160,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Sitafal Cream",
+      "price": 140,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Strawberry Cream",
+      "price": 140,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Royal Kesar Falooda",
+      "price": 120,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Royal Rose Falooda",
+      "price": 120,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Santushti Special Falooda",
+      "price": 140,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Classic Cold Coffee",
+      "price": 80,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Classic Chocolate",
+      "price": 80,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Classic Oreo",
+      "price": 80,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Classic Cold Bournvita",
+      "price": 80,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Classic Strawberry",
+      "price": 80,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Chikoo Viku",
+      "price": 99,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Butter Scotch Bliss",
+      "price": 120,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Classic French Vanilla",
+      "price": 120,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Chikoo Chocolate",
+      "price": 130,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Almond Roast",
+      "price": 140,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Black Current",
+      "price": 140,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Chilling Chocolate",
+      "price": 140,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Kaju Anjeer",
+      "price": 140,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Kit Kat Break",
+      "price": 140,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "O'mango",
+      "price": 140,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Oreo Kick",
+      "price": 140,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Pink Berry ( Strawberry )",
+      "price": 140,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Royal Nutty Dreams",
+      "price": 140,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Dark Beauty",
+      "price": 150,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Snicker Hunger",
+      "price": 150,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Brown Mocha",
+      "price": 150,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Italian Toffee Blend",
+      "price": 150,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Rajwadi Raj",
+      "price": 160,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Sicilian Pistachio",
+      "price": 160,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Special King Kulfi",
+      "price": 170,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Tender Coconut",
+      "price": 170,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Italian Nutella",
+      "price": 170,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "The Brussels Lotus",
+      "price": 180,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Vanilla",
+      "price": 150,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Arriba Cocoa",
+      "price": 160,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    },
+    {
+      "name": "Kaju Anjeer",
+      "price": 180,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Santushti, New Food Court"
+    }
+  ]
+}

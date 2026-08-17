@@ -1,0 +1,439 @@
+{
+  "id": "mr-puff-beside-ac-canteen",
+  "name": "Mr. Puff, beside AC Canteen",
+  "menuLink": "https://www.pufood.xyz/Menu/Mr%20PUFf%20-%20Beside%20AC.pdf",
+  "items": [
+    {
+      "name": "Aloo Tikki Burger",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Mayonnaise Burger",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Tandoori Mayo Burger",
+      "price": 40,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Schezwan Burger",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Mr. Puff Special Burger",
+      "price": 40,
+      "protein": 7,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Veg Burger",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Veg Cheese Burger",
+      "price": 50,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Peri Peri Cheese Burger",
+      "price": 50,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Veggie Hotdog",
+      "price": 40,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Mayonnaise Hotdog",
+      "price": 40,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 12,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Cheese Hotdog",
+      "price": 50,
+      "protein": 7,
+      "carbs": 25,
+      "fat": 12,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "French Fries (180 GMS)",
+      "price": 30,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Salted Fries",
+      "price": 40,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Peri Peri Fries",
+      "price": 40,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Mayo Fries",
+      "price": 40,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Peri Peri Cheese Fries",
+      "price": 50,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "price": 50,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Cheese Peri Peri Sandwich",
+      "price": 60,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Cheese Chilly Corn Sandwich",
+      "price": 50,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Mexican Mayo Sandwich",
+      "price": 60,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Paneer Chatpatta Sandwich",
+      "price": 60,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Schezwan Corn Sandwich",
+      "price": 60,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Aloo Tikki Cheese Sandwich",
+      "price": 50,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Cheese Garlic Roll",
+      "price": 50,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Paneer Bhurji Roll",
+      "price": 50,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Paneer Chilly Roll",
+      "price": 50,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Cheesy Paneer Bhurji Roll",
+      "price": 65,
+      "protein": 12,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Cheesy Paneer Chilly Roll",
+      "price": 65,
+      "protein": 12,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Margherita Pizza",
+      "price": 69,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Veggie Cheese Pizza",
+      "price": 79,
+      "protein": 12,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Tandoori Paneer Pizza",
+      "price": 79,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Paneer Corn Pizza",
+      "price": 79,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Double Cheese Pizza",
+      "price": 79,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Veg Frankie",
+      "price": 40,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Cheese Frankie",
+      "price": 50,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Mayonnaise Frankie",
+      "price": 50,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Garlic Frankie",
+      "price": 50,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Tandoori Mayo Frankie",
+      "price": 50,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Peri Peri Frankie",
+      "price": 50,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Mr. Puff Special Frankie",
+      "price": 50,
+      "protein": 8,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Veg Butter Puff",
+      "price": 20,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Cheese Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Double Cheese Puff",
+      "price": 40,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Mayonnaise Puff",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 12,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Garlic Puff",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Tandoori Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Schezwan Puff",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Peri Peri Puff",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Mr. Puff Special Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 12,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Maggi Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Kolhapuri Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Spring Puff",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Pizza Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    },
+    {
+      "name": "Paneer Puff",
+      "price": 35,
+      "protein": 8,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Mr. Puff, beside AC Canteen"
+    }
+  ]
+}

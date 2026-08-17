@@ -1,0 +1,175 @@
+{
+  "id": "farki-in-front-of-gym",
+  "name": "Farki, in front of GYM",
+  "menuLink": "https://www.pufood.xyz/Menu/Farki.pdf",
+  "items": [
+    {
+      "name": "Mix Sprouts",
+      "price": 79,
+      "protein": 8,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Dahi & Mix Sprouts",
+      "price": 79,
+      "protein": 9,
+      "carbs": 12,
+      "fat": 3,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Green Chaat Patta",
+      "price": 79,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 2,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Classic Cheese Toastie",
+      "price": 49,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Vegetable Toastie",
+      "price": 49,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Cheesy Maggie",
+      "price": 69,
+      "protein": 10,
+      "carbs": 45,
+      "fat": 12,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Muesli",
+      "price": 79,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 3,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Corn Flakes",
+      "price": 49,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 1,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Fruit Loops",
+      "price": 49,
+      "protein": 2,
+      "carbs": 50,
+      "fat": 2,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Lemon Tea",
+      "price": 29,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Vanilla Smoothie",
+      "price": 89,
+      "protein": 7,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Strawberry Smoothie",
+      "price": 109,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 4,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Mango Litchi Smoothie",
+      "price": 109,
+      "protein": 6,
+      "carbs": 45,
+      "fat": 4,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Oreo Smoothie",
+      "price": 119,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 7,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Cookies Monster Smoothie",
+      "price": 119,
+      "protein": 9,
+      "carbs": 55,
+      "fat": 6,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Coconut Charm Bubble Tea",
+      "price": 109,
+      "protein": 4,
+      "carbs": 35,
+      "fat": 2,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Litchi Bubble Tea",
+      "price": 109,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 2,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Black Currant Bubble Tea",
+      "price": 109,
+      "protein": 3,
+      "carbs": 40,
+      "fat": 2,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Frappee Beans Cold Coffee",
+      "price": 99,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 3,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Choco Latte Cold Coffee",
+      "price": 99,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 4,
+      "outlet": "Farki, in front of GYM"
+    },
+    {
+      "name": "Cuppa Noodle",
+      "price": 60,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 7,
+      "outlet": "Farki, in front of GYM"
+    }
+  ]
+}

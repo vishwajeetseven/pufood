@@ -1,0 +1,103 @@
+{
+  "id": "puff-mania-capitol",
+  "name": "Puff Mania, Capitol",
+  "menuLink": "https://www.pufood.xyz/Menu/Puff%20Mania.pdf",
+  "items": [
+    {
+      "name": "Margherita Pizza",
+      "price": 99,
+      "protein": 12,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Puff Mania, Capitol"
+    },
+    {
+      "name": "Olive Mania Pizza",
+      "price": 129,
+      "protein": 14,
+      "carbs": 55,
+      "fat": 12,
+      "outlet": "Puff Mania, Capitol"
+    },
+    {
+      "name": "Peppy Paneer Pizza",
+      "price": 149,
+      "protein": 16,
+      "carbs": 60,
+      "fat": 14,
+      "outlet": "Puff Mania, Capitol"
+    },
+    {
+      "name": "Corn Pizza",
+      "price": 169,
+      "protein": 15,
+      "carbs": 55,
+      "fat": 12,
+      "outlet": "Puff Mania, Capitol"
+    },
+    {
+      "name": "Veg Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Puff Mania, Capitol"
+    },
+    {
+      "name": "Butter Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Puff Mania, Capitol"
+    },
+    {
+      "name": "Butter Sev Onion Puff",
+      "price": 35,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Puff Mania, Capitol"
+    },
+    {
+      "name": "Garlic Puff",
+      "price": 35,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Puff Mania, Capitol"
+    },
+    {
+      "name": "Garlic Sev Onion Puff",
+      "price": 40,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 14,
+      "outlet": "Puff Mania, Capitol"
+    },
+    {
+      "name": "Vada Pav",
+      "price": 25,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Puff Mania, Capitol"
+    },
+    {
+      "name": "Dabeli",
+      "price": 25,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Puff Mania, Capitol"
+    },
+    {
+      "name": "Pav Bhaji",
+      "price": 79,
+      "protein": 10,
+      "carbs": 50,
+      "fat": 12,
+      "outlet": "Puff Mania, Capitol"
+    }
+  ]
+}

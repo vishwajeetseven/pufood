@@ -1,0 +1,183 @@
+{
+  "id": "naira-utopia",
+  "name": "Naira, Utopia",
+  "menuLink": "https://www.pufood.xyz/Menu/Naira.pdf",
+  "items": [
+    {
+      "name": "Dal Fry & Jeera Rice",
+      "price": 60,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 6,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Aloo Paratha",
+      "price": 40,
+      "protein": 6,
+      "carbs": 45,
+      "fat": 8,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Paneer Paratha",
+      "price": 50,
+      "protein": 12,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Cheese Paratha",
+      "price": 50,
+      "protein": 10,
+      "carbs": 38,
+      "fat": 12,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Paneer Pulao",
+      "price": 70,
+      "protein": 14,
+      "carbs": 55,
+      "fat": 9,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Cheese Pulao",
+      "price": 70,
+      "protein": 12,
+      "carbs": 54,
+      "fat": 11,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Masala Rice",
+      "price": 50,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 7,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Tomato Pasta",
+      "price": 60,
+      "protein": 7,
+      "carbs": 60,
+      "fat": 5,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "White Sauce Pasta",
+      "price": 60,
+      "protein": 8,
+      "carbs": 58,
+      "fat": 7,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Italian Pasta",
+      "price": 70,
+      "protein": 9,
+      "carbs": 62,
+      "fat": 6,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Veg Pasta",
+      "price": 70,
+      "protein": 8,
+      "carbs": 61,
+      "fat": 7,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Cheese Pasta",
+      "price": 75,
+      "protein": 10,
+      "carbs": 60,
+      "fat": 9,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Neapolitan Pasta",
+      "price": 75,
+      "protein": 9,
+      "carbs": 59,
+      "fat": 8,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Plain Dosa",
+      "price": 40,
+      "protein": 6,
+      "carbs": 50,
+      "fat": 5,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Masala Dosa",
+      "price": 50,
+      "protein": 7,
+      "carbs": 55,
+      "fat": 6,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Onion Dosa",
+      "price": 50,
+      "protein": 7,
+      "carbs": 53,
+      "fat": 6,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Paneer Dosa",
+      "price": 70,
+      "protein": 12,
+      "carbs": 58,
+      "fat": 8,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Veg Fried Rice",
+      "price": 60,
+      "protein": 8,
+      "carbs": 58,
+      "fat": 6,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Hakka Noodles",
+      "price": 60,
+      "protein": 7,
+      "carbs": 60,
+      "fat": 5,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Dry Manchurian",
+      "price": 60,
+      "protein": 9,
+      "carbs": 45,
+      "fat": 8,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Paneer Chilli",
+      "price": 80,
+      "protein": 14,
+      "carbs": 42,
+      "fat": 10,
+      "outlet": "Naira, Utopia"
+    },
+    {
+      "name": "Paneer 65",
+      "price": 80,
+      "protein": 15,
+      "carbs": 44,
+      "fat": 11,
+      "outlet": "Naira, Utopia"
+    }
+  ]
+}

@@ -1377,8 +1377,7 @@
       }
 
       // If no cache or expired, fetch from network
-      const baseUrl = 'https://www.pufood.xyz/';
-      const fullUrl = url.startsWith('http') ? url : baseUrl + url;
+      const fullUrl = url.startsWith('http') ? url : new URL(url, window.location.href).toString();
 
       for (let i = 0; i < maxRetries; i++) {
         try {
@@ -1416,7 +1415,16 @@
         document.body.appendChild(loadingIndicator);
 
         try {
-          const data = await fetchWithRetry('data.json');
+          const outletManifest = await fetchWithRetry('data/outlets/index.json');
+          const outletData = await Promise.all(
+            outletManifest.outlets.map((outlet) => fetchWithRetry(outlet.dataFile))
+          );
+
+          outletMenus = outletManifest.outlets
+            .filter((outlet) => outlet.menuLink)
+            .map((outlet) => ({ name: outlet.name, link: outlet.menuLink }));
+
+          const data = outletData.flatMap((outlet) => outlet.items);
           allFoodData = data.sort(() => Math.random() - 0.5);
           currentDisplayedData = [...allFoodData];
           displayFoodItems(currentDisplayedData);
@@ -1431,22 +1439,9 @@
       }
     }
 
-    async function loadOutletMenus() {
-      try {
-        const data = await fetchWithRetry('outletMenus.json');
-        outletMenus = data;
-        showToast("Menu data loaded successfully!");
-      } catch (error) {
-        console.error('Error loading outlet menus:', error);
-        showToast("Failed to load outlet menus. Retrying...");
-        setTimeout(loadOutletMenus, 3000); // Retry after 3 seconds
-      }
-    }
-
     // Initialize data loading and mobile optimization
     window.addEventListener('load', () => {
       fetchFoodData();
-      loadOutletMenus();
 
       // Add search box focus/blur handlers for navbar visibility
       const searchBox = document.getElementById("searchBox");

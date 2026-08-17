@@ -1,0 +1,343 @@
+{
+  "id": "sri-rudra-wfc-outside-campus",
+  "name": "SRI RUDRA, WFC, Outside Campus",
+  "menuLink": null,
+  "items": [
+    {
+      "name": "Paneer Chilly",
+      "price": 150,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken liver fry",
+      "price": 160,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Chilli chicken",
+      "price": 160,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Lollipop",
+      "price": 160,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Dana",
+      "price": 170,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Chilli mushroom",
+      "price": 170,
+      "protein": 5,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "RR Chicken",
+      "price": 180,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Magestic",
+      "price": 180,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken 555",
+      "price": 180,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Dragon Chicken",
+      "price": 180,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Kaju Chicken",
+      "price": 200,
+      "protein": 25,
+      "carbs": 10,
+      "fat": 20,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Kaju mushroom",
+      "price": 200,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 20,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 80,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 110,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Masala",
+      "price": 100,
+      "protein": 25,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Masala",
+      "price": 140,
+      "protein": 25,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Gravy Biryani",
+      "price": 150,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Mugalai Biryani",
+      "price": 160,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Fry piece Biryani",
+      "price": 160,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Sp. Biryani",
+      "price": 160,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Lollipop Biryani",
+      "price": 200,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Kabab Biryani",
+      "price": 200,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Dilkush Biryani",
+      "price": 250,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Dilkush Biryani",
+      "price": 350,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Veg Fried Rice",
+      "price": 100,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Egg Fried Rice",
+      "price": 100,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Egg Noodles",
+      "price": 100,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 100,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 130,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Paneer Fried Rice",
+      "price": 120,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Mushroom Fried Rice",
+      "price": 120,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Kaju Fried Rice",
+      "price": 130,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Noodles",
+      "price": 130,
+      "protein": 25,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Mughalai Fried Rice",
+      "price": 180,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Kaju Chicken Fried",
+      "price": 200,
+      "protein": 25,
+      "carbs": 20,
+      "fat": 20,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Extra kabab piece",
+      "price": 70,
+      "protein": 15,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Talimpu Curd Rice",
+      "price": 80,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Fruit Curd Rice",
+      "price": 100,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Chicken Gravy Curry",
+      "price": 100,
+      "protein": 25,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Mushroom curry",
+      "price": 120,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Rice & Chicken Curry",
+      "price": 130,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    },
+    {
+      "name": "Kaju curry",
+      "price": 200,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 20,
+      "outlet": "SRI RUDRA, WFC, Outside Campus"
+    }
+  ]
+}

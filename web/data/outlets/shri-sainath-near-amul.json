@@ -1,0 +1,239 @@
+{
+  "id": "shri-sainath-near-amul",
+  "name": "Shri Sainath, near Amul",
+  "menuLink": "https://www.pufood.xyz/Menu/Shri%20Sainath%20.pdf",
+  "items": [
+    {
+      "name": "Tea",
+      "price": 10,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 0,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Coffee",
+      "price": 20,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 2,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Hot Milk",
+      "price": 30,
+      "protein": 6,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Hot Bournvita",
+      "price": 40,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 6,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Poha",
+      "price": 20,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Samosa",
+      "price": 30,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Bread Pakoda",
+      "price": 30,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Bataka Vada",
+      "price": 30,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Khasta Kachori",
+      "price": 30,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Chat Samosa",
+      "price": 30,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Butter Vadapav",
+      "price": 30,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Cheese Vadapav",
+      "price": 40,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Mamra Bhel",
+      "price": 40,
+      "protein": 4,
+      "carbs": 50,
+      "fat": 3,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Chat Kachori",
+      "price": 40,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Khaman/Dhokla",
+      "price": 40,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 6,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Idli Sambhar",
+      "price": 40,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Vada Sambhar",
+      "price": 30,
+      "protein": 7,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Jalebi",
+      "price": 40,
+      "protein": 2,
+      "carbs": 60,
+      "fat": 10,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Aloo Paratha with Dahi/Chutney",
+      "price": 60,
+      "protein": 10,
+      "carbs": 50,
+      "fat": 12,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Sabudana Khichdi",
+      "price": 60,
+      "protein": 5,
+      "carbs": 55,
+      "fat": 10,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Aloo Matar Sandwich",
+      "price": 30,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 8,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Vegetable Sandwich",
+      "price": 30,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 7,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Cheese Sandwich",
+      "price": 40,
+      "protein": 8,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "price": 40,
+      "protein": 9,
+      "carbs": 35,
+      "fat": 14,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Hakka Noodles",
+      "price": 60,
+      "protein": 7,
+      "carbs": 45,
+      "fat": 8,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Chinese Bhel",
+      "price": 60,
+      "protein": 6,
+      "carbs": 50,
+      "fat": 7,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Veg Pulav",
+      "price": 60,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 6,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Jeera Rice",
+      "price": 40,
+      "protein": 6,
+      "carbs": 45,
+      "fat": 5,
+      "outlet": "Shri Sainath, near Amul"
+    },
+    {
+      "name": "Masala Maggi",
+      "price": 70,
+      "protein": 5,
+      "carbs": 50,
+      "fat": 12,
+      "outlet": "Shri Sainath, near Amul"
+    }
+  ]
+}

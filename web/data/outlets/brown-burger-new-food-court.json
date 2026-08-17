@@ -1,0 +1,1183 @@
+{
+  "id": "brown-burger-new-food-court",
+  "name": "Brown Burger, New Food Court",
+  "menuLink": "https://www.pufood.xyz/Menu/Brown%20Burger.pdf",
+  "items": [
+    {
+      "name": "BBQ Chicken Masala (Half)",
+      "price": 120,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Masala (Full)",
+      "price": 160,
+      "protein": 20,
+      "carbs": 15,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Curry (Half)",
+      "price": 140,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Curry (Full)",
+      "price": 180,
+      "protein": 20,
+      "carbs": 15,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Butter Chicken (Half)",
+      "price": 140,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Butter Chicken (Full)",
+      "price": 200,
+      "protein": 20,
+      "carbs": 15,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Tikka Masala (Half)",
+      "price": 150,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Tikka Masala (Full)",
+      "price": 200,
+      "protein": 20,
+      "carbs": 15,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Boneless (Half)",
+      "price": 140,
+      "protein": 15,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Boneless (Full)",
+      "price": 180,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Leg Masala (Half)",
+      "price": 120,
+      "protein": 15,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Leg Masala (Full)",
+      "price": 150,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Khima",
+      "price": 180,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Buna",
+      "price": 200,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Angara",
+      "price": 220,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Kadhai Chicken",
+      "price": 300,
+      "protein": 25,
+      "carbs": 15,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Fish Masala (Half)",
+      "price": 130,
+      "protein": 15,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Non-Veg Thali Combo",
+      "price": 199,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Tawa Roti",
+      "price": 10,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 2,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Butter Roti",
+      "price": 15,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Roti",
+      "price": 20,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Lacha Paratha",
+      "price": 20,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Fry Papad",
+      "price": 10,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Classic Chicken Leg Piece (Small)",
+      "price": 60,
+      "protein": 10,
+      "carbs": 2,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Classic Chicken Leg Piece (Big)",
+      "price": 100,
+      "protein": 15,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Classic Chicken Dana (250g)",
+      "price": 120,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Classic Chicken Lollipop (4 Pcs)",
+      "price": 70,
+      "protein": 10,
+      "carbs": 2,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Classic Chicken Boneless Dana (250g)",
+      "price": 160,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Classic Chicken Samosa (5 Pcs)",
+      "price": 100,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Classic Chicken Tikka (Green/Red/White)",
+      "price": 120,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Classic Fish Fry",
+      "price": 120,
+      "protein": 15,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Matka Special Biryani (Half)",
+      "price": 248,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Matka Special Biryani (Full)",
+      "price": 480,
+      "protein": 30,
+      "carbs": 60,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Classic Chicken Dum Biryani (Half)",
+      "price": 100,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Classic Chicken Dum Biryani (Full)",
+      "price": 140,
+      "protein": 20,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Rice (Half)",
+      "price": 80,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Rice (Full)",
+      "price": 120,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Bhel (Half)",
+      "price": 90,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Bhel (Full)",
+      "price": 130,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken 65 (Half)",
+      "price": 90,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken 65 (Full)",
+      "price": 130,
+      "protein": 20,
+      "carbs": 15,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Egg with Chicken Rice (Half)",
+      "price": 90,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Egg with Chicken Rice (Full)",
+      "price": 140,
+      "protein": 20,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Noodles (Half)",
+      "price": 100,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Noodles (Full)",
+      "price": 130,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Chilly (Half)",
+      "price": 120,
+      "protein": 15,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Chilly (Full)",
+      "price": 190,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Samosa (Half)",
+      "price": 120,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Samosa (Full)",
+      "price": 160,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Suvorma (Half)",
+      "price": 120,
+      "protein": 10,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Suvorma (Full)",
+      "price": 160,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Paneer Suvorma (Half)",
+      "price": 120,
+      "protein": 15,
+      "carbs": 15,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Paneer Suvorma (Full)",
+      "price": 160,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Cheese Suvorma (Half)",
+      "price": 120,
+      "protein": 15,
+      "carbs": 15,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Cheese Suvorma (Full)",
+      "price": 160,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Cheese Container (Half)",
+      "price": 120,
+      "protein": 15,
+      "carbs": 15,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Cheese Container (Full)",
+      "price": 160,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Mineral Water (Half)",
+      "price": 80,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Mineral Water (Full)",
+      "price": 100,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Cold Drink (Half)",
+      "price": 50,
+      "protein": 0,
+      "carbs": 15,
+      "fat": 0,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Cold Drink (Full)",
+      "price": 70,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Classic Chicken Burger",
+      "price": 120,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Brown Burger",
+      "price": 130,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Grilled Burger",
+      "price": 140,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Spicy Grilled Burger",
+      "price": 140,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Tandoori Chicken Burger",
+      "price": 150,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Sandwich",
+      "price": 140,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Classic Chicken Burger with Pepsi (250ml)",
+      "price": 128,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Brown Burger with Pepsi (250ml)",
+      "price": 138,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Grilled Burger with Pepsi (250ml)",
+      "price": 148,
+      "protein": 20,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Spicy Grilled Burger with Pepsi (250ml)",
+      "price": 148,
+      "protein": 20,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Tandoori Chicken Burger with Pepsi (250ml)",
+      "price": 158,
+      "protein": 20,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Sandwich with Pepsi (250ml)",
+      "price": 148,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Classic Crinkle Fries",
+      "price": 59,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Peri Peri Fries",
+      "price": 79,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Tropicana Fries",
+      "price": 119,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Chicken Fries (6 Pcs)",
+      "price": 49,
+      "protein": 10,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Chicken Nuggets (5 Pcs)",
+      "price": 89,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Tandoori Chicken Fries (10 Pcs)",
+      "price": 119,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Cheesy Chicken Fries (10 Pcs)",
+      "price": 139,
+      "protein": 20,
+      "carbs": 15,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Giant Brown Burger",
+      "price": 199,
+      "protein": 25,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Dragon Burger",
+      "price": 258,
+      "protein": 30,
+      "carbs": 40,
+      "fat": 25,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Cheesy Jalapeno Burger",
+      "price": 199,
+      "protein": 25,
+      "carbs": 30,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Queso Cheesy Burger",
+      "price": 199,
+      "protein": 25,
+      "carbs": 30,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Nacho Mexican Burger",
+      "price": 219,
+      "protein": 25,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Giant Paneer Burger",
+      "price": 239,
+      "protein": 25,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Street Paneer Bhurji Burger",
+      "price": 269,
+      "protein": 25,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Middle East Burger",
+      "price": 269,
+      "protein": 25,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Tandoori Knight Burger",
+      "price": 269,
+      "protein": 25,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Country Special Burger",
+      "price": 269,
+      "protein": 25,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Chicken Tikka Burger",
+      "price": 269,
+      "protein": 25,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Grilled Burger",
+      "price": 269,
+      "protein": 25,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Americano Sandwich",
+      "price": 159,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Cheese Chilly Sandwich",
+      "price": 169,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Bombay Lover's Sandwich",
+      "price": 179,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Peri Peri Paneer Sandwich",
+      "price": 189,
+      "protein": 20,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Tandoori Paneer Sandwich",
+      "price": 189,
+      "protein": 20,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Junglee Sandwich",
+      "price": 189,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Cold Coffee (250ml)",
+      "price": 89,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Cold Coffee (350ml)",
+      "price": 119,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Cold Coffee Hazelnut",
+      "price": 99,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Cold Coffee Mocha",
+      "price": 99,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Chocolate Shake",
+      "price": 99,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Kitkat Shake",
+      "price": 99,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Oreo Shake",
+      "price": 99,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Strawberry Shake",
+      "price": 99,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Lemon Mojito (250ml)",
+      "price": 59,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Green Apple Mojito (250ml)",
+      "price": 59,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Peri Peri Burger",
+      "price": 99,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Mexican Burger",
+      "price": 109,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Cheesy Cheese Burger",
+      "price": 119,
+      "protein": 20,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Tandoori Paneer Burger",
+      "price": 139,
+      "protein": 20,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Paneer Bhurji Burger",
+      "price": 139,
+      "protein": 20,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Double Trouble Burger",
+      "price": 149,
+      "protein": 25,
+      "carbs": 30,
+      "fat": 20,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Classic Chicken Burger",
+      "price": 99,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Spicy Chicken Grilled Burger",
+      "price": 111,
+      "protein": 20,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Peri Peri Chicken Grilled Burger",
+      "price": 139,
+      "protein": 20,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Tandoori Chicken Burger",
+      "price": 149,
+      "protein": 20,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Grilled Burger",
+      "price": 149,
+      "protein": 20,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Citrus Blue",
+      "price": 59,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Crispy Patata Burger",
+      "price": 59,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Hot N Spicy Burger",
+      "price": 89,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Veg Burger",
+      "price": 69,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Indian Masala Burger",
+      "price": 89,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Spicy Chicken Tikka Sandwich",
+      "price": 189,
+      "protein": 20,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Crispy Chicken Sandwich",
+      "price": 199,
+      "protein": 20,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Tandoori Chicken Sandwich",
+      "price": 199,
+      "protein": 20,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Chicken Mexicana Sandwich",
+      "price": 219,
+      "protein": 20,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Sandwich",
+      "price": 219,
+      "protein": 20,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Salad Wrap",
+      "price": 99,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Spicy Masala Wrap",
+      "price": 109,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Americano Wrap",
+      "price": 129,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Hot Mexican Wrap",
+      "price": 129,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Paneer Shooter Wrap",
+      "price": 139,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Tandoori Chicken Wrap",
+      "price": 139,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Spicy Chicken Grill Wrap",
+      "price": 169,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Peri Peri Chicken Wrap",
+      "price": 169,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Wrap",
+      "price": 169,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Veggie D'lite",
+      "price": 99,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Mexican Salad",
+      "price": 129,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Paneer Tikka Salad",
+      "price": 199,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "BBQ Chicken Grill Salad",
+      "price": 199,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Indian Chicken Tikka Salad",
+      "price": 199,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Classic Crinkle Fries + Shake (asom)",
+      "price": 129,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Classic Crinkle Fries + Soft Drink (250ml)",
+      "price": 59,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Extra Ice Cream",
+      "price": 30,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    },
+    {
+      "name": "Extra Cheese",
+      "price": 19,
+      "protein": 5,
+      "carbs": 2,
+      "fat": 10,
+      "outlet": "Brown Burger, New Food Court"
+    }
+  ]
+}

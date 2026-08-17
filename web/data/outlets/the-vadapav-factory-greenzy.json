@@ -1,0 +1,319 @@
+{
+  "id": "the-vadapav-factory-greenzy",
+  "name": "The Vadapav Factory, Greenzy",
+  "menuLink": "https://www.pufood.xyz/Menu/The%20Vadapav%20Factory.pdf",
+  "items": [
+    {
+      "name": "Butter Vadapav",
+      "price": 35,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Mayo Vadapav",
+      "price": 40,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Cheese Butter Vadapav",
+      "price": 45,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Cheese Vadapav",
+      "price": 50,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Bombay Style Vadapav (Non Hot)",
+      "price": 35,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Aamchi Mumbai Vadapav (Non Hot)",
+      "price": 40,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Gravy Masala Vadapav",
+      "price": 45,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Exotic Vadapav",
+      "price": 50,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Sp. Dry Masala Vadapav",
+      "price": 45,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Sp. Lasaniya Vadapav",
+      "price": 50,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Sp. Thecha Vadapav (Maharashtrian)",
+      "price": 55,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Spicy Lover Vadapav",
+      "price": 50,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Day Night Signature Vadapav",
+      "price": 55,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "U Swaminarayan Sp. Vadapav",
+      "price": 55,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Jain Special Vadapav",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Best Kutchi Dabeli",
+      "price": 35,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Butter Dabeli",
+      "price": 40,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Mayo Dabeli",
+      "price": 45,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Cheese Butter Dabeli",
+      "price": 50,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Cheese Dabeli",
+      "price": 55,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Kutchi Dabeli (Non Hot)",
+      "price": 35,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Regular Dabeli",
+      "price": 40,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Jumbo Kadak Dabeli",
+      "price": 55,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Housefull Katka Dabeli",
+      "price": 65,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Aflatoon Dabeli",
+      "price": 75,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Veg Burger Vadapav",
+      "price": 55,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Peri-Peri Burger Vadapav",
+      "price": 55,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Schezwan Burger Vadapav",
+      "price": 55,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Chilli Garlic Burger Vadapav",
+      "price": 55,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Tandoori Burger Vadapav",
+      "price": 55,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Cheese Lover Burger Vadapav",
+      "price": 75,
+      "protein": 8,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Classic Fries",
+      "price": 49,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Peri Peri Fries",
+      "price": 69,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Mexican Cheesy Fries",
+      "price": 79,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Cheese Poppers",
+      "price": 99,
+      "protein": 4,
+      "carbs": 15,
+      "fat": 12,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Regular Bread Pakoda",
+      "price": 30,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Mayo Bread Pakoda",
+      "price": 45,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Cheese Bread Pakoda",
+      "price": 55,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 18,
+      "outlet": "The Vadapav Factory, Greenzy"
+    },
+    {
+      "name": "Sabudana Vada (3 pcs.)",
+      "price": 40,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "The Vadapav Factory, Greenzy"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "id": "the-spot-capitol",
+  "name": "The Spot, Capitol",
+  "menuLink": "https://www.pufood.xyz/Menu/The%20Spot.pdf",
+  "items": [
+    {
+      "name": "Chicken Pizza",
+      "price": 150,
+      "protein": 20,
+      "carbs": 45,
+      "fat": 12,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Boiled Chicken",
+      "price": 100,
+      "protein": 59.1,
+      "fat": 15.4,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Chicken Corn Pizza",
+      "price": 170,
+      "protein": 22,
+      "carbs": 48,
+      "fat": 14,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Chicken Sausage Pizza",
+      "price": 150,
+      "protein": 23,
+      "carbs": 46,
+      "fat": 15,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Chicken Overloaded Pizza",
+      "price": 190,
+      "protein": 28,
+      "carbs": 50,
+      "fat": 18,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Chicken Makhni Pizza",
+      "price": 160,
+      "protein": 25,
+      "carbs": 47,
+      "fat": 16,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Cheesey Fries",
+      "price": 90,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Tandoori Fries",
+      "price": 90,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 9,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Tangy Fries",
+      "price": 100,
+      "protein": 7,
+      "carbs": 43,
+      "fat": 10,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "BBQ Fries",
+      "price": 90,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 10,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Makhni Fries",
+      "price": 100,
+      "protein": 7,
+      "carbs": 44,
+      "fat": 12,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Seekh Kebab Wraps",
+      "price": 120,
+      "protein": 25,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Seekh Kebab (2 pcs)",
+      "price": 100,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 15,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Chicken Trouble Tub",
+      "price": 260,
+      "protein": 35,
+      "carbs": 20,
+      "fat": 20,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Fish Flicker Tub",
+      "price": 250,
+      "protein": 30,
+      "carbs": 15,
+      "fat": 18,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Veggi Delight Tub",
+      "price": 220,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 8,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Spot Fusion Tub",
+      "price": 250,
+      "protein": 28,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Combo 1 (1 Chicken Burger + Fries + 250ml Coldrink)",
+      "price": 150,
+      "protein": 28,
+      "carbs": 55,
+      "fat": 20,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Combo 2 (2 Chicken Burgers + 4 pcs Wings + Fries + 2 Coldrinks)",
+      "price": 350,
+      "protein": 60,
+      "carbs": 80,
+      "fat": 40,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Combo 3 (1 Chicken Burger + 1 Chicken Wrap + Fries + 15pcs Popcorn)",
+      "price": 299,
+      "protein": 55,
+      "carbs": 75,
+      "fat": 35,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Combo 4 (Chicken Bucket 10 pcs - 3 Drumsticks + 4 Wings + 3 Strips)",
+      "price": 360,
+      "protein": 80,
+      "carbs": 50,
+      "fat": 50,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Fish Fingers (5 Pc)",
+      "price": 120,
+      "protein": 30,
+      "carbs": 15,
+      "fat": 12,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Fish Fingers (10 Pc)",
+      "price": 200,
+      "protein": 60,
+      "carbs": 30,
+      "fat": 25,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Fish Fries",
+      "price": 100,
+      "protein": 25,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Fish Lollypops (5 Pc)",
+      "price": 110,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 12,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Fish Lollypops (10 Pc)",
+      "price": 200,
+      "protein": 55,
+      "carbs": 36,
+      "fat": 24,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Fish Burger",
+      "price": 90,
+      "protein": 22,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "The Spot, Capitol"
+    },
+    {
+      "name": "Fish and Chips",
+      "price": 160,
+      "protein": 35,
+      "carbs": 50,
+      "fat": 18,
+      "outlet": "The Spot, Capitol"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "rajwadi-malai-gola-in-front-of-temple",
+  "name": "Rajwadi Malai Gola, in front of Temple",
+  "menuLink": "https://www.pufood.xyz/Menu/Rajwadi%20Malai%20Gola.pdf",
+  "items": [
+    {
+      "name": "Mango Gola",
+      "price": 30,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Rajwadi Malai Gola, in front of Temple"
+    },
+    {
+      "name": "Kala Khatta Gola",
+      "price": 30,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Rajwadi Malai Gola, in front of Temple"
+    },
+    {
+      "name": "Kachcha Mango Gola",
+      "price": 30,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Rajwadi Malai Gola, in front of Temple"
+    },
+    {
+      "name": "Chocolate Gola",
+      "price": 30,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "Rajwadi Malai Gola, in front of Temple"
+    },
+    {
+      "name": "Rose Gola",
+      "price": 30,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Rajwadi Malai Gola, in front of Temple"
+    },
+    {
+      "name": "Sarbath Gola",
+      "price": 30,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Rajwadi Malai Gola, in front of Temple"
+    },
+    {
+      "name": "Chusky Gola",
+      "price": 30,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Rajwadi Malai Gola, in front of Temple"
+    },
+    {
+      "name": "Malai Coconut Dish",
+      "price": 50,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Rajwadi Malai Gola, in front of Temple"
+    },
+    {
+      "name": "Dryfruit Malai Coconut Dish",
+      "price": 80,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "Rajwadi Malai Gola, in front of Temple"
+    },
+    {
+      "name": "Rajwadi Special Choco Bon Bon",
+      "price": 100,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 8,
+      "outlet": "Rajwadi Malai Gola, in front of Temple"
+    },
+    {
+      "name": "Mawa Malai",
+      "price": 120,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Rajwadi Malai Gola, in front of Temple"
+    },
+    {
+      "name": "Rajwadi Dry Fruit",
+      "price": 130,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Rajwadi Malai Gola, in front of Temple"
+    },
+    {
+      "name": "Choco Brownie",
+      "price": 150,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Rajwadi Malai Gola, in front of Temple"
+    },
+    {
+      "name": "Choco Dry Fruit",
+      "price": 250,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Rajwadi Malai Gola, in front of Temple"
+    }
+  ]
+}

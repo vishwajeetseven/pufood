@@ -1,0 +1,1135 @@
+{
+  "id": "chatoree-new-canteen",
+  "name": "Chatoree, New Canteen",
+  "menuLink": "https://www.pufood.xyz/Menu/Chaotree.pdf",
+  "items": [
+    {
+      "name": "Chole Bhature (Amritsari 2 pcs)",
+      "price": 100,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Chole Bhature (Amritsari 1 pc)",
+      "price": 100,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Raj Kachori",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Dahi Bhalla Papdi Chaat",
+      "price": 80,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Samosa Chaat",
+      "price": 70,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Aloo Paratha",
+      "price": 60,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Aloo Onion Paratha",
+      "price": 80,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Aloo Methi Paratha",
+      "price": 90,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Mix Veg Paratha",
+      "price": 80,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Mix Veg Paneer Paratha",
+      "price": 90,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Aloo Cheese Paratha",
+      "price": 90,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 20,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Mini Thali",
+      "price": 90,
+      "protein": 10,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Thali",
+      "price": 120,
+      "protein": 15,
+      "carbs": 60,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Pani Puri (6 pcs)",
+      "price": 60,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Bhel Puri",
+      "price": 70,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Sev Puri",
+      "price": 80,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Dahi Puri",
+      "price": 90,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Ragda Pattice",
+      "price": 90,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Pav Bhaji",
+      "price": 80,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Jain Pav Bhaji",
+      "price": 90,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Cheese Pav Bhaji",
+      "price": 100,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 20,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Tava Pulav",
+      "price": 80,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Paneer Tava Pulav",
+      "price": 90,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Masala Pav",
+      "price": 50,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Extra Butter Pav (1 pc)",
+      "price": 10,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Manchow Soup",
+      "price": 100,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Hot & Sour Soup",
+      "price": 100,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Aloo Chilly",
+      "price": 40,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Spring Roll",
+      "price": 50,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Paneer Chilly",
+      "price": 80,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Crispy",
+      "price": 80,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Manchurian Gravy",
+      "price": 80,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Fried Rice",
+      "price": 80,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Schezwan Rice",
+      "price": 80,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Combination Rice",
+      "price": 100,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "price": 80,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Schezwan Noodles",
+      "price": 80,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Chinese Bhel",
+      "price": 80,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Manchurian Dry",
+      "price": 80,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Fried Rice + Manchurian Gravy",
+      "price": 120,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Noodles + Manchurian Gravy",
+      "price": 120,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Fried Rice + Noodles + Manchurian",
+      "price": 140,
+      "protein": 5,
+      "carbs": 60,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Momo",
+      "price": 50,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Schezwan Momo",
+      "price": 30,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Paneer Momo",
+      "price": 70,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Cheese Momo",
+      "price": 80,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Fried Rice + Veg Manchurian",
+      "price": 70,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Noodles + Veg Manchurian",
+      "price": 80,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Fried Rice + Noodles + Veg Manchurian",
+      "price": 90,
+      "protein": 5,
+      "carbs": 60,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Dal Khichdi",
+      "price": 80,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Chole Chawal",
+      "price": 80,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Curd Rice",
+      "price": 80,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Coffee",
+      "price": 20,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 1,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Nimbu Pani",
+      "price": 20,
+      "protein": 0,
+      "carbs": 10,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Jaljeera",
+      "price": 20,
+      "protein": 0,
+      "carbs": 10,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Chaas",
+      "price": 20,
+      "protein": 3,
+      "carbs": 5,
+      "fat": 2,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Sizzler",
+      "price": 170,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Momo Sizzler",
+      "price": 170,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Chinese Sizzler",
+      "price": 170,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Paneer Chili Sizzler",
+      "price": 190,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Steam Idli (2 pcs)",
+      "price": 80,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Medu Vada (2 pcs)",
+      "price": 90,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Sada Dosa",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Poha",
+      "price": 30,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Cheese Sada Dosa",
+      "price": 30,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Butter Vada Pav (1 pc)",
+      "price": 30,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Mysore Sada Dosa",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Batata Vada Plate",
+      "price": 30,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Masala Dosa",
+      "price": 30,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Bread Pakoda",
+      "price": 20,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Mysore Masala Dosa",
+      "price": 30,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Samosa Plate",
+      "price": 30,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Schezwan Sada Dosa",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Bhajiya Plate",
+      "price": 30,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Paper Sada Dosa",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Methi Gota",
+      "price": 30,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Paper Masala Dosa",
+      "price": 50,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Misal Pav",
+      "price": 50,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Sada Uttapam",
+      "price": 40,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Ragda Pav",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Onion or Tomato Uttapam",
+      "price": 50,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Puri Bhaji",
+      "price": 50,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Masala Uttapam",
+      "price": 50,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Plain Pav (1 pc)",
+      "price": 5,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Sandwich",
+      "price": 40,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "price": 50,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Only Cheese Sandwich",
+      "price": 40,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Bread Butter",
+      "price": 30,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Bread Butter Jam",
+      "price": 40,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Masala Toast Sandwich",
+      "price": 40,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Plain Fries",
+      "price": 50,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Mayo Fries",
+      "price": 60,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Schezwan Fries",
+      "price": 70,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Cheese Fries",
+      "price": 70,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Cheese Mayo Fries",
+      "price": 70,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 20,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Chilli Cheese Fries",
+      "price": 70,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Masala Cheese Toast Sandwich",
+      "price": 50,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Mayo Sandwich",
+      "price": 50,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Rock & Roll",
+      "price": 60,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Frank Roll",
+      "price": 60,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Twisty",
+      "price": 60,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Paneer Roll",
+      "price": 60,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Potato Spiral",
+      "price": 60,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Cheese Roll",
+      "price": 60,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Schezwan Roll",
+      "price": 50,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Peri-Peri Masala",
+      "price": 60,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Cheese Masala",
+      "price": 60,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Schezwan Paneer Roll",
+      "price": 80,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Schezwan Cheese Roll",
+      "price": 80,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 20,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Mayo Frank Roll",
+      "price": 60,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Noodles Frank Roll",
+      "price": 60,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Maggi",
+      "price": 40,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Maggi",
+      "price": 60,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Cheese Maggi",
+      "price": 60,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Burger",
+      "price": 30,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Veg Cheese Burger",
+      "price": 50,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Mosambi Juice",
+      "price": 70,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Orange Juice",
+      "price": 70,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Watermelon Juice",
+      "price": 70,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Pineapple Juice",
+      "price": 70,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Orange - Mosambi",
+      "price": 70,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Mosambi - Pineapple",
+      "price": 70,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Carrot + Beet",
+      "price": 70,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 70,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Chocolate Shake",
+      "price": 70,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Strawberry Shake",
+      "price": 70,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Oreo Milk Shake",
+      "price": 80,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Kit-Kat Milk Shake",
+      "price": 80,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Mojito Royale",
+      "price": 60,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Kiwi Mojito",
+      "price": 60,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Watermelon Mojito",
+      "price": 60,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Green Apple Mojito",
+      "price": 60,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Kiwi",
+      "price": 60,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Watermelon",
+      "price": 60,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Green Apple",
+      "price": 60,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Blue Curacao",
+      "price": 60,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Pink Guava",
+      "price": 60,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Vanilla",
+      "price": 60,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Strawberry Chocolate",
+      "price": 60,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Coke - Float",
+      "price": 60,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    },
+    {
+      "name": "Fanta - Float",
+      "price": 60,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "Chatoree, New Canteen"
+    }
+  ]
+}

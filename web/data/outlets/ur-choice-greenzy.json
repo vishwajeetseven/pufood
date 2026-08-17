@@ -1,0 +1,191 @@
+{
+  "id": "ur-choice-greenzy",
+  "name": "UR Choice, Greenzy",
+  "menuLink": "https://www.pufood.xyz/Menu/UR%20Choice%20Bakery.pdf",
+  "items": [
+    {
+      "name": "Veg Butter Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Cheese Puff",
+      "price": 30,
+      "protein": 7,
+      "carbs": 38,
+      "fat": 12,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Mayo Puff",
+      "price": 30,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 14,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Peri Peri Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 11,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Mexican Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 43,
+      "fat": 12,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Makhani Puff",
+      "price": 30,
+      "protein": 6,
+      "carbs": 41,
+      "fat": 13,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Schezwan Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 11,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Garlic Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 39,
+      "fat": 12,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Tandoori Puff",
+      "price": 30,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 13,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Aloo Tikki Burger",
+      "price": 30,
+      "protein": 8,
+      "carbs": 45,
+      "fat": 12,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Veg Cheese Burger",
+      "price": 50,
+      "protein": 10,
+      "carbs": 47,
+      "fat": 15,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Paneer Bhurji Burger",
+      "price": 50,
+      "protein": 12,
+      "carbs": 44,
+      "fat": 16,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Double Tikki Burger",
+      "price": 50,
+      "protein": 14,
+      "carbs": 50,
+      "fat": 18,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Veg Sandwich",
+      "price": 30,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "price": 40,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 10,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Peri Peri Cheese Sandwich",
+      "price": 50,
+      "protein": 9,
+      "carbs": 40,
+      "fat": 12,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Makhani Cheese Sandwich",
+      "price": 50,
+      "protein": 9,
+      "carbs": 41,
+      "fat": 13,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Schezwan Cheese Corn Sandwich",
+      "price": 50,
+      "protein": 8,
+      "carbs": 39,
+      "fat": 12,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Paneer Tandoori Sandwich",
+      "price": 50,
+      "protein": 12,
+      "carbs": 42,
+      "fat": 14,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Finger Chips (160 gm)",
+      "price": 50,
+      "protein": 4,
+      "carbs": 50,
+      "fat": 20,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Cheese Fries",
+      "price": 70,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 22,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Jalapeno Cheese Pops (8 pcs)",
+      "price": 70,
+      "protein": 7,
+      "carbs": 35,
+      "fat": 18,
+      "outlet": "UR Choice, Greenzy"
+    },
+    {
+      "name": "Special Chocolate Bun",
+      "price": 30,
+      "protein": 5,
+      "carbs": 38,
+      "fat": 12,
+      "outlet": "UR Choice, Greenzy"
+    }
+  ]
+}

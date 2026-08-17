@@ -1,0 +1,207 @@
+{
+  "id": "the-kitchen-express-greenzy",
+  "name": "The Kitchen Express, Greenzy",
+  "menuLink": "https://www.pufood.xyz/Menu/The%20Kitchen%20Express.pdf",
+  "items": [
+    {
+      "name": "Veg Lemon Coriander Soup",
+      "price": 65,
+      "protein": 3,
+      "carbs": 8,
+      "fat": 2,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Veg Manchow Soup",
+      "price": 65,
+      "protein": 4,
+      "carbs": 9,
+      "fat": 2,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Veg Hot & Sour Soup",
+      "price": 65,
+      "protein": 3,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Chicken Lemon Coriander Soup",
+      "price": 75,
+      "protein": 10,
+      "carbs": 6,
+      "fat": 3,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Chicken Manchow Soup",
+      "price": 75,
+      "protein": 12,
+      "carbs": 7,
+      "fat": 4,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Chicken Hot & Sour Soup",
+      "price": 75,
+      "protein": 11,
+      "carbs": 8,
+      "fat": 4,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Veg Manchurian (Dry/Gravy)",
+      "price": 80,
+      "protein": 6,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Veg Cheese Manchurian",
+      "price": 90,
+      "protein": 7,
+      "carbs": 22,
+      "fat": 6,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Veg Schezwan Manchurian",
+      "price": 80,
+      "protein": 6,
+      "carbs": 21,
+      "fat": 5,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Veg Frankie",
+      "price": 65,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 6,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Veg Chinese Frankie",
+      "price": 70,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 7,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Paneer Chilly (Dry/Gravy)",
+      "price": 85,
+      "protein": 14,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Paneer 65",
+      "price": 80,
+      "protein": 13,
+      "carbs": 18,
+      "fat": 9,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Chicken Manchurian",
+      "price": 110,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Chicken Cheese Manchurian",
+      "price": 110,
+      "protein": 16,
+      "carbs": 22,
+      "fat": 9,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Chicken Peri Peri Wings",
+      "price": 110,
+      "protein": 18,
+      "carbs": 10,
+      "fat": 12,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Chicken 65",
+      "price": 115,
+      "protein": 20,
+      "carbs": 12,
+      "fat": 13,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Chicken Lollipop",
+      "price": 110,
+      "protein": 19,
+      "carbs": 11,
+      "fat": 12,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "price": 75,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Chicken Hakka Noodles",
+      "price": 95,
+      "protein": 12,
+      "carbs": 42,
+      "fat": 6,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Veg Fried Rice",
+      "price": 70,
+      "protein": 5,
+      "carbs": 50,
+      "fat": 4,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 99,
+      "protein": 15,
+      "carbs": 48,
+      "fat": 6,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Veg Fried Momos (5 PC)",
+      "price": 85,
+      "protein": 7,
+      "carbs": 25,
+      "fat": 6,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Chicken Fried Momos (5 PC)",
+      "price": 90,
+      "protein": 12,
+      "carbs": 28,
+      "fat": 7,
+      "outlet": "The Kitchen Express, Greenzy"
+    },
+    {
+      "name": "Chicken Cheese Fried Momos (5 PC)",
+      "price": 99,
+      "protein": 13,
+      "carbs": 30,
+      "fat": 8,
+      "outlet": "The Kitchen Express, Greenzy"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "nescafe-in-front-of-gym",
+  "name": "Nescafe, in front of GYM",
+  "menuLink": "https://www.pufood.xyz/Menu/Nescafe.pdf",
+  "items": [
+    {
+      "name": "Nescafe Regular",
+      "price": 30,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 2,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Nescafe Medium",
+      "price": 20,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 1,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Cappuccino",
+      "price": 40,
+      "protein": 2,
+      "carbs": 6,
+      "fat": 3,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Café Mocha",
+      "price": 40,
+      "protein": 3,
+      "carbs": 8,
+      "fat": 4,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Café Latte",
+      "price": 40,
+      "protein": 3,
+      "carbs": 7,
+      "fat": 4,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Black Coffee",
+      "price": 30,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 1,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Tea / Coffee (Without Sugar)",
+      "price": 30,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 1,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Nestea Masala Regular",
+      "price": 30,
+      "protein": 0,
+      "carbs": 6,
+      "fat": 1,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Nestea Masala Medium",
+      "price": 20,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 1,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Nestea Lemon Tea",
+      "price": 30,
+      "protein": 0,
+      "carbs": 7,
+      "fat": 0,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Hot Chocolate",
+      "price": 40,
+      "protein": 3,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Tomato Soup",
+      "price": 30,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 1,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Nescafe Ice (Cold Coffee)",
+      "price": 60,
+      "protein": 4,
+      "carbs": 12,
+      "fat": 6,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Nestea Iced Tea (Lemon)",
+      "price": 50,
+      "protein": 0,
+      "carbs": 9,
+      "fat": 0,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Cold Chocolate",
+      "price": 70,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 7,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Maggi Noodles - Masala",
+      "price": 40,
+      "protein": 6,
+      "carbs": 45,
+      "fat": 8,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Maggi Noodles - Cheese",
+      "price": 50,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 12,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Maggi Veg Atta Noodles",
+      "price": 50,
+      "protein": 7,
+      "carbs": 48,
+      "fat": 9,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Maggi Pazzta Masala",
+      "price": 50,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 10,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Maggi Pazzta Cheese",
+      "price": 50,
+      "protein": 9,
+      "carbs": 54,
+      "fat": 12,
+      "outlet": "Nescafe, in front of GYM"
+    },
+    {
+      "name": "Cuppa Noodle",
+      "price": 60,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 7,
+      "outlet": "Nescafe, in front of GYM"
+    }
+  ]
+}

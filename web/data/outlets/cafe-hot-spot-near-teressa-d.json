@@ -1,0 +1,647 @@
+{
+  "id": "cafe-hot-spot-near-teressa-d",
+  "name": "Cafe Hot Spot, Near Teressa D",
+  "menuLink": "https://www.pufood.xyz/Menu/The%20Hostpot%20Teressa.pdf",
+  "items": [
+    {
+      "name": "Plain Maggie",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Veg Maggie",
+      "price": 60,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Cheese Maggie",
+      "price": 70,
+      "protein": 7,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Spicy Chilly Maggie",
+      "price": 70,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Sweet Corn Maggie",
+      "price": 70,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Aloo Tikki Burger",
+      "price": 60,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Veg Delight Burger",
+      "price": 70,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Cheese Burst Burger",
+      "price": 80,
+      "protein": 7,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Monster Veg Burger",
+      "price": 90,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Veg Fusion Burger",
+      "price": 90,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Veg Rock Burger",
+      "price": 100,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Paneer Chatpata Burger",
+      "price": 110,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Alfredo Pasta",
+      "price": 140,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Red Sauce Pasta",
+      "price": 140,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Plain Vada Pav",
+      "price": 25,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Butter Vada Pav",
+      "price": 35,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Cheese Vada Pav",
+      "price": 40,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Vada Pav",
+      "price": 60,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Schezwan Vada Pav",
+      "price": 40,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Veg Frankie",
+      "price": 50,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Tandoori Paneer Frankie",
+      "price": 70,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Fusion Frankie",
+      "price": 80,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Veg Momos (6 pcs.)",
+      "price": 90,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Cheese Corn Momos (6 pcs.)",
+      "price": 100,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Tandoori Paneer Momos (6 pcs.)",
+      "price": 120,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Steamed or Fried",
+      "price": 140,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Veg Pizza",
+      "price": 180,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "French Fries",
+      "price": 70,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Cold Drink (250ml)",
+      "price": 50,
+      "protein": 0,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Veg Pizza",
+      "price": 180,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Veg Premium Burger",
+      "price": 180,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Garlic Bread",
+      "price": 100,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Cold Drink (250ml)",
+      "price": 50,
+      "protein": 0,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Veg Premium Burger",
+      "price": 180,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "French Fries",
+      "price": 70,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Veg Cheese Shots",
+      "price": 160,
+      "protein": 10,
+      "carbs": 15,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Veg Club 3 Layer Sandwich",
+      "price": 140,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Veg Sandwich",
+      "price": 60,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Veg Grill Sandwich",
+      "price": 70,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Tandoori Paneer Sandwich",
+      "price": 120,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Cheese Corn Sandwich",
+      "price": 80,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Mexican Sandwich",
+      "price": 80,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Butter Masa Bun",
+      "price": 30,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Chocolate Masa Bun",
+      "price": 40,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Milky Bar Masa Bun",
+      "price": 50,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Choco Milky Masa Bun",
+      "price": 50,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Mix Jam Masa Bun",
+      "price": 40,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Margherita Pizza",
+      "price": 100,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Paneer Tikka Pizza",
+      "price": 140,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Italian Pizza",
+      "price": 140,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Mexican Pizza",
+      "price": 150,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Double Cheese Margherita",
+      "price": 130,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 20,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Garlic Bread",
+      "price": 100,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Cheese Chilli Garlic Bread",
+      "price": 100,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Cheese Corn Garlic Bread",
+      "price": 120,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Salted Fries",
+      "price": 70,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Peri Peri Fries",
+      "price": 80,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Makhni Fries",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Masala Fries",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Cheesy Fries",
+      "price": 90,
+      "protein": 7,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Sweet Chilly Potatoes",
+      "price": 90,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Potato Wedges",
+      "price": 80,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Hot Tea",
+      "price": 20,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Hot Coffee",
+      "price": 35,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Vanilla Shake",
+      "price": 60,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Lemon Ice Tea",
+      "price": 50,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 45,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Strawberry Shake",
+      "price": 60,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Peach Ice Tea",
+      "price": 60,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Caramel Coffee",
+      "price": 55,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Oreo Shake",
+      "price": 70,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Green Tea",
+      "price": 30,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Black Coffee",
+      "price": 30,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Kitkat Shake",
+      "price": 70,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Chocolate Tea",
+      "price": 30,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 0,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Hot Chocolate",
+      "price": 50,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Roohafza Shake",
+      "price": 60,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Elaichi Tea",
+      "price": 30,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Hot Bournvita",
+      "price": 50,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    },
+    {
+      "name": "Masala Tea",
+      "price": 25,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "outlet": "Cafe Hot Spot, Near Teressa D"
+    }
+  ]
+}

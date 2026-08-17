@@ -1,0 +1,71 @@
+{
+  "id": "swad-snacks",
+  "name": "Swad Snacks",
+  "menuLink": null,
+  "items": [
+    {
+      "name": "Pani Puri",
+      "price": 30,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 1,
+      "outlet": "Swad Snacks"
+    },
+    {
+      "name": "Masala Puri",
+      "price": 30,
+      "protein": 3,
+      "carbs": 35,
+      "fat": 2,
+      "outlet": "Swad Snacks"
+    },
+    {
+      "name": "Chutney Puri",
+      "price": 30,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "Swad Snacks"
+    },
+    {
+      "name": "Sev Puri",
+      "price": 40,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Swad Snacks"
+    },
+    {
+      "name": "Dry Bhel",
+      "price": 40,
+      "protein": 4,
+      "carbs": 35,
+      "fat": 3,
+      "outlet": "Swad Snacks"
+    },
+    {
+      "name": "Bhel",
+      "price": 40,
+      "protein": 4,
+      "carbs": 35,
+      "fat": 3,
+      "outlet": "Swad Snacks"
+    },
+    {
+      "name": "Papdi Chaat",
+      "price": 50,
+      "protein": 6,
+      "carbs": 45,
+      "fat": 6,
+      "outlet": "Swad Snacks"
+    },
+    {
+      "name": "Dahi Puri",
+      "price": 50,
+      "protein": 7,
+      "carbs": 40,
+      "fat": 6,
+      "outlet": "Swad Snacks"
+    }
+  ]
+}

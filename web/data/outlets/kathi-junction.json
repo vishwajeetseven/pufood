@@ -1,0 +1,623 @@
+{
+  "id": "kathi-junction",
+  "name": "Kathi Junction",
+  "menuLink": "https://www.pufood.xyz/Menu/Kathi%20Junction.pdf",
+  "items": [
+    {
+      "name": "Veg Rolls",
+      "price": 60,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 3,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Rumalt Rolls",
+      "price": 80,
+      "protein": 6,
+      "carbs": 25,
+      "fat": 4,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Single Aloo Roll",
+      "price": 60,
+      "protein": 4,
+      "carbs": 22,
+      "fat": 3,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Double A/co Roll",
+      "price": 90,
+      "protein": 7,
+      "carbs": 28,
+      "fat": 5,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Single Veggie Roll",
+      "price": 60,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 3,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Double Veggie Roll",
+      "price": 110,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 6,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Single Paneer Roll",
+      "price": 80,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Double Paneer Roll",
+      "price": 120,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 8,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Sgl Paneer Bhurji Roll",
+      "price": 100,
+      "protein": 9,
+      "carbs": 22,
+      "fat": 7,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Db Paneer Bhurji Roll",
+      "price": 150,
+      "protein": 12,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Sgl Paneer Tikka Roll",
+      "price": 120,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 8,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Dbl Paneer Tikka Roll",
+      "price": 160,
+      "protein": 14,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Sgl Soya Chaamp Roll",
+      "price": 100,
+      "protein": 11,
+      "carbs": 22,
+      "fat": 6,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Db Soya Chaamp Roll",
+      "price": 150,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 9,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Sgl Mushroom Roll",
+      "price": 110,
+      "protein": 8,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Db Mushroom Roll",
+      "price": 160,
+      "protein": 12,
+      "carbs": 25,
+      "fat": 8,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Jumbo Veg Roll",
+      "price": 170,
+      "protein": 14,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Veg Rumali Palli",
+      "price": 80,
+      "protein": 6,
+      "carbs": 20,
+      "fat": 4,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Paneer Rumali Roll",
+      "price": 100,
+      "protein": 8,
+      "carbs": 22,
+      "fat": 6,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Mushroom Rumali Roll",
+      "price": 120,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Chicken Rumali Roll",
+      "price": 140,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Chicken Tikka Rumali Roll",
+      "price": 160,
+      "protein": 18,
+      "carbs": 22,
+      "fat": 10,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Veg Biryani Half",
+      "price": 110,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Veg Biryani Full",
+      "price": 150,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 8,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Veg Paneer Pulav",
+      "price": 140,
+      "protein": 9,
+      "carbs": 40,
+      "fat": 7,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Egg Pulav",
+      "price": 120,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 6,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Chicken Biryani Half",
+      "price": 170,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Chicken Biryani Full",
+      "price": 220,
+      "protein": 20,
+      "carbs": 50,
+      "fat": 15,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Bottled Water",
+      "price": 20,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Cold Drinks",
+      "price": 60,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Variety Drinks",
+      "price": 60,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Iced Tea",
+      "price": 60,
+      "protein": 0,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 60,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Single Egg Roll",
+      "price": 80,
+      "protein": 8,
+      "carbs": 15,
+      "fat": 8,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Double Egg Roll",
+      "price": 120,
+      "protein": 12,
+      "carbs": 20,
+      "fat": 12,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Single Chicken Roll",
+      "price": 110,
+      "protein": 15,
+      "carbs": 15,
+      "fat": 8,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Double Chicken Roll",
+      "price": 160,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 12,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Single Egg/Chicken Roll",
+      "price": 130,
+      "protein": 18,
+      "carbs": 18,
+      "fat": 10,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Double Egg/Chicken Roll",
+      "price": 180,
+      "protein": 24,
+      "carbs": 24,
+      "fat": 15,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Chicken Tikka Roll",
+      "price": 140,
+      "protein": 20,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Double Chicken Tikka Roll",
+      "price": 200,
+      "protein": 28,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Single Egg/Chicken Tikka",
+      "price": 150,
+      "protein": 22,
+      "carbs": 18,
+      "fat": 12,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Double Egg/Chicken Tikka",
+      "price": 220,
+      "protein": 30,
+      "carbs": 24,
+      "fat": 18,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Single Chicken Seekh Roll",
+      "price": 160,
+      "protein": 20,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Double Chicken Seekh Roll",
+      "price": 220,
+      "protein": 28,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Single Egg/Seekh Chicken Roll",
+      "price": 170,
+      "protein": 24,
+      "carbs": 18,
+      "fat": 12,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "price": 150,
+      "protein": 10,
+      "carbs": 15,
+      "fat": 15,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Butter Chicken Masala",
+      "price": 170,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "price": 170,
+      "protein": 22,
+      "carbs": 12,
+      "fat": 12,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Mushroom Masala",
+      "price": 150,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Soya Chaap Masala",
+      "price": 150,
+      "protein": 15,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Boiled Egg Chatpata",
+      "price": 120,
+      "protein": 12,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Single Egg Omelet",
+      "price": 60,
+      "protein": 8,
+      "carbs": 2,
+      "fat": 10,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Double Egg Omelet",
+      "price": 100,
+      "protein": 14,
+      "carbs": 4,
+      "fat": 18,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Egg Bhurji Single",
+      "price": 80,
+      "protein": 10,
+      "carbs": 5,
+      "fat": 12,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Egg Bhurji Double",
+      "price": 130,
+      "protein": 18,
+      "carbs": 8,
+      "fat": 20,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Egg Masala Pav",
+      "price": 100,
+      "protein": 12,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Half Fry",
+      "price": 80,
+      "protein": 10,
+      "carbs": 2,
+      "fat": 12,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Boiled Eggs (1/5)",
+      "price": 40,
+      "protein": 6,
+      "carbs": 1,
+      "fat": 5,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Paneer Tikka",
+      "price": 140,
+      "protein": 12,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Chicken Tikka",
+      "price": 170,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 8,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Paneer Momos",
+      "price": 50,
+      "protein": 8,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Veg Momos",
+      "price": 50,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 3,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Chicken Momos",
+      "price": 60,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Fried Momos",
+      "price": 40,
+      "protein": 6,
+      "carbs": 15,
+      "fat": 8,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Chinese Fried Rice",
+      "price": 130,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Chilli Chicken Half",
+      "price": 170,
+      "protein": 15,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Egg Fried Rice",
+      "price": 100,
+      "protein": 8,
+      "carbs": 35,
+      "fat": 6,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Chilli Chicken Full",
+      "price": 250,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Egg Schezwan Rice",
+      "price": 120,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "price": 120,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 150,
+      "protein": 12,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Egg Hakka Noodles",
+      "price": 130,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 7,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Chicken Schezwan Rice",
+      "price": 170,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Chicken Hakka Noodles",
+      "price": 150,
+      "protein": 12,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Chinese Bhel",
+      "price": 120,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Kathi Junction"
+    },
+    {
+      "name": "Chicken Schezwan Noodles",
+      "price": 170,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Kathi Junction"
+    }
+  ]
+}

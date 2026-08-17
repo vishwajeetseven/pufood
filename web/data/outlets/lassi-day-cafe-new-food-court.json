@@ -1,0 +1,1047 @@
+{
+  "id": "lassi-day-cafe-new-food-court",
+  "name": "Lassi Day Cafe, New Food Court",
+  "menuLink": "https://www.pufood.xyz/Menu/Lassiday.pdf",
+  "items": [
+    {
+      "name": "Sweet Lassi",
+      "price": 60,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Banana Lassi",
+      "price": 70,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Fruit Lassi",
+      "price": 80,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 80,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Strawberry Lassi",
+      "price": 80,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Pista Lassi",
+      "price": 90,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Dryfruit Lassi",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Fruit & Nut Lassi",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Royal Lassi",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Chocolate Chips Lassi",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Falooda SPL",
+      "price": 100,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Pista Falooda",
+      "price": 110,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Fruity Falooda",
+      "price": 120,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Royal Kashmiri Falooda",
+      "price": 130,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Milk Shakes",
+      "price": 135,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Banana Shake",
+      "price": 80,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Strawberry Shake",
+      "price": 80,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Oreo Milk Shake",
+      "price": 80,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Kit-Kat Milk Shake",
+      "price": 80,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Vanilla Shake",
+      "price": 80,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "MOJITO",
+      "price": 90,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Blue Blast",
+      "price": 90,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Watermelon Bubble",
+      "price": 90,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Berry Pop Bubble",
+      "price": 90,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Passion Fruit Bubble",
+      "price": 90,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Rainbow Bubble",
+      "price": 90,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 70,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Chocolate Coffee",
+      "price": 70,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Oreo & Coffee",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Coffee On Rocks",
+      "price": 100,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Belgian Coffee",
+      "price": 100,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Mud Coffee",
+      "price": 100,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Nutella Shake",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Nutella Fudge Ice Cream Nutella Brownie Ice Cream",
+      "price": 100,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Mexican Brownie",
+      "price": 90,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Fresh Lime",
+      "price": 65,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 0,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Chocolate Fudge",
+      "price": 90,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Strawberry Fudge",
+      "price": 90,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Watermelon",
+      "price": 70,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Pineapple",
+      "price": 80,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Pineapple Orange",
+      "price": 90,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Mango Orange",
+      "price": 90,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Fruit Salad Ice Cream & Jelly",
+      "price": 95,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Papaya",
+      "price": 70,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Pineapple Gurrant Fudge",
+      "price": 100,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "TraBud",
+      "price": 120,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Apple",
+      "price": 90,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "DRY FRUIT SHAKES",
+      "price": 110,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "DRY FRUIT SHAKES",
+      "price": 120,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "DRY FRUIT SHAKES",
+      "price": 135,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "DRY FRUIT SHAKES",
+      "price": 140,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Belgian Chips",
+      "price": 130,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Extra Cheese",
+      "price": 20,
+      "protein": 7,
+      "carbs": 1,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Extra Chocolate",
+      "price": 20,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Extra Choco Almond",
+      "price": 20,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Extra Kit Kat",
+      "price": 20,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Extra Oreo",
+      "price": 20,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Sizzling Brownie",
+      "price": 130,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Extra Ice Cream",
+      "price": 30,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Mumbai Vadapav",
+      "price": 140,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Tandoori Burgerpav",
+      "price": 140,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Crispy & Crunchy Burgerpav",
+      "price": 140,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Horny Corny Burgerpav",
+      "price": 140,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Maharaja Burgerpav",
+      "price": 140,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Cheesemar Burgerpav",
+      "price": 140,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 20,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Veg. Momos",
+      "price": 80,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Schezwan Momos",
+      "price": 90,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Veg Paneer Momos",
+      "price": 100,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Veg Cheese Momos",
+      "price": 110,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Fried Rice & Manchurian Gravy",
+      "price": 120,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Noodles & Manchurian Gravy",
+      "price": 120,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Fried Rice + Noodles + Manchurian",
+      "price": 140,
+      "protein": 5,
+      "carbs": 60,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Veg. Hakka Noodles Schezwan Noodles",
+      "price": 140,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Chinese Bhel",
+      "price": 140,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Manchurian Dry With Noodles",
+      "price": 150,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Manchurian Gravy With Schezwan Fried Rice",
+      "price": 150,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Manchurian Dry With Schezwan Noodles",
+      "price": 160,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Manchurian Gravy With Schezwan Fried Rice",
+      "price": 160,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Manchurian Dry With Schezwan Noodles",
+      "price": 170,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Manchurian Gravy With Schezwan Fried Rice",
+      "price": 170,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Paneer Tikka Pizza Pocket",
+      "price": 180,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Cheese Pizza Fingers",
+      "price": 180,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Garlic Bread",
+      "price": 180,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Cheese Garlic Bread",
+      "price": 180,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Margerita Pizza 8\"",
+      "price": 160,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 14,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "7 Cheese Pizza 8\"",
+      "price": 170,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Veg Pizza 8\"",
+      "price": 160,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 14,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Chef's Special Pizza 8\"",
+      "price": 180,
+      "protein": 12,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Paneer Pizza 8\"",
+      "price": 190,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Coke Float",
+      "price": 90,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Strawberry Float",
+      "price": 90,
+      "protein": 1,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Blueberry Float",
+      "price": 90,
+      "protein": 1,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Falafel Kebab",
+      "price": 70,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Harabhara Kebab",
+      "price": 70,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Smilies",
+      "price": 70,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Spring Roll",
+      "price": 70,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Chilli Garlic Potato Bites",
+      "price": 80,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Veg. Stickes Pizza Pocket",
+      "price": 80,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Potato Cheese Bites",
+      "price": 80,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Crazy Cheese Nuggets",
+      "price": 80,
+      "protein": 7,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Cheese Pizza Fingers",
+      "price": 80,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Wild Wedges",
+      "price": 80,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Paneer Pops",
+      "price": 80,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Loaded Nachos",
+      "price": 80,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "French Fries",
+      "price": 50,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Mayo Fries",
+      "price": 60,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Schezwan Fries",
+      "price": 70,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Cheese Fries",
+      "price": 70,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Cheese Mayo Fries",
+      "price": 70,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 20,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Chilli Cheese Fries",
+      "price": 70,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Masala Cheese Toast Sandwich",
+      "price": 50,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Mayo Sandwich",
+      "price": 50,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Rock & Roll",
+      "price": 60,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Veg Frank Roll",
+      "price": 60,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Twisty",
+      "price": 60,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Veg Paneer Roll",
+      "price": 60,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Potato Spiral",
+      "price": 60,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Veg Cheese Roll",
+      "price": 60,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Veg Schezwan Roll",
+      "price": 50,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Peri-Peri Masala",
+      "price": 60,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Cheese Masala",
+      "price": 60,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Veg Schezwan Paneer Roll",
+      "price": 80,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Veg Schezwan Cheese Roll",
+      "price": 80,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 20,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Veg Mayo Frank Roll",
+      "price": 60,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Noodles Frank Roll",
+      "price": 60,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Maggi",
+      "price": 40,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Veg Maggi",
+      "price": 60,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Veg Cheese Maggi",
+      "price": 60,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Veg Burger",
+      "price": 30,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    },
+    {
+      "name": "Veg Cheese Burger",
+      "price": 50,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Lassi Day Cafe, New Food Court"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "id": "momos-eatery-capitol",
+  "name": "Momos Eatery, Capitol",
+  "menuLink": "https://www.pufood.xyz/Menu/Momos%20Eatery.pdf",
+  "items": [
+    {
+      "name": "Veg Momos (5 Pcs)",
+      "price": 70,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Paneer Wata Momos",
+      "price": 100,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 8,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Spinach & Cheese Momos",
+      "price": 100,
+      "protein": 9,
+      "carbs": 38,
+      "fat": 7,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Cheese Veg Dumplings",
+      "price": 100,
+      "protein": 8,
+      "carbs": 35,
+      "fat": 9,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Spicy Veggie Dumplings Mix Platter (10 Pcs)",
+      "price": 180,
+      "protein": 14,
+      "carbs": 75,
+      "fat": 10,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Jain Momo",
+      "price": 60,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 4,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Wheat Momos (Veg.)",
+      "price": 80,
+      "protein": 7,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Cheese Corn Dumpling",
+      "price": 100,
+      "protein": 9,
+      "carbs": 40,
+      "fat": 8,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Paneer Tikka Momos",
+      "price": 120,
+      "protein": 12,
+      "carbs": 45,
+      "fat": 10,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Kurkure Momos",
+      "price": 120,
+      "protein": 10,
+      "carbs": 45,
+      "fat": 12,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Chicken Momos (5 Pcs)",
+      "price": 80,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 6,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Spicy Chicken Dumplings",
+      "price": 110,
+      "protein": 16,
+      "carbs": 45,
+      "fat": 8,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Cheese Wala Chicken Momos",
+      "price": 120,
+      "protein": 18,
+      "carbs": 45,
+      "fat": 10,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Mint Wala Chicken Momos",
+      "price": 110,
+      "protein": 16,
+      "carbs": 42,
+      "fat": 9,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Mutton Momos Mix Platter (10 Pcs)",
+      "price": 200,
+      "protein": 25,
+      "carbs": 70,
+      "fat": 15,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Wheat Momos (Chicken)",
+      "price": 90,
+      "protein": 17,
+      "carbs": 45,
+      "fat": 7,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "price": 130,
+      "protein": 8,
+      "carbs": 55,
+      "fat": 10,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Schezwan Noodles",
+      "price": 140,
+      "protein": 9,
+      "carbs": 58,
+      "fat": 12,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Veg Fried Rice",
+      "price": 140,
+      "protein": 7,
+      "carbs": 50,
+      "fat": 8,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 180,
+      "protein": 15,
+      "carbs": 55,
+      "fat": 10,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Fish Fried Rice",
+      "price": 200,
+      "protein": 18,
+      "carbs": 50,
+      "fat": 12,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Prawn Fried Rice",
+      "price": 240,
+      "protein": 20,
+      "carbs": 50,
+      "fat": 14,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Paneer Chilli Dry",
+      "price": 210,
+      "protein": 15,
+      "carbs": 45,
+      "fat": 12,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Dry Manchurian",
+      "price": 170,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Momos + Rice + Soft Drink",
+      "price": 200,
+      "protein": 15,
+      "carbs": 60,
+      "fat": 12,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Momos + Noodles + Soft Drink",
+      "price": 200,
+      "protein": 14,
+      "carbs": 65,
+      "fat": 12,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Fish Chilli Dry",
+      "price": 280,
+      "protein": 22,
+      "carbs": 45,
+      "fat": 14,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Prawn Chilli Dry",
+      "price": 320,
+      "protein": 24,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Chicken Chilli Dry",
+      "price": 240,
+      "protein": 20,
+      "carbs": 45,
+      "fat": 14,
+      "outlet": "Momos Eatery, Capitol"
+    },
+    {
+      "name": "Crispy Chicken Dry",
+      "price": 240,
+      "protein": 22,
+      "carbs": 40,
+      "fat": 16,
+      "outlet": "Momos Eatery, Capitol"
+    }
+  ]
+}

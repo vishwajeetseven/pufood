@@ -1,0 +1,79 @@
+{
+  "id": "cafe-appetito-new-food-court",
+  "name": "Cafe Appetito, New Food Court",
+  "menuLink": "https://www.pufood.xyz/Menu/Cafe%20Ape.pdf",
+  "items": [
+    {
+      "name": "Manchurian Dry",
+      "price": 100,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Cafe Appetito, New Food Court"
+    },
+    {
+      "name": "Manchurian Gravy",
+      "price": 110,
+      "protein": 6,
+      "carbs": 22,
+      "fat": 12,
+      "outlet": "Cafe Appetito, New Food Court"
+    },
+    {
+      "name": "Paneer Chili Dry",
+      "price": 150,
+      "protein": 12,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Cafe Appetito, New Food Court"
+    },
+    {
+      "name": "Paneer Chili Gravy",
+      "price": 170,
+      "protein": 14,
+      "carbs": 28,
+      "fat": 18,
+      "outlet": "Cafe Appetito, New Food Court"
+    },
+    {
+      "name": "Crunchy Vegetable",
+      "price": 130,
+      "protein": 5,
+      "carbs": 18,
+      "fat": 8,
+      "outlet": "Cafe Appetito, New Food Court"
+    },
+    {
+      "name": "Hakka Noodles",
+      "price": 100,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Cafe Appetito, New Food Court"
+    },
+    {
+      "name": "Schezwan Noodles",
+      "price": 120,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 12,
+      "outlet": "Cafe Appetito, New Food Court"
+    },
+    {
+      "name": "Chili Garlic Noodles",
+      "price": 130,
+      "protein": 8,
+      "carbs": 35,
+      "fat": 13,
+      "outlet": "Cafe Appetito, New Food Court"
+    },
+    {
+      "name": "Paneer Biryani",
+      "price": 150,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Cafe Appetito, New Food Court"
+    }
+  ]
+}

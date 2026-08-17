@@ -102,8 +102,8 @@ pufood/
 ├── web/                        # Web application
 │   ├── index.html             # Main web application
 │   ├── config.js              # Configuration file
-│   ├── data.json              # Food items database
-│   ├── outletMenus.json       # Outlet information
+│   ├── data/outlets/index.json # Outlet manifest
+│   ├── data/outlets/*.json    # One JSON file per outlet
 │   ├── manifest.json          # PWA manifest
 │   ├── Menu/                  # PDF menus
 │   ├── Lite-PUFood-main/      # Lightweight version
@@ -160,11 +160,37 @@ pufood/
 }
 ```
 
-### Outlet Menu Format
+### Outlet Manifest Format
 ```json
 {
+  "version": 1,
+  "outlets": [
+    {
+      "id": "outlet-slug",
+      "name": "Outlet Name",
+      "menuLink": "https://pufood.xyz/Menu/outlet-menu.pdf",
+      "dataFile": "data/outlets/outlet-slug.json"
+    }
+  ]
+}
+```
+
+### Per-Outlet Data File Format
+```json
+{
+  "id": "outlet-slug",
   "name": "Outlet Name",
-  "link": "https://pufood.xyz/Menu/outlet-menu.pdf"
+  "menuLink": "https://pufood.xyz/Menu/outlet-menu.pdf",
+  "items": [
+    {
+      "name": "Item Name",
+      "price": 50,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Outlet Name"
+    }
+  ]
 }
 ```
 
