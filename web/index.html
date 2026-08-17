@@ -76,6 +76,10 @@
       --secondary-bg: rgba(46, 40, 40, 0.1);
       --text-primary: #111;
       --text-secondary: #666;
+      --surface-bg: rgba(255, 255, 255, 0.16);
+      --surface-border: rgba(255, 255, 255, 0.35);
+      --accent: #de4e4e;
+      --accent-dark: #c03e3e;
       --border-radius: 25px;
       --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
       --shadow-sm: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
@@ -95,6 +99,7 @@
       font-family: "Poppins", sans-serif;
       background: url("bg1.jpg") no-repeat center center fixed;
       background-size: cover;
+      background-color: #111827;
       color: var(--text-primary);
       transition: var(--transition);
       overflow-x: hidden;
@@ -105,6 +110,16 @@
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
       position: relative;
+      line-height: 1.45;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      background: linear-gradient(145deg, rgba(17, 24, 39, 0.7), rgba(17, 24, 39, 0.4));
+      z-index: -1;
+      pointer-events: none;
     }
 
     .navbar {
@@ -112,7 +127,7 @@
       top: 0;
       left: 0;
       width: 100%;
-      background: rgba(46, 40, 40, 0.1);
+      background: rgba(17, 24, 39, 0.42);
       backdrop-filter: blur(10px);
       -webkit-backdrop-filter: blur(10px);
       padding: 10px 0;
@@ -125,6 +140,7 @@
       z-index: 1000;
       will-change: transform;
       transform: translateY(-100%);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.18);
     }
 
     .navbar-brand {
@@ -160,13 +176,14 @@
       backdrop-filter: blur(5px);
       -webkit-backdrop-filter: blur(5px);
       transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-      border: 1px solid rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.35);
     }
 
     .search-box:focus {
       transform: translateY(-1px);
       box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
       background: rgba(255, 255, 255, 0.98);
+      border-color: rgba(222, 78, 78, 0.35);
     }
 
     .filter-btn {
@@ -174,8 +191,8 @@
       right: 30px;
       top: 50%;
       transform: translateY(-50%);
-      background: none;
-      color: #666;
+      background: rgba(17, 24, 39, 0.06);
+      color: #4b5563;
       border: none;
       width: 40px;
       height: 40px;
@@ -189,7 +206,8 @@
     }
 
     .filter-btn:hover {
-      color: #333;
+      color: #111827;
+      background: rgba(17, 24, 39, 0.12);
     }
 
     .filter-btn i {
@@ -201,13 +219,15 @@
       top: 100%;
       left: 0;
       width: 100%;
-      background: white;
+      background: rgba(255, 255, 255, 0.98);
       border-radius: 0 0 15px 15px;
-      box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+      box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.12);
       max-height: 200px;
       overflow-y: auto;
       z-index: 1000;
       display: none;
+      border: 1px solid rgba(17, 24, 39, 0.08);
+      border-top: 0;
     }
 
     .search-suggestions div {
@@ -227,9 +247,9 @@
       top: 60px;
       left: 50%;
       transform: translateX(-50%);
-      background: white;
+      background: rgba(255, 255, 255, 0.96);
       padding: 20px;
-      box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+      box-shadow: 0px 18px 35px rgba(0, 0, 0, 0.18);
       border-radius: 15px;
       width: 90%;
       max-width: 350px;
@@ -237,6 +257,7 @@
       animation: slideUp 0.3s ease;
       overflow-y: auto;
       max-height: 70vh;
+      border: 1px solid rgba(17, 24, 39, 0.08);
     }
 
     .filter-dropdown h3 {
@@ -405,9 +426,11 @@
       border-radius: 20px;
       width: 90%;
       max-width: 600px;
-      backdrop-filter: blur(0px);
-      -webkit-backdrop-filter: blur(0px);
-      border: 0px solid rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.22);
+      background: rgba(17, 24, 39, 0.28);
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.35);
       animation: fadeInUp 0.8s cubic-bezier(0.4, 0, 0.2, 1);
     }
 
@@ -424,7 +447,8 @@
       width: 100%;
       backdrop-filter: blur(10px);
       min-height: 80px;
-      background: rgba(46, 40, 40, 0.1);
+      background: rgba(17, 24, 39, 0.48);
+      border-top: 1px solid rgba(255, 255, 255, 0.12);
       z-index: 999;
     }
 
@@ -432,14 +456,21 @@
       color: white;
       font-size: 3.5rem;
       font-weight: bold;
-      margin-bottom: 30px;
+      margin-bottom: 16px;
       padding: 10px;
-      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+      text-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);
       animation: scaleIn 0.8s cubic-bezier(0.4, 0, 0.2, 1);
-      background: linear-gradient(135deg, #ffffff 0%, #f0f0f0 100%);
+      background: linear-gradient(135deg, #ffffff 0%, #e5e7eb 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       letter-spacing: 1px;
+    }
+
+    .landing-subtitle {
+      color: rgba(255, 255, 255, 0.88);
+      margin: 0 0 22px;
+      font-size: 1rem;
+      font-weight: 500;
     }
 
     .food-list {
@@ -541,11 +572,11 @@
     }
 
     .results-counter {
-      background: rgba(255, 255, 255, 0.1);
+      background: rgba(17, 24, 39, 0.45);
       backdrop-filter: blur(10px);
       padding: 10px 20px;
       border-radius: 8px;
-      color: white;
+      color: #f9fafb;
       text-align: center;
       margin-bottom: 20px;
       font-size: 1.1rem;
@@ -558,14 +589,14 @@
     }
 
     .outlet-group {
-      background: rgba(255, 255, 255, 0.08);
+      background: var(--surface-bg);
       backdrop-filter: blur(15px);
       -webkit-backdrop-filter: blur(15px);
       border-radius: 16px;
       padding: 20px;
       box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
       transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-      border: 1px solid rgba(255, 255, 255, 0.1);
+      border: 1px solid var(--surface-border);
       margin-bottom: 20px;
     }
 
@@ -591,7 +622,7 @@
     .outlet-name {
       font-size: 1.5rem;
       font-weight: bold;
-      color: #333;
+      color: #111827;
       margin-bottom: 4px;
     }
 
@@ -603,7 +634,7 @@
 
     .view-menu-btn {
       padding: 8px 15px;
-      background-color: #de4e4e;
+      background-color: var(--accent);
       color: white;
       text-decoration: none;
       border-radius: 5px;
@@ -612,7 +643,7 @@
     }
 
     .view-menu-btn:hover {
-      background-color: #c03e3e;
+      background-color: var(--accent-dark);
     }
 
     .food-items {
@@ -622,7 +653,7 @@
     }
 
     .food-item {
-      background: rgba(255, 255, 255, 0.95);
+      background: rgba(255, 255, 255, 0.97);
       border-radius: 12px;
       padding: 15px;
       box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
@@ -632,7 +663,7 @@
       transition: all 0.4s cubic-bezier(0.2, 0.8, 0.2, 1);
       will-change: transform, opacity, box-shadow;
       cursor: pointer;
-      border: 1px solid rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(17, 24, 39, 0.08);
       backdrop-filter: blur(5px);
       -webkit-backdrop-filter: blur(5px);
     }
@@ -687,12 +718,13 @@
     .outlet-header {
       cursor: pointer;
       padding: 15px;
-      background: rgba(255, 255, 255, 0.9);
+      background: rgba(255, 255, 255, 0.95);
       border-radius: 10px;
       margin-bottom: 10px;
       display: flex;
       justify-content: space-between;
       align-items: center;
+      border: 1px solid rgba(17, 24, 39, 0.08);
     }
 
     .toggle-icon {
@@ -718,7 +750,7 @@
       font-size: 1.2rem;
       font-weight: bold;
       margin-bottom: 10px;
-      color: #333;
+      color: #111827;
       display: flex;
       align-items: center;
       gap: 10px;
@@ -733,7 +765,7 @@
 
     .food-macros {
       font-size: 0.9rem;
-      color: #666;
+      color: #4b5563;
       display: flex;
       gap: 10px;
       margin-bottom: 10px;
@@ -917,7 +949,8 @@
       backdrop-filter: blur(10px);
       margin-top: 10px;
       min-height: 80px;
-      background: rgba(46, 40, 40, 0.1);
+      background: rgba(17, 24, 39, 0.48);
+      border-top: 1px solid rgba(255, 255, 255, 0.12);
     }
 
     footer p {
@@ -1231,6 +1264,7 @@
         document.write(texts[Math.floor(Math.random() * texts.length)]);
       </script>
     </div>
+    <p class="landing-subtitle">Discover the best food options on campus, fast.</p>
     <div class="search-container">
       <input type="text" id="landingSearch" class="search-box" placeholder="Search for food or the outlet...">
     </div>
