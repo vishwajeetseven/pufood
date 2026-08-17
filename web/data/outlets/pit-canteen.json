@@ -1,0 +1,207 @@
+{
+  "id": "pit-canteen",
+  "name": "PIT Canteen",
+  "menuLink": "https://www.pufood.xyz/Menu/PIT.pdf",
+  "items": [
+    {
+      "name": "Tea",
+      "price": 10,
+      "protein": 1,
+      "carbs": 2,
+      "fat": 0,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Coffee",
+      "price": 15,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 1,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Hot Milk",
+      "price": 20,
+      "protein": 6,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Hot Bournvita",
+      "price": 30,
+      "protein": 8,
+      "carbs": 25,
+      "fat": 6,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Poha",
+      "price": 20,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Simple Samosa",
+      "price": 30,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Cheese Samosa",
+      "price": 30,
+      "protein": 7,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Manchurian Dry",
+      "price": 50,
+      "protein": 8,
+      "carbs": 45,
+      "fat": 12,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Manchurian Dry (Cheese)",
+      "price": 60,
+      "protein": 10,
+      "carbs": 45,
+      "fat": 18,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Bread Pakoda",
+      "price": 30,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 12,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Manchurian Gravy",
+      "price": 50,
+      "protein": 9,
+      "carbs": 50,
+      "fat": 14,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Manchurian Gravy (Cheese)",
+      "price": 60,
+      "protein": 11,
+      "carbs": 50,
+      "fat": 20,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Vada Pav",
+      "price": 30,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Hakka Noodles",
+      "price": 50,
+      "protein": 8,
+      "carbs": 55,
+      "fat": 14,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Hakka Noodles (Cheese)",
+      "price": 60,
+      "protein": 10,
+      "carbs": 55,
+      "fat": 20,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Sev Khamani",
+      "price": 30,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 8,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Chinese Bhel",
+      "price": 50,
+      "protein": 6,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Chinese Bhel (Cheese)",
+      "price": 60,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 16,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Regular Masala Maggi",
+      "price": 40,
+      "protein": 7,
+      "carbs": 45,
+      "fat": 14,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Regular Masala Maggi (Cheese)",
+      "price": 50,
+      "protein": 9,
+      "carbs": 45,
+      "fat": 20,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Aloo Matar Sandwich",
+      "price": 30,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Aloo Matar Sandwich (Toasted)",
+      "price": 40,
+      "protein": 7,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Vegetable Sandwich",
+      "price": 30,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 6,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Vegetable Sandwich (Toasted)",
+      "price": 40,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 8,
+      "outlet": "PIT Canteen"
+    },
+    {
+      "name": "Fix Thali (Daily Lunch)",
+      "price": 60,
+      "protein": 15,
+      "carbs": 70,
+      "fat": 20,
+      "outlet": "PIT Canteen"
+    }
+  ]
+}

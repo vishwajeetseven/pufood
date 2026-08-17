@@ -1,0 +1,183 @@
+{
+  "id": "egg-zone-greenzy",
+  "name": "Egg Zone, Greenzy",
+  "menuLink": "https://www.pufood.xyz/Menu/Egg%20Zone.pdf",
+  "items": [
+    {
+      "name": "Masala Bread Omelet",
+      "price": 30,
+      "protein": 12,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Cheese Masala Omelet",
+      "price": 40,
+      "protein": 15,
+      "carbs": 28,
+      "fat": 12,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Cheese French Toast",
+      "price": 50,
+      "protein": 18,
+      "carbs": 32,
+      "fat": 14,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Tomato Omelet",
+      "price": 40,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "American Omelet",
+      "price": 50,
+      "protein": 16,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Boiled Egg (2 pcs)",
+      "price": 25,
+      "protein": 14,
+      "carbs": 2,
+      "fat": 10,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Boiled Fry (2 pcs)",
+      "price": 35,
+      "protein": 14,
+      "carbs": 5,
+      "fat": 12,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Masala Boiled Fry (2 pcs)",
+      "price": 45,
+      "protein": 14,
+      "carbs": 8,
+      "fat": 14,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Cheese Boiled Fry Egg (2 pcs)",
+      "price": 45,
+      "protein": 16,
+      "carbs": 10,
+      "fat": 16,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Egg Pulao (Half)",
+      "price": 60,
+      "protein": 20,
+      "carbs": 50,
+      "fat": 15,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Egg Pulao (Full)",
+      "price": 90,
+      "protein": 30,
+      "carbs": 80,
+      "fat": 20,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Egg Roll (2 Bun)",
+      "price": 60,
+      "protein": 18,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Tikka Roll (2 Bun)",
+      "price": 60,
+      "protein": 20,
+      "carbs": 38,
+      "fat": 14,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Mayo Roll (2 Bun)",
+      "price": 70,
+      "protein": 22,
+      "carbs": 40,
+      "fat": 18,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Egg Frankie",
+      "price": 50,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Cheese Frankie",
+      "price": 60,
+      "protein": 18,
+      "carbs": 32,
+      "fat": 14,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Egg Bhurji (2 eggs)",
+      "price": 70,
+      "protein": 14,
+      "carbs": 5,
+      "fat": 12,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Cheese Bhurji (2 eggs)",
+      "price": 80,
+      "protein": 18,
+      "carbs": 8,
+      "fat": 15,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Half Fry",
+      "price": 30,
+      "protein": 12,
+      "carbs": 3,
+      "fat": 10,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Cheese Half Fry",
+      "price": 40,
+      "protein": 14,
+      "carbs": 5,
+      "fat": 12,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Egg Masala Maggie",
+      "price": 50,
+      "protein": 10,
+      "carbs": 45,
+      "fat": 8,
+      "outlet": "Egg Zone, Greenzy"
+    },
+    {
+      "name": "Egg Special Maggie",
+      "price": 60,
+      "protein": 12,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Egg Zone, Greenzy"
+    }
+  ]
+}

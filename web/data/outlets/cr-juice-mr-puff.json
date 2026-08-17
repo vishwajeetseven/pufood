@@ -1,0 +1,279 @@
+{
+  "id": "cr-juice-mr-puff",
+  "name": "CR Juice, Mr. Puff",
+  "menuLink": "https://www.pufood.xyz/Menu/CR%20Juice%20-%20in%20Mr%20Puff.pdf",
+  "items": [
+    {
+      "name": "Chikoo Shake",
+      "price": 30,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Mosambi Juice",
+      "price": 50,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Pineapple Juice",
+      "price": 50,
+      "protein": 1,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Chocolate Chikoo Shake",
+      "price": 40,
+      "protein": 3,
+      "carbs": 35,
+      "fat": 3,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Banana Shake",
+      "price": 30,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Orange Juice",
+      "price": 50,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Chocolate Banana Shake",
+      "price": 40,
+      "protein": 3,
+      "carbs": 35,
+      "fat": 3,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Watermelon Juice",
+      "price": 30,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Red Pineapple Juice",
+      "price": 50,
+      "protein": 1,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Mango Shake",
+      "price": 40,
+      "protein": 2,
+      "carbs": 35,
+      "fat": 2,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Orange Pineapple Juice",
+      "price": 50,
+      "protein": 1,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Papaya Shake",
+      "price": 30,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 1,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Sp. Badam Shake",
+      "price": 50,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Fruit Salad",
+      "price": 40,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 1,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Mava Anjeer Shake",
+      "price": 50,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Butterscotch Shake",
+      "price": 30,
+      "protein": 2,
+      "carbs": 35,
+      "fat": 3,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Royal Pan Shake",
+      "price": 30,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 40,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 3,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Choco Parle",
+      "price": 30,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 3,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Kiwi Shake",
+      "price": 40,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 1,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Rose Shake",
+      "price": 30,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 1,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Strawberry Shake",
+      "price": 40,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Bournville Shake",
+      "price": 30,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 3,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Oreo Shake",
+      "price": 50,
+      "protein": 3,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Thandai Shake",
+      "price": 30,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Chocolate Crunch Shake",
+      "price": 40,
+      "protein": 3,
+      "carbs": 35,
+      "fat": 3,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Gulkand Shake",
+      "price": 30,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 1,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Rasmalai Shake",
+      "price": 40,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 3,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Black Currant Shake",
+      "price": 30,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 1,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Pista Milk Shake",
+      "price": 50,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Green Apple Shake",
+      "price": 30,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 1,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Sp. Cold Coco",
+      "price": 40,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 3,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Pineapple Shake",
+      "price": 40,
+      "protein": 1,
+      "carbs": 30,
+      "fat": 1,
+      "outlet": "CR Juice, Mr. Puff"
+    },
+    {
+      "name": "Very Berry Shake",
+      "price": 40,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "CR Juice, Mr. Puff"
+    }
+  ]
+}

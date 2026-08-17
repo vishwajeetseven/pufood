@@ -1,0 +1,239 @@
+{
+  "id": "yo-frankie-utopia",
+  "name": "Yo Frankie, Utopia",
+  "menuLink": "https://www.pufood.xyz/Menu/Yo%20Frankie.pdf",
+  "items": [
+    {
+      "name": "Classic Veg Frankie",
+      "price": 70,
+      "protein": 8,
+      "carbs": 45,
+      "fat": 10,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Veg Frankie Paratha Frankie",
+      "price": 80,
+      "protein": 9,
+      "carbs": 50,
+      "fat": 12,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Crispy Kurkure Frankie",
+      "price": 80,
+      "protein": 10,
+      "carbs": 52,
+      "fat": 14,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Veg Cheese Frankie",
+      "price": 100,
+      "protein": 12,
+      "carbs": 48,
+      "fat": 18,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Paneer Frankie",
+      "price": 110,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 20,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Paneer Kurkure Frankie",
+      "price": 120,
+      "protein": 18,
+      "carbs": 55,
+      "fat": 22,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Jain Veg Frankie",
+      "price": 100,
+      "protein": 8,
+      "carbs": 45,
+      "fat": 9,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Jain Veg Cheese Frankie",
+      "price": 120,
+      "protein": 12,
+      "carbs": 48,
+      "fat": 16,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Veg Burger",
+      "price": 60,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 8,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Veg Cheese Burger",
+      "price": 70,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 12,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Tangy Tandoori Burger",
+      "price": 70,
+      "protein": 9,
+      "carbs": 45,
+      "fat": 14,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Paneer Burger",
+      "price": 90,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 18,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Veg Momos (Steamed) 6 Pcs.",
+      "price": 70,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 4,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Kurkure Momos (Fried) 6 Pcs.",
+      "price": 90,
+      "protein": 7,
+      "carbs": 38,
+      "fat": 10,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Paneer Momos (Steamed) 6 Pcs.",
+      "price": 90,
+      "protein": 12,
+      "carbs": 35,
+      "fat": 6,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Paneer Kurkure Momos (Fried) 6 Pcs.",
+      "price": 110,
+      "protein": 14,
+      "carbs": 38,
+      "fat": 12,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Addon - Lays Chips",
+      "price": 15,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Loaded Schezwan",
+      "price": 20,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 6,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Loaded Mayo",
+      "price": 30,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 12,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Loaded Cheese",
+      "price": 40,
+      "protein": 5,
+      "carbs": 4,
+      "fat": 14,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Veg Puff",
+      "price": 20,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 8,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Cheese Puff",
+      "price": 40,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 12,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Mayo Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 27,
+      "fat": 10,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Garlic Puff",
+      "price": 30,
+      "protein": 4,
+      "carbs": 26,
+      "fat": 9,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Veg Roll",
+      "price": 20,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 6,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Maska Bun",
+      "price": 25,
+      "protein": 4,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Maska Bun-Big",
+      "price": 40,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Pudding Cake",
+      "price": 40,
+      "protein": 4,
+      "carbs": 50,
+      "fat": 15,
+      "outlet": "Yo Frankie, Utopia"
+    },
+    {
+      "name": "Spl. Lassi",
+      "price": 40,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Yo Frankie, Utopia"
+    }
+  ]
+}

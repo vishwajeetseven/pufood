@@ -1,0 +1,175 @@
+{
+  "id": "cheese-and-chips-capitol",
+  "name": "Cheese & Chips, Capitol",
+  "menuLink": "https://www.pufood.xyz/Menu/Cheese%20&%20Chips.pdf",
+  "items": [
+    {
+      "name": "Aloo Tikki Combo (Buy 1 Get 1)",
+      "price": 90,
+      "protein": 10,
+      "carbs": 45,
+      "fat": 15,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Toofani Burger + Cold Drink",
+      "price": 95,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 20,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Cheesy Combo (Fries + Cheesy Samosa + Cold Drink)",
+      "price": 130,
+      "protein": 12,
+      "carbs": 55,
+      "fat": 18,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Cool Combo (Herb Cheese Burger + Fries)",
+      "price": 110,
+      "protein": 14,
+      "carbs": 48,
+      "fat": 16,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Great Combo (Masala Cheese Burger + ChocoBlast)",
+      "price": 160,
+      "protein": 18,
+      "carbs": 60,
+      "fat": 22,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Sandwich Combo (Paneer Tikka Masala Sandwich + Fries + Cold Drink)",
+      "price": 170,
+      "protein": 20,
+      "carbs": 65,
+      "fat": 25,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Wrap Combo (Paneer Makhni Wrap + Masala Fries + Cold Drink)",
+      "price": 180,
+      "protein": 22,
+      "carbs": 70,
+      "fat": 26,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Happy Meal (Masala Cheese Burger + Fries + ChocoBlast)",
+      "price": 200,
+      "protein": 20,
+      "carbs": 75,
+      "fat": 28,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Veggi Roll Combo (Buy 1 Get 1)",
+      "price": 110,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 18,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Pizza Fries Combo (Pizza + Fries)",
+      "price": 160,
+      "protein": 18,
+      "carbs": 60,
+      "fat": 22,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Pizza Combo (Italian Pizza + Cheese Chilly Garlic Bread + Cold Drink)",
+      "price": 220,
+      "protein": 22,
+      "carbs": 75,
+      "fat": 30,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "French Fries Salted",
+      "price": 60,
+      "protein": 3,
+      "carbs": 40,
+      "fat": 12,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Masala Fries",
+      "price": 80,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 14,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Peri-Peri Fries",
+      "price": 100,
+      "protein": 3,
+      "carbs": 44,
+      "fat": 16,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Cheesy Masala Fries",
+      "price": 100,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 18,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Paneer Tikka Masala Grill Sandwich",
+      "price": 90,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 20,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Cheese Corn Sandwich",
+      "price": 80,
+      "protein": 12,
+      "carbs": 50,
+      "fat": 18,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Vada Pav",
+      "price": 40,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 10,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Cheese Vada Pav",
+      "price": 50,
+      "protein": 7,
+      "carbs": 48,
+      "fat": 12,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Paneer Tikka Pizza",
+      "price": 180,
+      "protein": 20,
+      "carbs": 65,
+      "fat": 22,
+      "outlet": "Cheese & Chips, Capitol"
+    },
+    {
+      "name": "Cheesy Jalapeno Pizza",
+      "price": 160,
+      "protein": 18,
+      "carbs": 60,
+      "fat": 20,
+      "outlet": "Cheese & Chips, Capitol"
+    }
+  ]
+}

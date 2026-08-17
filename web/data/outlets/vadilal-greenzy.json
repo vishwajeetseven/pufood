@@ -1,0 +1,207 @@
+{
+  "id": "vadilal-greenzy",
+  "name": "Vadilal, Greenzy",
+  "menuLink": null,
+  "items": [
+    {
+      "name": "Dark Truffle",
+      "price": 750,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 12,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Cookies 'N' Cream",
+      "price": 350,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Choco Almond Crunch",
+      "price": 350,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 14,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Mango",
+      "price": 350,
+      "protein": 3,
+      "carbs": 50,
+      "fat": 8,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Red Velvet",
+      "price": 750,
+      "protein": 4,
+      "carbs": 44,
+      "fat": 12,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Kesar Pista",
+      "price": 50,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 11,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Choco Brownie",
+      "price": 740,
+      "protein": 6,
+      "carbs": 43,
+      "fat": 15,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Butterscotch Cookie Disc",
+      "price": 50,
+      "protein": 4,
+      "carbs": 39,
+      "fat": 10,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Strawberry Swirl Cake",
+      "price": 250,
+      "protein": 3,
+      "carbs": 46,
+      "fat": 9,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Belgian Chocolate",
+      "price": 750,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 13,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Chocolate Disc",
+      "price": 250,
+      "protein": 4,
+      "carbs": 41,
+      "fat": 10,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Choco Raspberry Crush",
+      "price": 240,
+      "protein": 3,
+      "carbs": 44,
+      "fat": 9,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Choco Crackle",
+      "price": 50,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 12,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Kesar Mohini",
+      "price": 50,
+      "protein": 4,
+      "carbs": 39,
+      "fat": 11,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Silk Chocolate",
+      "price": 750,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 12,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Pistachio Almond Fudge",
+      "price": 250,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 14,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Choco Brownie Dip",
+      "price": 50,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 13,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Kesar Matka Kulfi",
+      "price": 760,
+      "protein": 4,
+      "carbs": 41,
+      "fat": 10,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Cassatta Slice Ice Cream",
+      "price": 260,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 11,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Ice Cream Sandwich Vanilla",
+      "price": 830,
+      "protein": 4,
+      "carbs": 39,
+      "fat": 12,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Aam Chaska",
+      "price": 25,
+      "protein": 3,
+      "carbs": 50,
+      "fat": 8,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Badam Pista Kesar",
+      "price": 460,
+      "protein": 5,
+      "carbs": 43,
+      "fat": 12,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Mawa Malai",
+      "price": 250,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 11,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Rajwadi One-up Chocobar",
+      "price": 240,
+      "protein": 5,
+      "carbs": 44,
+      "fat": 10,
+      "outlet": "Vadilal, Greenzy"
+    },
+    {
+      "name": "Shahi Pista",
+      "price": 30,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 10,
+      "outlet": "Vadilal, Greenzy"
+    }
+  ]
+}

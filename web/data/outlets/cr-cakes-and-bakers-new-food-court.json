@@ -1,0 +1,599 @@
+{
+  "id": "cr-cakes-and-bakers-new-food-court",
+  "name": "CR Cakes & Bakers, New Food Court",
+  "menuLink": "https://www.pufood.xyz/Menu/CR.pdf",
+  "items": [
+    {
+      "name": "Alootiki Burger",
+      "price": 30,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Alootiki Maye Burger",
+      "price": 40,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Aloofiki Sezwan Burger",
+      "price": 40,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Chatpata Burger",
+      "price": 40,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Garlic Burger",
+      "price": 40,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Mexican Burger",
+      "price": 50,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Salsa Burger",
+      "price": 40,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Double Alootiki Burger",
+      "price": 50,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Veg. Cheese Burger",
+      "price": 50,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Paneer Bhurji Burger",
+      "price": 50,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Peri Peri Cheese Burger",
+      "price": 50,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Britter Puff",
+      "price": 20,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Schezwan Puff",
+      "price": 30,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Mayonnaise Puff",
+      "price": 30,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Tandoori Puff",
+      "price": 30,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Chatpata Puff",
+      "price": 30,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Garlic Puff",
+      "price": 30,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Paneer Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Cheese Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Peri Peri Puff",
+      "price": 30,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Veg Sandwich",
+      "price": 40,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Bombay Cheese Sandwich",
+      "price": 60,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Cheese Chili Corn Grilled Sandwich",
+      "price": 60,
+      "protein": 7,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Schezwan Cheese Grilled Corn Sandwich",
+      "price": 60,
+      "protein": 7,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Veg. Alootiki Grilled Sandwich",
+      "price": 60,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Peri Peri Cheese Grilled",
+      "price": 60,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Chatpata Cheese Grilled Sandwich",
+      "price": 60,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Mexican Sandwich",
+      "price": 60,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Garlic Sandwich",
+      "price": 60,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Paneer Tandoori Grilled Sandwich",
+      "price": 60,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Paneer Bhurji Cheese Grilled Sandwich",
+      "price": 60,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Cheese Garlic Bread",
+      "price": 70,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Muska Bun",
+      "price": 20,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Vanilla Muska Bun",
+      "price": 20,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Chocolate Muska Bun",
+      "price": 30,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Double Chocolate Muska Bun",
+      "price": 30,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Salted Fries",
+      "price": 40,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Mayo Fries",
+      "price": 60,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Peri Peri Fries",
+      "price": 60,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Cheese Fries",
+      "price": 60,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Peri Peri Cheese Fries",
+      "price": 70,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Mexican Fries",
+      "price": 60,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Veg Frankie",
+      "price": 40,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Veg Mayo Frankie",
+      "price": 50,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Veg Chatpata Frankie",
+      "price": 50,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Veg Schezwan Frankie",
+      "price": 50,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Veg Cheese Frankie",
+      "price": 50,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Double Cheese Frankie",
+      "price": 60,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Tandoori Paneer Frankie",
+      "price": 60,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Paneer Bhurji Frankie",
+      "price": 60,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Chocolate Brownie",
+      "price": 60,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Choco Lava",
+      "price": 50,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Donuts",
+      "price": 65,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Muffins",
+      "price": 10,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Vada Pav",
+      "price": 30,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Masala Stuff Bun",
+      "price": 30,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Paneer Bhurji Roll",
+      "price": 50,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Paneer Tandoori Roll",
+      "price": 60,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Cheese Paneer Bhurji Roll",
+      "price": 60,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Watermelon Dish",
+      "price": 30,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 0,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Banana Dish",
+      "price": 30,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Grapes Dish",
+      "price": 40,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Watermelon Banana Dish",
+      "price": 40,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Watermelon Pineapple Dish",
+      "price": 50,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Papaya Dish",
+      "price": 30,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Pineapple Dish",
+      "price": 60,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Grapes Watermelon Dish",
+      "price": 50,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Papaya Pineapple Dish",
+      "price": 50,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Mix Fruit Dish",
+      "price": 60,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Kiwi Dish",
+      "price": 80,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Muskmelon Dish",
+      "price": 30,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 0,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Guvava Dish",
+      "price": 40,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Mango Dish",
+      "price": 40,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    },
+    {
+      "name": "Dragon Fruit Dish",
+      "price": 100,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "CR Cakes & Bakers, New Food Court"
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "id": "cafe-bollywood-ac-canteen",
+  "name": "Cafe Bollywood, AC Canteen",
+  "menuLink": "https://www.pufood.xyz/Menu/Cafe%20Bollywood.pdf",
+  "items": [
+    {
+      "name": "Veg Sandwich",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Steam Idli (2pcs)",
+      "price": 30,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "price": 50,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Only Cheese Sandwich",
+      "price": 40,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Medu Wada (2pcs)",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Sada Dosa",
+      "price": 30,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Bread Butter",
+      "price": 30,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Idli Wada",
+      "price": 30,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Poha",
+      "price": 20,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Butter Vada Pav (1pc)",
+      "price": 30,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Batata Vada Plate",
+      "price": 30,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Bread Pakoda Samosa Plate",
+      "price": 30,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Bhajiya Plate",
+      "price": 30,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Methi Gota",
+      "price": 50,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Misal Pav",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Ragda Pav Puri Bhaji",
+      "price": 50,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Cheese Sada Dosa",
+      "price": 60,
+      "protein": 6,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Mysore Sada Dosa",
+      "price": 60,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Masala Dosa",
+      "price": 60,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Mysore Masala Dosa",
+      "price": 70,
+      "protein": 6,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Schezwan Sada Dosa",
+      "price": 60,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Paper Sada Dosa",
+      "price": 90,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Paper Masala Dosa",
+      "price": 110,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Sada Uttapam",
+      "price": 50,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Onion or Tomato Uttapam",
+      "price": 60,
+      "protein": 6,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Bread Butter Jam",
+      "price": 40,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Masala Toast Sandwich",
+      "price": 40,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Masala Cheese Toast Sandwich",
+      "price": 50,
+      "protein": 7,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Mayo Sandwich",
+      "price": 50,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Masala Uttapam",
+      "price": 60,
+      "protein": 6,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Plain Pav (1pc)",
+      "price": 30,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Maggi",
+      "price": 40,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Veg Burger",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Veg Cheese Burger",
+      "price": 50,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Rock & Roll",
+      "price": 50,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Veg Maggi",
+      "price": 40,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Veg Cheese Maggi",
+      "price": 50,
+      "protein": 7,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Plain Fries",
+      "price": 50,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Mayo Fries",
+      "price": 70,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Schezwan Fries",
+      "price": 70,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Cheese Fries",
+      "price": 70,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Cheese Mayo Fries",
+      "price": 70,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Chilli Cheese Fries",
+      "price": 70,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Twisty Potato Spiral",
+      "price": 50,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Peri-Peri Masala",
+      "price": 50,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Cheese Masala",
+      "price": 50,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 12,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Kit-Kat Milk Shake",
+      "price": 60,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Pink Guava",
+      "price": 60,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Mojito",
+      "price": 60,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Mojito Royale",
+      "price": 60,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Kiwi Mojito",
+      "price": 60,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Watermelon Mojito",
+      "price": 60,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Green Apple Mojito",
+      "price": 60,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Veg Frank Roll",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Veg Paneer Roll",
+      "price": 60,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Veg Cheese Roll",
+      "price": 60,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Veg Schezwan Roll",
+      "price": 50,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Veg Schezwan Paneer Roll",
+      "price": 80,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Veg Schezwan Cheese Roll",
+      "price": 80,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Veg Mayo Frank Roll",
+      "price": 60,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Noodles Frank Roll",
+      "price": 60,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Mosambi Juice",
+      "price": 70,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Orange Juice",
+      "price": 70,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Watermelon Juice",
+      "price": 60,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Pineapple Juice",
+      "price": 70,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Orange - Mosambi",
+      "price": 70,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Mosambi - Pineapple",
+      "price": 70,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Carrot + Beet",
+      "price": 50,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 70,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Chocolate Shake",
+      "price": 70,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Strawberry Shake",
+      "price": 70,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Oreo Milk Shake",
+      "price": 80,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Kiwi",
+      "price": 60,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Watermelon",
+      "price": 60,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Green Apple",
+      "price": 60,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Blue Curacao",
+      "price": 60,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Vanilla",
+      "price": 30,
+      "protein": 1,
+      "carbs": 15,
+      "fat": 2,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Strawberry",
+      "price": 30,
+      "protein": 1,
+      "carbs": 15,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Chocolate",
+      "price": 30,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 2,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Coke - Float",
+      "price": 50,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    },
+    {
+      "name": "Fanta - Float",
+      "price": 50,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "Cafe Bollywood, AC Canteen"
+    }
+  ]
+}

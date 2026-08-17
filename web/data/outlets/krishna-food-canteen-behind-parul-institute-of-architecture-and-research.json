@@ -1,0 +1,607 @@
+{
+  "id": "krishna-food-canteen-behind-parul-institute-of-architecture-and-research",
+  "name": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research",
+  "menuLink": "https://www.pufood.xyz/Menu/Krishna%20Food%20Canteen.pdf",
+  "items": [
+    {
+      "name": "Tea",
+      "price": 10,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Coffee",
+      "price": 20,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Hot Bournvita",
+      "price": 30,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 1,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Hot Milk",
+      "price": 30,
+      "protein": 3,
+      "carbs": 5,
+      "fat": 2,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Black Coffee",
+      "price": 40,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Ice Tea",
+      "price": 60,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 0,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "All Ice Tea",
+      "price": 80,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 0,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 80,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Cold Bournvita",
+      "price": 20,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 1,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Poha",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Samosa",
+      "price": 30,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Vada Pav",
+      "price": 40,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Cheese Vada Pav",
+      "price": 50,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Chaat Samosa",
+      "price": 70,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Cheese Chaat Samosa",
+      "price": 30,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Bread Pakoda",
+      "price": 40,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Butter Puff",
+      "price": 30,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Cheese Puff",
+      "price": 40,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 8,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Masala Bhel",
+      "price": 20,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 1,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Maggi",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Extra Masala Maggi",
+      "price": 40,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Maskaban",
+      "price": 30,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Vegetable Sandwich",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Aloo Matar Sandwich",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Cheese Sandwich",
+      "price": 40,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "price": 40,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Cheese Chutney Sandwich",
+      "price": 40,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Mix Veg Aloo Matar Sandwich",
+      "price": 40,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Bread Butter Jam",
+      "price": 30,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Cheese Butter Jam",
+      "price": 50,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Samosa Sandwich",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Bread Butter Sandwich",
+      "price": 20,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Puff",
+      "price": 20,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Veg Puff",
+      "price": 40,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Cheese Puff",
+      "price": 40,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 8,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Veg Cheese Puff",
+      "price": 60,
+      "protein": 6,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Maska Bun",
+      "price": 20,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Dry Manchurian",
+      "price": 70,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Gravy Manchurian",
+      "price": 90,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Manchurian Noodles",
+      "price": 70,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Hakka Noodles",
+      "price": 90,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Manchurian Rice",
+      "price": 70,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Chinese Bhel",
+      "price": 90,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Veg Pulav",
+      "price": 70,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Paneer Pulav",
+      "price": 80,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 8,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Regular Maggi",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Regular Cheese Maggi",
+      "price": 50,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Vegetable Maggi",
+      "price": 40,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Vegetable Cheese Maggi",
+      "price": 60,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Cheese Maggi",
+      "price": 60,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Extra Masala Maggi",
+      "price": 40,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Extra Masala Cheese Maggi",
+      "price": 60,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Regular Fries",
+      "price": 80,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Peri Peri Fries",
+      "price": 100,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Masala Fries",
+      "price": 100,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Cheese Fries",
+      "price": 120,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Cheese Peri Peri",
+      "price": 140,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Aloo Paratha",
+      "price": 60,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Cheese Aloo Paratha",
+      "price": 80,
+      "protein": 7,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Paneer Paratha",
+      "price": 80,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Paneer Cheese Paratha",
+      "price": 100,
+      "protein": 12,
+      "carbs": 25,
+      "fat": 20,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Onion Paratha",
+      "price": 70,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Onion Cheese",
+      "price": 90,
+      "protein": 7,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Aloo Matar X Puri 5",
+      "price": 80,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Matar Paneer X Roti 4",
+      "price": 80,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Paneer Bhurji X Roti 4",
+      "price": 80,
+      "protein": 12,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Paneer Butter Masala X Roti 4",
+      "price": 80,
+      "protein": 12,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Paneer Butter Masala Cheese X Roti 4",
+      "price": 100,
+      "protein": 14,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Chole & Puri 5 / Bhature 2",
+      "price": 80,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Chole Kulche 2 / Roti 4",
+      "price": 80,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Aloo Sukhi Bhaaji X Puri 5",
+      "price": 80,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Aloo Sukhi Bhaaji X Roti 4",
+      "price": 80,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Chole Jeera Rice",
+      "price": 70,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Red Sauce Pasta",
+      "price": 50,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    },
+    {
+      "name": "Cheese Pasta",
+      "price": 70,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 8,
+      "outlet": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research"
+    }
+  ]
+}

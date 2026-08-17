@@ -1,0 +1,551 @@
+{
+  "id": "renuka-foods-utopia",
+  "name": "Renuka Foods, Utopia",
+  "menuLink": "https://www.pufood.xyz/Menu/Renuka%20Foods.pdf",
+  "items": [
+    {
+      "name": "Chicken Dry/Fry",
+      "price": 120,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Biryani",
+      "price": 50,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Haryali Biryani",
+      "price": 60,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Lollipop/Drumstick",
+      "price": 120,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 80,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Haryali Biryani",
+      "price": 90,
+      "protein": 22,
+      "carbs": 30,
+      "fat": 7,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Fried Piece Biryani",
+      "price": 90,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Wings (Drumstick)",
+      "price": 160,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Balls",
+      "price": 130,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 7,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Strips",
+      "price": 120,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Pulao",
+      "price": 60,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Haryali Pulao",
+      "price": 70,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Egg Pulao",
+      "price": 60,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Pulao",
+      "price": 90,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Fried (Half/Full)",
+      "price": 179,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Masala Gravy",
+      "price": 80,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Kadhai Gravy",
+      "price": 90,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 7,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Do Pyaza",
+      "price": 90,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 7,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Mughlai",
+      "price": 90,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Sezwan Fried Rice",
+      "price": 60,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Paneer Fried Rice",
+      "price": 60,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Manchurian Fried Rice",
+      "price": 70,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Garlic Fried Rice",
+      "price": 60,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Chinese Bhel",
+      "price": 70,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Crunchy Burger",
+      "price": 69,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Sezwan Burger",
+      "price": 79,
+      "protein": 18,
+      "carbs": 22,
+      "fat": 7,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Mayonnaise Roll",
+      "price": 79,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Masala Roll",
+      "price": 50,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Egg Roll",
+      "price": 50,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Sezwan Fried Rice",
+      "price": 100,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 6,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Kheema Burger",
+      "price": 70,
+      "protein": 18,
+      "carbs": 22,
+      "fat": 7,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Chinese Bhel",
+      "price": 100,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "price": 60,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Sezwan Noodles",
+      "price": 70,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Paneer Bhurji Gravy",
+      "price": 70,
+      "protein": 10,
+      "carbs": 15,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Paratha Tikka Masala",
+      "price": 70,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Garlic Noodles",
+      "price": 70,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Manchurian Noodles",
+      "price": 70,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chole Bhature",
+      "price": 70,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Paneer Noodles",
+      "price": 70,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Jeera Rice/Dal Fry",
+      "price": 50,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Egg Noodles",
+      "price": 70,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chole/Chawal",
+      "price": 60,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Noodles",
+      "price": 90,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Rajma Chawal",
+      "price": 60,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Sezwan Noodles",
+      "price": 100,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Punjabi Full Platter",
+      "price": 70,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Magic Noodles",
+      "price": 100,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Masala Curry",
+      "price": 90,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 7,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Kheema Masala",
+      "price": 80,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Dry Manchurian",
+      "price": 60,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Gravy Manchurian",
+      "price": 60,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Egg Curry",
+      "price": 70,
+      "protein": 10,
+      "carbs": 15,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Crispy Manchurian",
+      "price": 70,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Egg Bhurji",
+      "price": 70,
+      "protein": 10,
+      "carbs": 15,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Cheese Dry Manchurian",
+      "price": 70,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Egg Boil Tikka",
+      "price": 80,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Veg Potato Chilly",
+      "price": 70,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Chilly Dry",
+      "price": 120,
+      "protein": 25,
+      "carbs": 10,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Manchurian Dry",
+      "price": 120,
+      "protein": 25,
+      "carbs": 10,
+      "fat": 8,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Plain Roti",
+      "price": 10,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Butter Roti",
+      "price": 25,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Manchow Soup",
+      "price": 70,
+      "protein": 10,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Sweet Corn Soup",
+      "price": 80,
+      "protein": 10,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Chicken Clear Soup",
+      "price": 70,
+      "protein": 10,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Jeera Rice",
+      "price": 50,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Pav",
+      "price": 15,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Renuka Foods, Utopia"
+    },
+    {
+      "name": "Fresh Butter Milk",
+      "price": 20,
+      "protein": 2,
+      "carbs": 5,
+      "fat": 2,
+      "outlet": "Renuka Foods, Utopia"
+    }
+  ]
+}

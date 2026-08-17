@@ -1,0 +1,255 @@
+{
+  "id": "fruiteria-greenzy",
+  "name": "Fruiteria, Greenzy",
+  "menuLink": "https://www.pufood.xyz/Menu/Fruteria.pdf",
+  "items": [
+    {
+      "name": "Guava Dish",
+      "price": 60,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Pineapple Dish",
+      "price": 65,
+      "protein": 1,
+      "carbs": 16,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Watermelon Dish",
+      "price": 50,
+      "protein": 1,
+      "carbs": 12,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Mix Fruit Dish",
+      "price": 60,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Papaya Dish",
+      "price": 60,
+      "protein": 2,
+      "carbs": 14,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Pomegranate Juice",
+      "price": 60,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Watermelon Juice",
+      "price": 40,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Mosambi Juice",
+      "price": 60,
+      "protein": 1,
+      "carbs": 14,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Guava Juice",
+      "price": 60,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Orange Juice",
+      "price": 60,
+      "protein": 1,
+      "carbs": 14,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Pineapple Juice",
+      "price": 50,
+      "protein": 1,
+      "carbs": 16,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Kiwi Juice",
+      "price": 70,
+      "protein": 1,
+      "carbs": 15,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "MuskMelon Special",
+      "price": 60,
+      "protein": 1,
+      "carbs": 13,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Grape Juice",
+      "price": 50,
+      "protein": 1,
+      "carbs": 17,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Banana Shake",
+      "price": 50,
+      "protein": 3,
+      "carbs": 27,
+      "fat": 1,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Mix Fruit Juice",
+      "price": 60,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Papaya Shake",
+      "price": 60,
+      "protein": 3,
+      "carbs": 22,
+      "fat": 1,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Avocado Shake",
+      "price": 80,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 7,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Watermelon Juice",
+      "price": 40,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Pomegranate Juice",
+      "price": 60,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Mosambi Juice",
+      "price": 60,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Guava Juice",
+      "price": 60,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Pineapple Juice",
+      "price": 50,
+      "protein": 1,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Orange Juice",
+      "price": 60,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Kiwi Juice",
+      "price": 70,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Grape Juice",
+      "price": 50,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "MuskMelon Special",
+      "price": 60,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Banana Shake",
+      "price": 50,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Mix Fruit Juice",
+      "price": 60,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Papaya Shake",
+      "price": 60,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 1,
+      "outlet": "Fruiteria, Greenzy"
+    },
+    {
+      "name": "Avocado Shake",
+      "price": 80,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Fruiteria, Greenzy"
+    }
+  ]
+}

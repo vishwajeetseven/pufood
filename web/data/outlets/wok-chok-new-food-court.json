@@ -1,0 +1,327 @@
+{
+  "id": "wok-chok-new-food-court",
+  "name": "Wok Chok, New Food Court",
+  "menuLink": "https://www.pufood.xyz/Menu/Wok%20Chok.pdf",
+  "items": [
+    {
+      "name": "Manchow Soup (Egg)",
+      "price": 119,
+      "protein": 5,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Tomato Soup",
+      "price": 99,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 2,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Tomato Coriander Soup",
+      "price": 99,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 2,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Chicken Hot & Sour Soup",
+      "price": 99,
+      "protein": 10,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Chicken Clear Soup",
+      "price": 99,
+      "protein": 10,
+      "carbs": 5,
+      "fat": 2,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Love Soup",
+      "price": 99,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 2,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Lung Fung Soup",
+      "price": 99,
+      "protein": 5,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Royal Soup Veg",
+      "price": 119,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Veg Manchurian Dry",
+      "price": 119,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Paneer Chilly Dry",
+      "price": 129,
+      "protein": 10,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Momo Veg",
+      "price": 129,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Veg Crispy",
+      "price": 129,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Cauliflower Manchurian",
+      "price": 129,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Chilli Garlic Potato",
+      "price": 129,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Soya Chilly Dry",
+      "price": 129,
+      "protein": 10,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Soya Chilly Schezwan",
+      "price": 129,
+      "protein": 10,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Honey Chilly Potato",
+      "price": 139,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Paneer Crispy",
+      "price": 139,
+      "protein": 10,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Mushroom Crispy",
+      "price": 139,
+      "protein": 5,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Fried Bite Potato in choice of sauce",
+      "price": 149,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Chicken Momo",
+      "price": 139,
+      "protein": 15,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Chicken Pop Corn",
+      "price": 139,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Chicken Popper In Red Sauce",
+      "price": 149,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Chicken Black Pepper",
+      "price": 159,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Chilly Chicken",
+      "price": 159,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Chicken Garlic",
+      "price": 159,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Chicken Manchurian",
+      "price": 159,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Hunan Chicken",
+      "price": 159,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Chicken Lolly Pop",
+      "price": 159,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Dragon Chicken",
+      "price": 159,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Crispy Fried Chicken",
+      "price": 159,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 15,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Fried Chicken Wings",
+      "price": 169,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 15,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Kung Pao Chicken",
+      "price": 199,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Crispy Fried Drums Of Heaven",
+      "price": 159,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 15,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Candy Lollipop",
+      "price": 159,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Drums Of Heaven (Tossed In Chef Special Sauce)",
+      "price": 159,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Chicken Crispy",
+      "price": 159,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 15,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Egg Chilly",
+      "price": 139,
+      "protein": 10,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Egg Manchurian",
+      "price": 139,
+      "protein": 10,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    },
+    {
+      "name": "Chicken Wings In Barbeque Sauce",
+      "price": 159,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Wok Chok, New Food Court"
+    }
+  ]
+}

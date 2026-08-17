@@ -1,0 +1,111 @@
+{
+  "id": "the-biryani-hub-greenzy",
+  "name": "The Biryani Hub, Greenzy",
+  "menuLink": "https://www.pufood.xyz/Menu/The%20Biryani%20Hub.pdf",
+  "items": [
+    {
+      "name": "Special Chicken Dum Biryani (Quarter)",
+      "price": 70,
+      "protein": 15,
+      "carbs": 55,
+      "fat": 12,
+      "outlet": "The Biryani Hub, Greenzy"
+    },
+    {
+      "name": "Special Chicken Dum Biryani (Half)",
+      "price": 110,
+      "protein": 25,
+      "carbs": 75,
+      "fat": 18,
+      "outlet": "The Biryani Hub, Greenzy"
+    },
+    {
+      "name": "Special Chicken Dum Biryani (Full)",
+      "price": 150,
+      "protein": 35,
+      "carbs": 100,
+      "fat": 24,
+      "outlet": "The Biryani Hub, Greenzy"
+    },
+    {
+      "name": "Chicken Shahi Biryani (Quarter)",
+      "price": 100,
+      "protein": 18,
+      "carbs": 58,
+      "fat": 14,
+      "outlet": "The Biryani Hub, Greenzy"
+    },
+    {
+      "name": "Chicken Shahi Biryani (Half)",
+      "price": 140,
+      "protein": 28,
+      "carbs": 78,
+      "fat": 20,
+      "outlet": "The Biryani Hub, Greenzy"
+    },
+    {
+      "name": "Chicken Shahi Biryani (Full)",
+      "price": 180,
+      "protein": 38,
+      "carbs": 105,
+      "fat": 26,
+      "outlet": "The Biryani Hub, Greenzy"
+    },
+    {
+      "name": "Chicken Tikka Biryani (Quarter)",
+      "price": 120,
+      "protein": 20,
+      "carbs": 60,
+      "fat": 15,
+      "outlet": "The Biryani Hub, Greenzy"
+    },
+    {
+      "name": "Chicken Tikka Biryani (Half)",
+      "price": 160,
+      "protein": 30,
+      "carbs": 80,
+      "fat": 22,
+      "outlet": "The Biryani Hub, Greenzy"
+    },
+    {
+      "name": "Chicken Tikka Biryani (Full)",
+      "price": 200,
+      "protein": 40,
+      "carbs": 110,
+      "fat": 28,
+      "outlet": "The Biryani Hub, Greenzy"
+    },
+    {
+      "name": "Veg Biryani (Quarter)",
+      "price": 70,
+      "protein": 10,
+      "carbs": 50,
+      "fat": 8,
+      "outlet": "The Biryani Hub, Greenzy"
+    },
+    {
+      "name": "Veg Biryani (Half)",
+      "price": 110,
+      "protein": 15,
+      "carbs": 70,
+      "fat": 12,
+      "outlet": "The Biryani Hub, Greenzy"
+    },
+    {
+      "name": "Veg Biryani (Full)",
+      "price": 140,
+      "protein": 20,
+      "carbs": 90,
+      "fat": 16,
+      "outlet": "The Biryani Hub, Greenzy"
+    },
+    {
+      "name": "Chicken Fry (Chicken Dana) - 8 pieces",
+      "price": 120,
+      "protein": 30,
+      "carbs": 5,
+      "fat": 25,
+      "outlet": "The Biryani Hub, Greenzy"
+    }
+  ]
+}

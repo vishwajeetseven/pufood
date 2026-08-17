@@ -1,0 +1,159 @@
+{
+  "id": "mr-puff-pit",
+  "name": "Mr. Puff, PIT",
+  "menuLink": null,
+  "items": [
+    {
+      "name": "Veg Puff",
+      "price": 20,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Cheese Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 18,
+      "fat": 12,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Mayonnaise Puff",
+      "price": 30,
+      "protein": 4,
+      "carbs": 17,
+      "fat": 13,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Tandoori Puff",
+      "price": 30,
+      "protein": 4,
+      "carbs": 16,
+      "fat": 14,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Schezwan Puff",
+      "price": 30,
+      "protein": 4,
+      "carbs": 16,
+      "fat": 14,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Peri Peri Puff",
+      "price": 30,
+      "protein": 4,
+      "carbs": 17,
+      "fat": 13,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Maggi Puff",
+      "price": 30,
+      "protein": 4,
+      "carbs": 19,
+      "fat": 12,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Pizza Puff",
+      "price": 30,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 14,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Paneer Puff",
+      "price": 35,
+      "protein": 7,
+      "carbs": 18,
+      "fat": 15,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Choco Lava Cake",
+      "price": 50,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 18,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Chocolate Brownies",
+      "price": 60,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 20,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Ice Cream Chocolate Brownies",
+      "price": 80,
+      "protein": 6,
+      "carbs": 50,
+      "fat": 22,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Muffins",
+      "price": 20,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Donuts",
+      "price": 65,
+      "protein": 4,
+      "carbs": 35,
+      "fat": 18,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Watermelon Dish",
+      "price": 30,
+      "protein": 1,
+      "carbs": 12,
+      "fat": 0,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Banana Dish",
+      "price": 30,
+      "protein": 1,
+      "carbs": 15,
+      "fat": 0,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Paneer Chilly Roll",
+      "price": 50,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Margherita Pizza",
+      "price": 89,
+      "protein": 12,
+      "carbs": 50,
+      "fat": 20,
+      "outlet": "Mr. Puff, PIT"
+    },
+    {
+      "name": "Veg Frankie",
+      "price": 40,
+      "protein": 6,
+      "carbs": 45,
+      "fat": 10,
+      "outlet": "Mr. Puff, PIT"
+    }
+  ]
+}

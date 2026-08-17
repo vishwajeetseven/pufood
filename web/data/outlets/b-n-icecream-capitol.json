@@ -1,0 +1,279 @@
+{
+  "id": "b-n-icecream-capitol",
+  "name": "B N ICECREAM, Capitol",
+  "menuLink": "https://www.pufood.xyz/Menu/BN%20IceCream.pdf",
+  "items": [
+    {
+      "name": "Plain Lassi",
+      "price": 50,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Rose Lassi",
+      "price": 70,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 3,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 70,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 3,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Kesar Lassi",
+      "price": 70,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 3,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Chocolate Ice Cream",
+      "price": 70,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 8,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Butter Scotch Ice Cream",
+      "price": 70,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 8,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Strawberry Ice Cream",
+      "price": 70,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 8,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Dry Fruit Ice Cream",
+      "price": 70,
+      "protein": 5,
+      "carbs": 38,
+      "fat": 9,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Vanilla Faluda",
+      "price": 40,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 5,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Raj Bhog Faluda",
+      "price": 50,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 6,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Mango Faluda",
+      "price": 50,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 6,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Pan Masala Faluda",
+      "price": 50,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 6,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Mava Faluda",
+      "price": 50,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 6,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Kesar Pista Faluda",
+      "price": 50,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 6,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Chocolate Faluda",
+      "price": 50,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 6,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Butter Scotch Faluda",
+      "price": 50,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 6,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Strawberry Faluda",
+      "price": 50,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 6,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Shahi Gulab Faluda",
+      "price": 50,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 6,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "American Dryfruit Faluda",
+      "price": 50,
+      "protein": 6,
+      "carbs": 46,
+      "fat": 7,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Cookies Cream Faluda",
+      "price": 50,
+      "protein": 6,
+      "carbs": 46,
+      "fat": 7,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "S. P. B.N. Ice Cream",
+      "price": 150,
+      "protein": 7,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "S. P. Sunday",
+      "price": 200,
+      "protein": 8,
+      "carbs": 55,
+      "fat": 12,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Rose Ice Cream",
+      "price": 100,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 8,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Mango Ice Cream",
+      "price": 100,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 8,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Kesar Ice Cream",
+      "price": 100,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 8,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Pineapple Ice Cream",
+      "price": 100,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 8,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Chocolate Ice Cream (Special)",
+      "price": 100,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 9,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Butter Scotch Ice Cream (Special)",
+      "price": 100,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 9,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Strawberry Ice Cream (Special)",
+      "price": 100,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 9,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "S. P. B. Faluda",
+      "price": 150,
+      "protein": 7,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Rabdi",
+      "price": 130,
+      "protein": 10,
+      "carbs": 50,
+      "fat": 15,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Badam Shake",
+      "price": 80,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 8,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Cold Coco",
+      "price": 60,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 6,
+      "outlet": "B N ICECREAM, Capitol"
+    },
+    {
+      "name": "Fruit Salad",
+      "price": 60,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "B N ICECREAM, Capitol"
+    }
+  ]
+}

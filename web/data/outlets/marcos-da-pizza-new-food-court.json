@@ -1,0 +1,719 @@
+{
+  "id": "marcos-da-pizza-new-food-court",
+  "name": "Marcos Da Pizza, New Food Court",
+  "menuLink": "https://www.pufood.xyz/Menu/Marcos.pdf",
+  "items": [
+    {
+      "name": "Veg. Pizzas",
+      "price": 100,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Double Cheesy Margerita",
+      "price": 185,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Loaded With Extra Cheese",
+      "price": 100,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Cheese, Onion, Capsicum",
+      "price": 120,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Cheese, Onion, Capsicum",
+      "price": 130,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "MBA",
+      "price": 140,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Capsicum & Paneer | Onions & Paneer",
+      "price": 295,
+      "protein": 20,
+      "carbs": 30,
+      "fat": 20,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Jalapenos & Olives",
+      "price": 465,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "SMALL 7: MEDIUM 10* LARGE 12*",
+      "price": 125,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "CLASSIC",
+      "price": 125,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "PIZZAS",
+      "price": 135,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Single Veg Pack of 4",
+      "price": 135,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Onions & Capsicum",
+      "price": 150,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Capsicum & Paneer | Onions & Paneer",
+      "price": 295,
+      "protein": 20,
+      "carbs": 30,
+      "fat": 20,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Jalapenos & Olives",
+      "price": 465,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "MARGHERITA",
+      "price": 155,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Say Cheese",
+      "price": 165,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "TRADITIONAL VEG",
+      "price": 355,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "ONION TWIST",
+      "price": 495,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "SWEET CORN DELIGHT",
+      "price": 895,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Onions & Cheese",
+      "price": 1350,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Sweet Corns & Cheese",
+      "price": 1350,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "MY MAC",
+      "price": 445,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "MAKHNI DO PYAZA",
+      "price": 565,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Cheesey Macroni, Swirl of Makhani Gravy, Onion & Cheese",
+      "price": 940,
+      "protein": 20,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Jalapenos Dip & Cheese",
+      "price": 1450,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "SIMPLY VEG",
+      "price": 175,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "SPECIALITY VEG",
+      "price": 295,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Veg. Pizzas",
+      "price": 255,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "PESTO & BASIL VEG",
+      "price": 295,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "PERI PERI VEG",
+      "price": 295,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "ENGLISH RETREAT",
+      "price": 295,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "HOT PASSION",
+      "price": 295,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "MA SPECIAL",
+      "price": 295,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "FEAST",
+      "price": 295,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "VEG TAMER",
+      "price": 275,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "CHEESE LOVERS",
+      "price": 275,
+      "protein": 25,
+      "carbs": 35,
+      "fat": 25,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Cheese Dip, Jalapeno Dip",
+      "price": 625,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 20,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Capsicum, Paneer, Onion, Baby Corn, Mushroom, Jalapenos",
+      "price": 795,
+      "protein": 20,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "CHEESY MAC VEG",
+      "price": 1165,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 25,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "GARLIC- TO- PIZZA",
+      "price": 1860,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "LA PINO'Z PANEER",
+      "price": 309,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "LAS VEGAS TREAT",
+      "price": 479,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "TANDOORI SPECIAL / Capsicum, Sweet Corn, Red Paprika, Double Paneer with Korma Dip",
+      "price": 665,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Capsicum, Mushrooms, Onions",
+      "price": 865,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Pineapple, Paneer, Sweet Corns",
+      "price": 1245,
+      "protein": 20,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "CLASSIC",
+      "price": 69,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Tomatoes|Onions|Capsicum|Sweet Corns",
+      "price": 79,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Onions & Capsicum",
+      "price": 89,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Capsicum & Paneer | Onions & Paneer",
+      "price": 99,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Jalapenos & Olives",
+      "price": 99,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Jalapenos, Sweet corns & paneer",
+      "price": 139,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Capsicum, Paneer & Red Paprika",
+      "price": 145,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "VEG PASTA",
+      "price": 169,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Fresh Tomatoes with Extra Cheese",
+      "price": 195,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "FARM VILLA",
+      "price": 235,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "PANEER SPECIAL",
+      "price": 255,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Capsicum, Fresh Onion, Double Paneer, & Korma dip",
+      "price": 295,
+      "protein": 25,
+      "carbs": 30,
+      "fat": 20,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Red Paprika in Korma dip",
+      "price": 295,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "DOUBLE BURST PIZZA",
+      "price": 309,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 25,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Regular Pizza",
+      "price": 89,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Medium Pizza",
+      "price": 30,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "ULTRA THIN CRUST PIZZA",
+      "price": 40,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Large Pizza",
+      "price": 50,
+      "protein": 20,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Giant Pizza",
+      "price": 60,
+      "protein": 25,
+      "carbs": 50,
+      "fat": 25,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "AMERICANO (WHITE SAUCE)",
+      "price": 235,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "EXOTIC VEG",
+      "price": 255,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "ALA MEXICAN",
+      "price": 595,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Onions, Sweet Corns, Mushrooms, Baby Corns, Mexican Salsa, Dip",
+      "price": 765,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "TANDOORI PANEER",
+      "price": 1095,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Capsicum, Onion, Paneer, Sweet Corn in Korma Dip",
+      "price": 1750,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "PESTO & BASIL SPECIAL",
+      "price": 765,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Capsicum, Jalapenos, Paneer with Pesto & Basil Dip",
+      "price": 795,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "CHEEZY-7 PIZZA",
+      "price": 1250,
+      "protein": 30,
+      "carbs": 45,
+      "fat": 30,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "An Exotic combination of white",
+      "price": 30,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "ADD TOPPINGS - MAKE YOUR OWN PIZZA ON MARGHERITA (MIN 3 TOPPINGS)",
+      "price": 40,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Onion, Capsicum, Paneer, Olives, Jalapenos, Red Paprika, Pineapple, sweet Corns, Mushrooms, Fresh Tomatoes, Baby Corns",
+      "price": 50,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Exotic paneer tikka, onion, capsicum & Red paprika",
+      "price": 60,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Cheese & Dips",
+      "price": 80,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 20,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Jalapeno Dip, Hot & Garlic Dip, Peri Peri Dip, Korma Dip",
+      "price": 90,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Pesto & basil dip and mexican salsa dip",
+      "price": 105,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Cheezy-7",
+      "price": 160,
+      "protein": 25,
+      "carbs": 35,
+      "fat": 25,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Extra Cheese",
+      "price": 175,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 20,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "AUTHENTIC VEG",
+      "price": 295,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Onion, Capsicum, Sweet Corn, Mushrooms, Olives with Cheese",
+      "price": 295,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "ITALIANO (RED+WHITE SAUCE MIX)",
+      "price": 295,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Onion, Capsicum, Paneer with Jalapenos Dip",
+      "price": 295,
+      "protein": 20,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "INDIANA (Korma dip)",
+      "price": 295,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    },
+    {
+      "name": "Onion, Capsicum, Paneer, Mushroom, Red Paprika",
+      "price": 295,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Marcos Da Pizza, New Food Court"
+    }
+  ]
+}

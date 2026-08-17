@@ -1,0 +1,207 @@
+{
+  "id": "ppt-at-bba",
+  "name": "PPT, at BBA",
+  "menuLink": "https://www.pufood.xyz/Menu/PPT.pdf",
+  "items": [
+    {
+      "name": "Aloo Puff",
+      "price": 20,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Chinese Puff",
+      "price": 30,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Cheese Puff",
+      "price": 40,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Mexican Puff",
+      "price": 40,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Peri Peri Puff",
+      "price": 40,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Schezwan Puff",
+      "price": 40,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Vadapav",
+      "price": 25,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Cheese Vadapav",
+      "price": 45,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Patti Samosa",
+      "price": 25,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Dabeli",
+      "price": 25,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Bread Pakoda",
+      "price": 30,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Maggie",
+      "price": 40,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Masala Maggie",
+      "price": 50,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Paratha",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Aloo Paratha",
+      "price": 50,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Methi Paratha",
+      "price": 50,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Palak Paratha",
+      "price": 50,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Aloo Gobhi Paratha",
+      "price": 50,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Chilli Garlic Poppers",
+      "price": 60,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Jalapeno Cheesy Poppers",
+      "price": 60,
+      "protein": 4,
+      "carbs": 15,
+      "fat": 12,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Sabudana Patty",
+      "price": 40,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Veggie Finger",
+      "price": 60,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Reg. Fries",
+      "price": 70,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Peri Peri Fries",
+      "price": 80,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    },
+    {
+      "name": "Maska Bun",
+      "price": 25,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "PPT, at BBA"
+    }
+  ]
+}

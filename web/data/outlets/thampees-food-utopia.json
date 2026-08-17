@@ -1,0 +1,247 @@
+{
+  "id": "thampees-food-utopia",
+  "name": "Thampees Food, Utopia",
+  "menuLink": "https://www.pufood.xyz/Menu/Thampees%20Foods.pdf",
+  "items": [
+    {
+      "name": "Plain Dosa",
+      "price": 50,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 3,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Cheese Plain Dosa",
+      "price": 60,
+      "protein": 8,
+      "carbs": 47,
+      "fat": 8,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Mysore Plain Dosa",
+      "price": 60,
+      "protein": 6,
+      "carbs": 46,
+      "fat": 4,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Paneer Plain Dosa",
+      "price": 70,
+      "protein": 12,
+      "carbs": 45,
+      "fat": 10,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Set Dosa",
+      "price": 50,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 4,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Ghee Roast Dosa",
+      "price": 60,
+      "protein": 7,
+      "carbs": 45,
+      "fat": 10,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Podi Dosa",
+      "price": 60,
+      "protein": 6,
+      "carbs": 45,
+      "fat": 6,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Masala Dosa",
+      "price": 70,
+      "protein": 7,
+      "carbs": 50,
+      "fat": 8,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Mysore Masala Dosa",
+      "price": 80,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Cheese Masala Dosa",
+      "price": 80,
+      "protein": 10,
+      "carbs": 52,
+      "fat": 12,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Paneer Masala Dosa",
+      "price": 90,
+      "protein": 14,
+      "carbs": 50,
+      "fat": 15,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Onion Dosa",
+      "price": 60,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 5,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Onion Masala Dosa",
+      "price": 80,
+      "protein": 7,
+      "carbs": 50,
+      "fat": 7,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Rava Dosa",
+      "price": 50,
+      "protein": 6,
+      "carbs": 44,
+      "fat": 4,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Spring Dosa",
+      "price": 80,
+      "protein": 8,
+      "carbs": 48,
+      "fat": 8,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Manchurian Dosa",
+      "price": 90,
+      "protein": 9,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Plain Idli (3 Pcs)",
+      "price": 60,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 2,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Chilli Fry Idli",
+      "price": 70,
+      "protein": 7,
+      "carbs": 42,
+      "fat": 5,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Podi Idli",
+      "price": 80,
+      "protein": 7,
+      "carbs": 45,
+      "fat": 6,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Onion Uthappam",
+      "price": 60,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 6,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Onion Cheese Uthappam",
+      "price": 70,
+      "protein": 10,
+      "carbs": 52,
+      "fat": 10,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Onion Paneer Uthappam",
+      "price": 80,
+      "protein": 12,
+      "carbs": 50,
+      "fat": 12,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Veg Pulau (+Dal+Papad+Pickle)",
+      "price": 60,
+      "protein": 8,
+      "carbs": 55,
+      "fat": 5,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Tomato Rice (+Curd+Papad+Pickle)",
+      "price": 70,
+      "protein": 7,
+      "carbs": 58,
+      "fat": 4,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Sambar Rice (+Curd+Papad+Pickle)",
+      "price": 80,
+      "protein": 9,
+      "carbs": 60,
+      "fat": 6,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Veg Fried Rice (+Sauce+Papad+Pickle)",
+      "price": 70,
+      "protein": 10,
+      "carbs": 58,
+      "fat": 8,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Jeera Rice (+Dal+Papad+Pickle)",
+      "price": 60,
+      "protein": 7,
+      "carbs": 54,
+      "fat": 6,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Curd Rice (+Sambar+Papad+Pickle)",
+      "price": 60,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 5,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Lemon Rice (+Papad+Pickle)",
+      "price": 60,
+      "protein": 7,
+      "carbs": 52,
+      "fat": 4,
+      "outlet": "Thampees Food, Utopia"
+    },
+    {
+      "name": "Veg Biryani",
+      "price": 70,
+      "protein": 10,
+      "carbs": 58,
+      "fat": 8,
+      "outlet": "Thampees Food, Utopia"
+    }
+  ]
+}

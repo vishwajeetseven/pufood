@@ -1,0 +1,743 @@
+{
+  "id": "lapinoz-pizza-new-canteen",
+  "name": "Lapinoz Pizza, New Canteen",
+  "menuLink": "https://www.pufood.xyz/Menu/Lapinoz.pdf",
+  "items": [
+    {
+      "name": "Single Veg Pack of 4",
+      "price": 125,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Premium Veg Pack of 4",
+      "price": 135,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Capsicum & Paneer | Onions & Paneer",
+      "price": 295,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Jalapenos & Olives",
+      "price": 465,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "MARGHERITA",
+      "price": 155,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 14,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Say Cheese",
+      "price": 165,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "TRADITIONAL VEG",
+      "price": 355,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "ONION TWIST",
+      "price": 495,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "SWEET CORNS DELIGHT",
+      "price": 895,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Onions & Cheese",
+      "price": 1350,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Sweet Corns & Cheese",
+      "price": 1350,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "MY MAC",
+      "price": 445,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "MAKHNI DO PYAZA",
+      "price": 565,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Cheesey Macroni, Swirl of Makhani Gravy, Onion & Cheese",
+      "price": 940,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Jalapenos Dip & Cheese",
+      "price": 1450,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 20,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "SIMPLY VEG",
+      "price": 175,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "DOUBLE CHEESE MARGHERITA / LOVERS BITE",
+      "price": 185,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 25,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Mushroom, Olives, Sweet Corns",
+      "price": 445,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "GARDEN DELIGHT",
+      "price": 545,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "ONION BLOSSOMS",
+      "price": 725,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Onion, Tomatoes, Onion. Fresh Tomatoes, Capsicum",
+      "price": 1065,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Sweet Corns",
+      "price": 1585,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "PREMIUM VEG",
+      "price": 195,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "SPRING FLING",
+      "price": 255,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "SWEET HEAT",
+      "price": 275,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Paneer, Fresh Tomatoes",
+      "price": 295,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Jalapenos, Pineapples",
+      "price": 295,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Capsicum, Sweet Corn",
+      "price": 295,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Sweet Corns. Red Paprika",
+      "price": 295,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "GARDEN SPECIAL",
+      "price": 295,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "VEG HAWAIIAN",
+      "price": 295,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "SPECIALITY VEG",
+      "price": 295,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "PESTO & BASIL VEG",
+      "price": 295,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "PERI PERI VEG",
+      "price": 295,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "ENGLISH RETREAT",
+      "price": 295,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "HOT PASSION",
+      "price": 295,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "MEXICAN SALSA",
+      "price": 295,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "MA SPECIAL",
+      "price": 295,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "FEAST",
+      "price": 295,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "VEG TAMER",
+      "price": 275,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "CHEESE LOVERS",
+      "price": 275,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 25,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Cheese Dip, Jalapeno Dip",
+      "price": 625,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Capsicum, Paneer, Onion, Baby Corn, Mushroom, Jalapenos",
+      "price": 795,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "CHEESY MAC VEG",
+      "price": 1165,
+      "protein": 20,
+      "carbs": 40,
+      "fat": 25,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "LA PINO'Z PANEER",
+      "price": 309,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "LAS VEGAS TREAT",
+      "price": 479,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "TANDOORI SPECIAL / Capsicum, Sweet Corn, Red Paprika, Double Paneer with Korma Dip",
+      "price": 665,
+      "protein": 20,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Capsicum, Mushrooms, Onions",
+      "price": 865,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Pineapple, Paneer, Sweet Corns",
+      "price": 1245,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "CLASSIC",
+      "price": 69,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Tomatoes|Onions|Capsicum|Sweet Corns",
+      "price": 79,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Onions & Capsicum",
+      "price": 89,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Capsicum & Paneer | Onions & Paneer",
+      "price": 99,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Jalapenos & Olives",
+      "price": 99,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Jalapenos, Sweet corns & paneer",
+      "price": 139,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Capsicum, Paneer & Red Paprika",
+      "price": 145,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "VEG PASTA",
+      "price": 169,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Fresh Tomatoes with Extra Cheese",
+      "price": 195,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "FARM VILLA",
+      "price": 235,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "PANEER SPECIAL",
+      "price": 255,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Capsicum, Fresh Onion, Double Paneer, & Korma dip",
+      "price": 295,
+      "protein": 20,
+      "carbs": 30,
+      "fat": 20,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Red Paprika in Korma dip",
+      "price": 295,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "DOUBLE BURST PIZZA",
+      "price": 309,
+      "protein": 20,
+      "carbs": 40,
+      "fat": 25,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Regular Pizza",
+      "price": 89,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Medium Pizza",
+      "price": 30,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "ULTRA THIN CRUST PIZZA",
+      "price": 40,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Large Pizza",
+      "price": 50,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Giant Pizza",
+      "price": 60,
+      "protein": 20,
+      "carbs": 50,
+      "fat": 25,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "AMERICANO (WHITE SAUCE)",
+      "price": 235,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "EXOTIC VEG",
+      "price": 255,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "ALA MEXICAN",
+      "price": 595,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Onions, Sweet Corns, Mushroom, Baby Corns, Mexican Salsa, Dip",
+      "price": 765,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "TANDOORI PANEER",
+      "price": 1095,
+      "protein": 20,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Capsicum, Onion, Paneer, Sweet Corn in Korma Dip",
+      "price": 1750,
+      "protein": 20,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "PESTO & BASIL SPECIAL",
+      "price": 765,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Capsicum, Jalapenos, Paneer with Pesto & Basil Dip",
+      "price": 795,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "CHEEZY-7 PIZZA",
+      "price": 1250,
+      "protein": 25,
+      "carbs": 45,
+      "fat": 30,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "An Exotic combination of white",
+      "price": 30,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "ADD TOPPINGS - MAKE YOUR OWN PIZZA ON MARGHERITA (MIN 3 TOPPINGS)",
+      "price": 40,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Onion, Capsicum, Paneer, Olives, Jalapenos, Red Paprika, Pineapples, sweet Corns, Mushroom, Fresh Tomatoes, Baby Corns",
+      "price": 50,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Exotic paneer tikka, onion, capsicum & Red paprika",
+      "price": 60,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Cheese & Dips",
+      "price": 80,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 20,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Jalapeno Dip, Hot & Garlic Dip, Peri Peri Dip, Korma Dip",
+      "price": 90,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Pesto & basil dip and mexican salsa dip",
+      "price": 105,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Cheezy-7",
+      "price": 160,
+      "protein": 20,
+      "carbs": 35,
+      "fat": 25,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Extra Cheese",
+      "price": 175,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 20,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "AUTHENTIC VEG",
+      "price": 295,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Onion, Capsicum, Sweet Corn, Mushrooms, Olives with Cheese",
+      "price": 295,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "ITALIANO (RED+WHITE SAUCE MIX)",
+      "price": 295,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Onion, Capsicum, Paneer with Jalapenos Dip",
+      "price": 295,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "INDIANA (Korma dip)",
+      "price": 295,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    },
+    {
+      "name": "Onion, Capsicum, Paneer, Mushroom, Red Paprika",
+      "price": 295,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Lapinoz Pizza, New Canteen"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "id": "samosazz-greenzy",
+  "name": "Samosazz, Greenzy",
+  "menuLink": "https://www.pufood.xyz/Menu/Samosazz.pdf",
+  "items": [
+    {
+      "name": "Famous Indori Samosa",
+      "price": 50,
+      "protein": 6,
+      "carbs": 45,
+      "fat": 12,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Punjabi Samosa",
+      "price": 25,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Dosa Samosa",
+      "price": 35,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 11,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Momo Samosa",
+      "price": 40,
+      "protein": 7,
+      "carbs": 44,
+      "fat": 12,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Dilli Da Chola Samosa",
+      "price": 50,
+      "protein": 8,
+      "carbs": 46,
+      "fat": 13,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Kadhai Paneer Samosa",
+      "price": 50,
+      "protein": 10,
+      "carbs": 45,
+      "fat": 15,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Chilly Paneer Samosa",
+      "price": 50,
+      "protein": 9,
+      "carbs": 43,
+      "fat": 14,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Pizza Samosa",
+      "price": 70,
+      "protein": 8,
+      "carbs": 47,
+      "fat": 14,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Pani Puri",
+      "price": 30,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Sev Puri",
+      "price": 30,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 6,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Dahi Puri",
+      "price": 40,
+      "protein": 6,
+      "carbs": 43,
+      "fat": 7,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Mix Bhel",
+      "price": 50,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 6,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Delhi Papdi Chaat",
+      "price": 50,
+      "protein": 6,
+      "carbs": 46,
+      "fat": 7,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Samosa Chaat",
+      "price": 50,
+      "protein": 7,
+      "carbs": 47,
+      "fat": 8,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Butter Cheese Maggi",
+      "price": 110,
+      "protein": 12,
+      "carbs": 55,
+      "fat": 15,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Tandoori Masala Maggi",
+      "price": 110,
+      "protein": 10,
+      "carbs": 54,
+      "fat": 14,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Salted Fries",
+      "price": 40,
+      "protein": 4,
+      "carbs": 50,
+      "fat": 20,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Peri Peri Fries",
+      "price": 90,
+      "protein": 5,
+      "carbs": 52,
+      "fat": 22,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "BBQ Fries",
+      "price": 90,
+      "protein": 5,
+      "carbs": 53,
+      "fat": 22,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Alfredo White Pasta",
+      "price": 99,
+      "protein": 8,
+      "carbs": 48,
+      "fat": 14,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Arrabiata Red Pasta",
+      "price": 129,
+      "protein": 8,
+      "carbs": 47,
+      "fat": 12,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 70,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Hot Bournvita",
+      "price": 60,
+      "protein": 8,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Kadak Chai - Cutting",
+      "price": 10,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 2,
+      "outlet": "Samosazz, Greenzy"
+    },
+    {
+      "name": "Kadak Chai - Full",
+      "price": 20,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 3,
+      "outlet": "Samosazz, Greenzy"
+    }
+  ]
+}

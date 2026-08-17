@@ -1,0 +1,71 @@
+{
+  "id": "belgian-waffle-near-bba",
+  "name": "Belgian Waffle, Near BBA",
+  "menuLink": null,
+  "items": [
+    {
+      "name": "Chocolate Overload Waffle",
+      "price": 130,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Belgian Waffle, Near BBA"
+    },
+    {
+      "name": "Red Velvet Waffle",
+      "price": 130,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Belgian Waffle, Near BBA"
+    },
+    {
+      "name": "Kiki And Cream Waffle",
+      "price": 150,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Belgian Waffle, Near BBA"
+    },
+    {
+      "name": "Belgian Waffle with Maple Butter",
+      "price": 199,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Belgian Waffle, Near BBA"
+    },
+    {
+      "name": "Milk Chocolate Belgian Waffle",
+      "price": 158,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Belgian Waffle, Near BBA"
+    },
+    {
+      "name": "Dark Chocolate Belgian Waffle",
+      "price": 158,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Belgian Waffle, Near BBA"
+    },
+    {
+      "name": "Almond Cocoa Butter Waffle",
+      "price": 179,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Belgian Waffle, Near BBA"
+    },
+    {
+      "name": "Honey Butter Waffle",
+      "price": 198,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Belgian Waffle, Near BBA"
+    }
+  ]
+}

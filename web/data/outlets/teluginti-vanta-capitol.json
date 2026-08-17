@@ -1,0 +1,167 @@
+{
+  "id": "teluginti-vanta-capitol",
+  "name": "Teluginti Vanta, Capitol",
+  "menuLink": "https://www.pufood.xyz/Menu/Teluginti%20Vanta.pdf",
+  "items": [
+    {
+      "name": "Idly (3)",
+      "price": 40,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 2,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Sambhar Idly (3)",
+      "price": 50,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 3,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Ghee Karam Idly (3)",
+      "price": 60,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 6,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Mysore Bonda (4)",
+      "price": 50,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Onion Bonda (4)",
+      "price": 50,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 10,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Puri (2)",
+      "price": 50,
+      "protein": 4,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Curd Rice",
+      "price": 70,
+      "protein": 8,
+      "carbs": 45,
+      "fat": 5,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Tomato Rice",
+      "price": 80,
+      "protein": 6,
+      "carbs": 50,
+      "fat": 4,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Full Meals",
+      "price": 130,
+      "protein": 12,
+      "carbs": 60,
+      "fat": 8,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Plate Meal",
+      "price": 100,
+      "protein": 10,
+      "carbs": 55,
+      "fat": 7,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Chicken Curry Parota",
+      "price": 120,
+      "protein": 18,
+      "carbs": 40,
+      "fat": 12,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Chicken Gravy Parota",
+      "price": 70,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Dosa Chicken Curry",
+      "price": 100,
+      "protein": 20,
+      "carbs": 50,
+      "fat": 8,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Plain Dosa",
+      "price": 40,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 3,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Onion Dosa",
+      "price": 50,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 4,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Masala Dosa",
+      "price": 50,
+      "protein": 7,
+      "carbs": 45,
+      "fat": 5,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Egg Dosa",
+      "price": 60,
+      "protein": 12,
+      "carbs": 45,
+      "fat": 6,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Ghee Karam Dosa",
+      "price": 60,
+      "protein": 7,
+      "carbs": 45,
+      "fat": 8,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Paneer Cheese Masala Dosa",
+      "price": 100,
+      "protein": 20,
+      "carbs": 50,
+      "fat": 12,
+      "outlet": "Teluginti Vanta, Capitol"
+    },
+    {
+      "name": "Puri Chicken Curry (2)",
+      "price": 100,
+      "protein": 18,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Teluginti Vanta, Capitol"
+    }
+  ]
+}

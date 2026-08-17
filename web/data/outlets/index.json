@@ -1,0 +1,402 @@
+{
+  "version": 1,
+  "description": "Outlet manifest for PUFood. Add a new outlet JSON file and register it here.",
+  "outlets": [
+    {
+      "id": "b-n-icecream-capitol",
+      "name": "B N ICECREAM, Capitol",
+      "menuLink": "https://www.pufood.xyz/Menu/BN%20IceCream.pdf",
+      "dataFile": "data/outlets/b-n-icecream-capitol.json"
+    },
+    {
+      "id": "belgian-waffle-near-bba",
+      "name": "Belgian Waffle, Near BBA",
+      "menuLink": null,
+      "dataFile": "data/outlets/belgian-waffle-near-bba.json"
+    },
+    {
+      "id": "bluez-biryani-cornor",
+      "name": "Bluez Biryani Cornor",
+      "menuLink": "https://www.pufood.xyz/Menu/Bluez%20Biryani%20Cornor.pdf",
+      "dataFile": "data/outlets/bluez-biryani-cornor.json"
+    },
+    {
+      "id": "bong-eateries-capitol",
+      "name": "Bong Eateries, Capitol",
+      "menuLink": "https://www.pufood.xyz/Menu/Bong%20Eateries%20.pdf",
+      "dataFile": "data/outlets/bong-eateries-capitol.json"
+    },
+    {
+      "id": "brown-burger-new-food-court",
+      "name": "Brown Burger, New Food Court",
+      "menuLink": "https://www.pufood.xyz/Menu/Brown%20Burger.pdf",
+      "dataFile": "data/outlets/brown-burger-new-food-court.json"
+    },
+    {
+      "id": "cr-cakes-and-bakers-new-food-court",
+      "name": "CR Cakes & Bakers, New Food Court",
+      "menuLink": "https://www.pufood.xyz/Menu/CR.pdf",
+      "dataFile": "data/outlets/cr-cakes-and-bakers-new-food-court.json"
+    },
+    {
+      "id": "cr-juice-mr-puff",
+      "name": "CR Juice, Mr. Puff",
+      "menuLink": "https://www.pufood.xyz/Menu/CR%20Juice%20-%20in%20Mr%20Puff.pdf",
+      "dataFile": "data/outlets/cr-juice-mr-puff.json"
+    },
+    {
+      "id": "cafe-appetito-new-food-court",
+      "name": "Cafe Appetito, New Food Court",
+      "menuLink": "https://www.pufood.xyz/Menu/Cafe%20Ape.pdf",
+      "dataFile": "data/outlets/cafe-appetito-new-food-court.json"
+    },
+    {
+      "id": "cafe-bollywood-ac-canteen",
+      "name": "Cafe Bollywood, AC Canteen",
+      "menuLink": "https://www.pufood.xyz/Menu/Cafe%20Bollywood.pdf",
+      "dataFile": "data/outlets/cafe-bollywood-ac-canteen.json"
+    },
+    {
+      "id": "cafe-hot-spot-near-teressa-d",
+      "name": "Cafe Hot Spot, Near Teressa D",
+      "menuLink": "https://www.pufood.xyz/Menu/The%20Hostpot%20Teressa.pdf",
+      "dataFile": "data/outlets/cafe-hot-spot-near-teressa-d.json"
+    },
+    {
+      "id": "captain-cuisine-pid",
+      "name": "Captain Cuisine, PID",
+      "menuLink": "https://www.pufood.xyz/Menu/PID.pdf",
+      "dataFile": "data/outlets/captain-cuisine-pid.json"
+    },
+    {
+      "id": "chai-garam-pit",
+      "name": "Chai Garam, PIT",
+      "menuLink": null,
+      "dataFile": "data/outlets/chai-garam-pit.json"
+    },
+    {
+      "id": "chatoree-new-canteen",
+      "name": "Chatoree, New Canteen",
+      "menuLink": "https://www.pufood.xyz/Menu/Chaotree.pdf",
+      "dataFile": "data/outlets/chatoree-new-canteen.json"
+    },
+    {
+      "id": "cheese-and-chips-capitol",
+      "name": "Cheese & Chips, Capitol",
+      "menuLink": "https://www.pufood.xyz/Menu/Cheese%20&%20Chips.pdf",
+      "dataFile": "data/outlets/cheese-and-chips-capitol.json"
+    },
+    {
+      "id": "chicken-only-chicken-utopia",
+      "name": "Chicken Only Chicken, Utopia",
+      "menuLink": "https://www.pufood.xyz/Menu/Chicken%20only%20Chicken.pdf",
+      "dataFile": "data/outlets/chicken-only-chicken-utopia.json"
+    },
+    {
+      "id": "day-night-vadapav-and-dabeli-greenzy",
+      "name": "Day Night Vadapav & Dabeli, Greenzy",
+      "menuLink": null,
+      "dataFile": "data/outlets/day-night-vadapav-and-dabeli-greenzy.json"
+    },
+    {
+      "id": "dominos",
+      "name": "Dominos",
+      "menuLink": "https://www.dominos.co.in/",
+      "dataFile": "data/outlets/dominos.json"
+    },
+    {
+      "id": "egg-zone-greenzy",
+      "name": "Egg Zone, Greenzy",
+      "menuLink": "https://www.pufood.xyz/Menu/Egg%20Zone.pdf",
+      "dataFile": "data/outlets/egg-zone-greenzy.json"
+    },
+    {
+      "id": "farki-in-front-of-gym",
+      "name": "Farki, in front of GYM",
+      "menuLink": "https://www.pufood.xyz/Menu/Farki.pdf",
+      "dataFile": "data/outlets/farki-in-front-of-gym.json"
+    },
+    {
+      "id": "fruiteria-greenzy",
+      "name": "Fruiteria, Greenzy",
+      "menuLink": "https://www.pufood.xyz/Menu/Fruteria.pdf",
+      "dataFile": "data/outlets/fruiteria-greenzy.json"
+    },
+    {
+      "id": "goodness-by-naira-new-food-court",
+      "name": "Goodness by Naira, New Food Court",
+      "menuLink": "https://www.pufood.xyz/Menu/Niara%20NFC.pdf",
+      "dataFile": "data/outlets/goodness-by-naira-new-food-court.json"
+    },
+    {
+      "id": "honest-food-center-new-food-court",
+      "name": "Honest Food Center, New Food Court",
+      "menuLink": "https://www.pufood.xyz/Menu/Honest.pdf",
+      "dataFile": "data/outlets/honest-food-center-new-food-court.json"
+    },
+    {
+      "id": "honest-omelet-utopia",
+      "name": "Honest Omelet, Utopia",
+      "menuLink": "https://www.pufood.xyz/Menu/Honest%20Omlet.pdf",
+      "dataFile": "data/outlets/honest-omelet-utopia.json"
+    },
+    {
+      "id": "hunger-hub",
+      "name": "Hunger Hub",
+      "menuLink": "https://www.pufood.xyz/Menu/Hunger%20Hub.pdf",
+      "dataFile": "data/outlets/hunger-hub.json"
+    },
+    {
+      "id": "indian-salt-near-architecture-building",
+      "name": "Indian Salt, Near Architecture Building",
+      "menuLink": "https://www.pufood.xyz/Menu/Indian%20Salt.pdf",
+      "dataFile": "data/outlets/indian-salt-near-architecture-building.json"
+    },
+    {
+      "id": "jagdish-new-food-court",
+      "name": "Jagdish, New Food Court",
+      "menuLink": "https://www.pufood.xyz/Menu/Jagdish.pdf",
+      "dataFile": "data/outlets/jagdish-new-food-court.json"
+    },
+    {
+      "id": "kathi-junction",
+      "name": "Kathi Junction",
+      "menuLink": "https://www.pufood.xyz/Menu/Kathi%20Junction.pdf",
+      "dataFile": "data/outlets/kathi-junction.json"
+    },
+    {
+      "id": "konaseema-ruchulu-wfc-outside-campus",
+      "name": "Konaseema Ruchulu, WFC, Outside Campus",
+      "menuLink": "https://www.pufood.xyz/Menu/Konaseema.jpg",
+      "dataFile": "data/outlets/konaseema-ruchulu-wfc-outside-campus.json"
+    },
+    {
+      "id": "krishna-food-canteen-behind-parul-institute-of-architecture-and-research",
+      "name": "Krishna Food Canteen, Behind Parul Institute of Architecture & Research",
+      "menuLink": "https://www.pufood.xyz/Menu/Krishna%20Food%20Canteen.pdf",
+      "dataFile": "data/outlets/krishna-food-canteen-behind-parul-institute-of-architecture-and-research.json"
+    },
+    {
+      "id": "lapinoz-pizza-new-canteen",
+      "name": "Lapinoz Pizza, New Canteen",
+      "menuLink": "https://www.pufood.xyz/Menu/Lapinoz.pdf",
+      "dataFile": "data/outlets/lapinoz-pizza-new-canteen.json"
+    },
+    {
+      "id": "lassi-day-cafe-new-food-court",
+      "name": "Lassi Day Cafe, New Food Court",
+      "menuLink": "https://www.pufood.xyz/Menu/Lassiday.pdf",
+      "dataFile": "data/outlets/lassi-day-cafe-new-food-court.json"
+    },
+    {
+      "id": "mahadev-refreshment-capitol",
+      "name": "Mahadev Refreshment, Capitol",
+      "menuLink": "https://www.pufood.xyz/Menu/Mahadev%20Refreshment.pdf",
+      "dataFile": "data/outlets/mahadev-refreshment-capitol.json"
+    },
+    {
+      "id": "marcos-da-pizza-new-food-court",
+      "name": "Marcos Da Pizza, New Food Court",
+      "menuLink": "https://www.pufood.xyz/Menu/Marcos.pdf",
+      "dataFile": "data/outlets/marcos-da-pizza-new-food-court.json"
+    },
+    {
+      "id": "medical-canteen",
+      "name": "Medical Canteen",
+      "menuLink": "https://www.pufood.xyz/Menu/Medical%20Canteen.pdf",
+      "dataFile": "data/outlets/medical-canteen.json"
+    },
+    {
+      "id": "messy-bowl-new-food-court",
+      "name": "Messy Bowl, New Food Court",
+      "menuLink": "https://www.pufood.xyz/Menu/Messy%20Bowl.pdf",
+      "dataFile": "data/outlets/messy-bowl-new-food-court.json"
+    },
+    {
+      "id": "mezban-rolls-capitol",
+      "name": "Mezban Rolls, Capitol",
+      "menuLink": "https://www.pufood.xyz/Menu/Mezban.pdf",
+      "dataFile": "data/outlets/mezban-rolls-capitol.json"
+    },
+    {
+      "id": "momos-eatery-capitol",
+      "name": "Momos Eatery, Capitol",
+      "menuLink": "https://www.pufood.xyz/Menu/Momos%20Eatery.pdf",
+      "dataFile": "data/outlets/momos-eatery-capitol.json"
+    },
+    {
+      "id": "mr-puff-pit",
+      "name": "Mr. Puff, PIT",
+      "menuLink": null,
+      "dataFile": "data/outlets/mr-puff-pit.json"
+    },
+    {
+      "id": "mr-puff-beside-ac-canteen",
+      "name": "Mr. Puff, beside AC Canteen",
+      "menuLink": "https://www.pufood.xyz/Menu/Mr%20PUFf%20-%20Beside%20AC.pdf",
+      "dataFile": "data/outlets/mr-puff-beside-ac-canteen.json"
+    },
+    {
+      "id": "naira-utopia",
+      "name": "Naira, Utopia",
+      "menuLink": "https://www.pufood.xyz/Menu/Naira.pdf",
+      "dataFile": "data/outlets/naira-utopia.json"
+    },
+    {
+      "id": "nescafe-in-front-of-gym",
+      "name": "Nescafe, in front of GYM",
+      "menuLink": "https://www.pufood.xyz/Menu/Nescafe.pdf",
+      "dataFile": "data/outlets/nescafe-in-front-of-gym.json"
+    },
+    {
+      "id": "new-zayaka-biryani-capitol",
+      "name": "New Zayaka Biryani, Capitol",
+      "menuLink": "https://www.pufood.xyz/Menu/Zayaka.pdf",
+      "dataFile": "data/outlets/new-zayaka-biryani-capitol.json"
+    },
+    {
+      "id": "pit-canteen",
+      "name": "PIT Canteen",
+      "menuLink": "https://www.pufood.xyz/Menu/PIT.pdf",
+      "dataFile": "data/outlets/pit-canteen.json"
+    },
+    {
+      "id": "ppt-at-bba",
+      "name": "PPT, at BBA",
+      "menuLink": "https://www.pufood.xyz/Menu/PPT.pdf",
+      "dataFile": "data/outlets/ppt-at-bba.json"
+    },
+    {
+      "id": "pahadi-momos-greenzy",
+      "name": "Pahadi MOMOS, Greenzy",
+      "menuLink": "https://www.pufood.xyz/Menu/Pahadi%20Momo.pdf",
+      "dataFile": "data/outlets/pahadi-momos-greenzy.json"
+    },
+    {
+      "id": "puff-mania-capitol",
+      "name": "Puff Mania, Capitol",
+      "menuLink": "https://www.pufood.xyz/Menu/Puff%20Mania.pdf",
+      "dataFile": "data/outlets/puff-mania-capitol.json"
+    },
+    {
+      "id": "rajwadi-malai-gola-in-front-of-temple",
+      "name": "Rajwadi Malai Gola, in front of Temple",
+      "menuLink": "https://www.pufood.xyz/Menu/Rajwadi%20Malai%20Gola.pdf",
+      "dataFile": "data/outlets/rajwadi-malai-gola-in-front-of-temple.json"
+    },
+    {
+      "id": "renuka-foods-utopia",
+      "name": "Renuka Foods, Utopia",
+      "menuLink": "https://www.pufood.xyz/Menu/Renuka%20Foods.pdf",
+      "dataFile": "data/outlets/renuka-foods-utopia.json"
+    },
+    {
+      "id": "sri-rudra-wfc-outside-campus",
+      "name": "SRI RUDRA, WFC, Outside Campus",
+      "menuLink": null,
+      "dataFile": "data/outlets/sri-rudra-wfc-outside-campus.json"
+    },
+    {
+      "id": "samosazz-greenzy",
+      "name": "Samosazz, Greenzy",
+      "menuLink": "https://www.pufood.xyz/Menu/Samosazz.pdf",
+      "dataFile": "data/outlets/samosazz-greenzy.json"
+    },
+    {
+      "id": "santushti-new-food-court",
+      "name": "Santushti, New Food Court",
+      "menuLink": "https://www.pufood.xyz/Menu/Santooshti.pdf",
+      "dataFile": "data/outlets/santushti-new-food-court.json"
+    },
+    {
+      "id": "shri-sainath-near-amul",
+      "name": "Shri Sainath, near Amul",
+      "menuLink": "https://www.pufood.xyz/Menu/Shri%20Sainath%20.pdf",
+      "dataFile": "data/outlets/shri-sainath-near-amul.json"
+    },
+    {
+      "id": "size-zero",
+      "name": "Size Zero",
+      "menuLink": "https://www.pufood.xyz/Menu/Size%20Zero.pdf",
+      "dataFile": "data/outlets/size-zero.json"
+    },
+    {
+      "id": "swad-snacks",
+      "name": "Swad Snacks",
+      "menuLink": null,
+      "dataFile": "data/outlets/swad-snacks.json"
+    },
+    {
+      "id": "tea-post",
+      "name": "Tea Post",
+      "menuLink": "https://www.pufood.xyz/Menu/Tea%20Post.pdf",
+      "dataFile": "data/outlets/tea-post.json"
+    },
+    {
+      "id": "teluginti-vanta-capitol",
+      "name": "Teluginti Vanta, Capitol",
+      "menuLink": "https://www.pufood.xyz/Menu/Teluginti%20Vanta.pdf",
+      "dataFile": "data/outlets/teluginti-vanta-capitol.json"
+    },
+    {
+      "id": "thampees-food-utopia",
+      "name": "Thampees Food, Utopia",
+      "menuLink": "https://www.pufood.xyz/Menu/Thampees%20Foods.pdf",
+      "dataFile": "data/outlets/thampees-food-utopia.json"
+    },
+    {
+      "id": "the-biryani-hub-greenzy",
+      "name": "The Biryani Hub, Greenzy",
+      "menuLink": "https://www.pufood.xyz/Menu/The%20Biryani%20Hub.pdf",
+      "dataFile": "data/outlets/the-biryani-hub-greenzy.json"
+    },
+    {
+      "id": "the-butter-cafe-utopia",
+      "name": "The Butter Cafe, Utopia",
+      "menuLink": "https://www.pufood.xyz/Menu/The%20Butter%20Cafe.pdf",
+      "dataFile": "data/outlets/the-butter-cafe-utopia.json"
+    },
+    {
+      "id": "the-kitchen-express-greenzy",
+      "name": "The Kitchen Express, Greenzy",
+      "menuLink": "https://www.pufood.xyz/Menu/The%20Kitchen%20Express.pdf",
+      "dataFile": "data/outlets/the-kitchen-express-greenzy.json"
+    },
+    {
+      "id": "the-spot-capitol",
+      "name": "The Spot, Capitol",
+      "menuLink": "https://www.pufood.xyz/Menu/The%20Spot.pdf",
+      "dataFile": "data/outlets/the-spot-capitol.json"
+    },
+    {
+      "id": "the-vadapav-factory-greenzy",
+      "name": "The Vadapav Factory, Greenzy",
+      "menuLink": "https://www.pufood.xyz/Menu/The%20Vadapav%20Factory.pdf",
+      "dataFile": "data/outlets/the-vadapav-factory-greenzy.json"
+    },
+    {
+      "id": "ur-choice-greenzy",
+      "name": "UR Choice, Greenzy",
+      "menuLink": "https://www.pufood.xyz/Menu/UR%20Choice%20Bakery.pdf",
+      "dataFile": "data/outlets/ur-choice-greenzy.json"
+    },
+    {
+      "id": "vadilal-greenzy",
+      "name": "Vadilal, Greenzy",
+      "menuLink": null,
+      "dataFile": "data/outlets/vadilal-greenzy.json"
+    },
+    {
+      "id": "wok-chok-new-food-court",
+      "name": "Wok Chok, New Food Court",
+      "menuLink": "https://www.pufood.xyz/Menu/Wok%20Chok.pdf",
+      "dataFile": "data/outlets/wok-chok-new-food-court.json"
+    },
+    {
+      "id": "yo-frankie-utopia",
+      "name": "Yo Frankie, Utopia",
+      "menuLink": "https://www.pufood.xyz/Menu/Yo%20Frankie.pdf",
+      "dataFile": "data/outlets/yo-frankie-utopia.json"
+    }
+  ]
+}

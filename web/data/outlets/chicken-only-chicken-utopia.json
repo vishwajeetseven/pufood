@@ -1,0 +1,159 @@
+{
+  "id": "chicken-only-chicken-utopia",
+  "name": "Chicken Only Chicken, Utopia",
+  "menuLink": "https://www.pufood.xyz/Menu/Chicken%20only%20Chicken.pdf",
+  "items": [
+    {
+      "name": "Chicken Dum Biryani (Half)",
+      "price": 90,
+      "protein": 20,
+      "carbs": 50,
+      "fat": 12,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "Chicken Dum Biryani (Full)",
+      "price": 180,
+      "protein": 40,
+      "carbs": 100,
+      "fat": 20,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "Tandoori Chicken (Half)",
+      "price": 120,
+      "protein": 35,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "Tandoori Chicken (Full)",
+      "price": 220,
+      "protein": 70,
+      "carbs": 8,
+      "fat": 18,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "Chicken Lollipop",
+      "price": 160,
+      "protein": 25,
+      "carbs": 8,
+      "fat": 15,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "BBQ Chicken Full Leg",
+      "price": 200,
+      "protein": 40,
+      "carbs": 5,
+      "fat": 20,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 140,
+      "protein": 22,
+      "carbs": 55,
+      "fat": 10,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "Chicken Schezwan Rice",
+      "price": 160,
+      "protein": 24,
+      "carbs": 60,
+      "fat": 12,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "Chicken Manchurian Dry",
+      "price": 130,
+      "protein": 28,
+      "carbs": 20,
+      "fat": 14,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "Chicken Chilli Dry",
+      "price": 140,
+      "protein": 30,
+      "carbs": 18,
+      "fat": 16,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "Chicken Crispy",
+      "price": 160,
+      "protein": 32,
+      "carbs": 25,
+      "fat": 18,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "Chicken Masala",
+      "price": 200,
+      "protein": 35,
+      "carbs": 12,
+      "fat": 22,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 250,
+      "protein": 38,
+      "carbs": 15,
+      "fat": 25,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "Chicken Hakka Noodles",
+      "price": 140,
+      "protein": 20,
+      "carbs": 58,
+      "fat": 10,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "Chicken Shawarma",
+      "price": 100,
+      "protein": 22,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "SP. Chicken Shawarma",
+      "price": 140,
+      "protein": 25,
+      "carbs": 32,
+      "fat": 14,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "Chicken Peri-Peri Shawarma",
+      "price": 160,
+      "protein": 27,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "Fish Fry",
+      "price": 180,
+      "protein": 30,
+      "carbs": 5,
+      "fat": 12,
+      "outlet": "Chicken Only Chicken, Utopia"
+    },
+    {
+      "name": "Prawns Fry",
+      "price": 200,
+      "protein": 35,
+      "carbs": 8,
+      "fat": 10,
+      "outlet": "Chicken Only Chicken, Utopia"
+    }
+  ]
+}

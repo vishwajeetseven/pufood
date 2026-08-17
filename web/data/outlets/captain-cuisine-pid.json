@@ -1,0 +1,567 @@
+{
+  "id": "captain-cuisine-pid",
+  "name": "Captain Cuisine, PID",
+  "menuLink": "https://www.pufood.xyz/Menu/PID.pdf",
+  "items": [
+    {
+      "name": "Tea",
+      "price": 10,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Coffee",
+      "price": 20,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Bread Butter",
+      "price": 30,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Bread Jam",
+      "price": 40,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Veg Sandwich",
+      "price": 50,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Paneer Puff",
+      "price": 40,
+      "protein": 7,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Veg Puff",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Cheese Puff",
+      "price": 40,
+      "protein": 6,
+      "carbs": 15,
+      "fat": 12,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Puff",
+      "price": 20,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "price": 70,
+      "protein": 8,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Cheese Sandwich",
+      "price": 70,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 12,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Cheese Maggi",
+      "price": 50,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 8,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Veg Maggi",
+      "price": 40,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Aloo Paratha",
+      "price": 50,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Cheese Paratha",
+      "price": 70,
+      "protein": 7,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Paneer Paratha",
+      "price": 70,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Jeera Rice && Dal Fry",
+      "price": 60,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Masala Rice",
+      "price": 50,
+      "protein": 3,
+      "carbs": 35,
+      "fat": 3,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Paneer Pulao",
+      "price": 60,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 8,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Cheese Pulao",
+      "price": 70,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Mix Pulao",
+      "price": 70,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Paneer Bhurji & Roti -4",
+      "price": 80,
+      "protein": 12,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Paneer Handi & Roti-4",
+      "price": 80,
+      "protein": 12,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Kadai Paneer & Roti-4",
+      "price": 80,
+      "protein": 12,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Mix Veg & Roti-4",
+      "price": 80,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Mutter Paneer & Roti-4",
+      "price": 80,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 8,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Jeera Aloo & Roti-4",
+      "price": 70,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Aloo Bhindi Dry",
+      "price": 80,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Palak Paneer",
+      "price": 80,
+      "protein": 10,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Aloo Gobhi",
+      "price": 80,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Veg Thali",
+      "price": 100,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Sabji & Roti -4",
+      "price": 50,
+      "protein": 8,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Masala Dosa",
+      "price": 50,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Cheese Dosa",
+      "price": 70,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 8,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Plain Dosa",
+      "price": 40,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 1,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Paneer Dosa",
+      "price": 70,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Plain Uttapam",
+      "price": 50,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Onion Uttapam",
+      "price": 50,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Masala Uttapam",
+      "price": 50,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Cheese Uttapam",
+      "price": 70,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 8,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Lemon Rice",
+      "price": 60,
+      "protein": 3,
+      "carbs": 40,
+      "fat": 2,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Curd Rice",
+      "price": 60,
+      "protein": 4,
+      "carbs": 35,
+      "fat": 3,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Veg Fried Rice",
+      "price": 50,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Paneer Chilly",
+      "price": 80,
+      "protein": 10,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Paneer 65",
+      "price": 80,
+      "protein": 10,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Tomato Pasta",
+      "price": 60,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Veg Pasta",
+      "price": 60,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Cheese Pasta",
+      "price": 70,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 8,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "White Sauce Pasta",
+      "price": 60,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Hakka Noodles",
+      "price": 50,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Manchurian Noodles",
+      "price": 60,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Manchurian Rice",
+      "price": 60,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Dry Manchurian",
+      "price": 60,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Chinese Bhel",
+      "price": 80,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Cheese Fried Rice",
+      "price": 70,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Paneer Fried Rice",
+      "price": 60,
+      "protein": 8,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Mix Fried Rice",
+      "price": 70,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Watermelon",
+      "price": 50,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 0,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Pineapple",
+      "price": 80,
+      "protein": 1,
+      "carbs": 15,
+      "fat": 0,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Banana Shake",
+      "price": 60,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Chikoo Shake",
+      "price": 70,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Apple Shake",
+      "price": 90,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Cut Fruit",
+      "price": 70,
+      "protein": 1,
+      "carbs": 15,
+      "fat": 0,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 50,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Lemon Water",
+      "price": 20,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 0,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Tomato Soup",
+      "price": 60,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Veg Hot and Sour",
+      "price": 60,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Veg Noodles Soup",
+      "price": 60,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 2,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Veg Manchow Soup",
+      "price": 60,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 2,
+      "outlet": "Captain Cuisine, PID"
+    },
+    {
+      "name": "Mix Veg Soup",
+      "price": 60,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 2,
+      "outlet": "Captain Cuisine, PID"
+    }
+  ]
+}

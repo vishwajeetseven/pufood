@@ -1,0 +1,178 @@
+{
+  "id": "jagdish-new-food-court",
+  "name": "Jagdish, New Food Court",
+  "menuLink": "https://www.pufood.xyz/Menu/Jagdish.pdf",
+  "items": [
+    {
+      "name": "Samosa",
+      "price": 30,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "2 pcs"
+    },
+    {
+      "name": "Cheese Samosa",
+      "price": 60,
+      "protein": 7,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "5 pcs"
+    },
+    {
+      "name": "Noodles Samosa",
+      "price": 40,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 10,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "4 pcs"
+    },
+    {
+      "name": "Patti Samosa",
+      "price": 40,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 10,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "4 pcs"
+    },
+    {
+      "name": "Sada Khaman",
+      "price": 40,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 6,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "100 gm"
+    },
+    {
+      "name": "Nylon Khaman",
+      "price": 40,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 6,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "100 gm"
+    },
+    {
+      "name": "Sev Khamani",
+      "price": 40,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 8,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "100 gm"
+    },
+    {
+      "name": "Lilva Kachori",
+      "price": 40,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "2 pcs"
+    },
+    {
+      "name": "Bataka Vada",
+      "price": 70,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "250 gm"
+    },
+    {
+      "name": "Methi Thepla",
+      "price": 60,
+      "protein": 7,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "3 pcs"
+    },
+    {
+      "name": "Cheesy Mexican Pocket",
+      "price": 40,
+      "protein": 7,
+      "carbs": 32,
+      "fat": 12,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "100 gm"
+    },
+    {
+      "name": "Handvo",
+      "price": 50,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 8,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "100 gm"
+    },
+    {
+      "name": "Khandvi",
+      "price": 40,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 7,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "100 gm"
+    },
+    {
+      "name": "Surti Idada",
+      "price": 40,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 6,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "100 gm"
+    },
+    {
+      "name": "Corn Bhakharwadi",
+      "price": 40,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 12,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "100 gm"
+    },
+    {
+      "name": "Muthia",
+      "price": 60,
+      "protein": 7,
+      "carbs": 32,
+      "fat": 8,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "100 gm"
+    },
+    {
+      "name": "Fafda",
+      "price": 40,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "100 gm"
+    },
+    {
+      "name": "Patra",
+      "price": 40,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 7,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "3 pcs"
+    },
+    {
+      "name": "Sabudana Wada",
+      "price": 40,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 12,
+      "outlet": "Jagdish, New Food Court",
+      "quantity": "100 gm"
+    }
+  ]
+}

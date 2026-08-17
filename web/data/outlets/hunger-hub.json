@@ -1,0 +1,623 @@
+{
+  "id": "hunger-hub",
+  "name": "Hunger Hub",
+  "menuLink": "https://www.pufood.xyz/Menu/Hunger%20Hub.pdf",
+  "items": [
+    {
+      "name": "Half Chicken Rice",
+      "price": 80,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Chicken Rice",
+      "price": 120,
+      "protein": 25,
+      "carbs": 60,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Egg Rice",
+      "price": 70,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Egg Rice",
+      "price": 100,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Chicken Schezwan Rice",
+      "price": 90,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Chicken Schezwan Rice",
+      "price": 140,
+      "protein": 20,
+      "carbs": 55,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Chicken Kashmeeri Rice",
+      "price": 110,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Chicken Kashmeeri Rice",
+      "price": 150,
+      "protein": 20,
+      "carbs": 55,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Chicken Tikka Rice",
+      "price": 120,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Chicken Tikka Rice",
+      "price": 160,
+      "protein": 20,
+      "carbs": 55,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Chicken Tripple Rice",
+      "price": 90,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Chicken Tripple Rice",
+      "price": 140,
+      "protein": 20,
+      "carbs": 55,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Chicken Singapuri Rice",
+      "price": 100,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Chicken Singapuri Rice",
+      "price": 120,
+      "protein": 20,
+      "carbs": 55,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Chicken Bhel",
+      "price": 60,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Chicken Bhel",
+      "price": 80,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Roasted Tandoor Chicken",
+      "price": 120,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Roasted Tandoor Chicken",
+      "price": 150,
+      "protein": 30,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Chicken with Gravy",
+      "price": 140,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Chicken with Gravy",
+      "price": 210,
+      "protein": 30,
+      "carbs": 15,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Chicken Masala",
+      "price": 90,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Chicken Masala",
+      "price": 120,
+      "protein": 20,
+      "carbs": 15,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Butter Chicken",
+      "price": 120,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Butter Chicken",
+      "price": 160,
+      "protein": 20,
+      "carbs": 15,
+      "fat": 20,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Tandoori Chicken Masala",
+      "price": 210,
+      "protein": 25,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Tandoori Chicken Masala",
+      "price": 380,
+      "protein": 40,
+      "carbs": 15,
+      "fat": 20,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Chicken Tikka Masala",
+      "price": 120,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Chicken Tikka Masala",
+      "price": 160,
+      "protein": 20,
+      "carbs": 15,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken Shawarma",
+      "price": 60,
+      "protein": 10,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Crispy Chicken Shawarma",
+      "price": 80,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Lebanese Chicken Shawarma",
+      "price": 100,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Special Chicken Shawarma",
+      "price": 120,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken Container",
+      "price": 130,
+      "protein": 20,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken Burger",
+      "price": 60,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Crispy Chicken Burger",
+      "price": 80,
+      "protein": 20,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Fried Chicken",
+      "price": 120,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken Wings (4 pcs.)",
+      "price": 150,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken Crispy (4 pcs.)",
+      "price": 140,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken 65 (250 gm)",
+      "price": 120,
+      "protein": 25,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken Leg Piece",
+      "price": 100,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken Drum Stick (2 Pcs)",
+      "price": 100,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken Strips (5 pcs.)",
+      "price": 100,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken Momos (5 pcs.)",
+      "price": 120,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken Nuggets (6 pcs.)",
+      "price": 80,
+      "protein": 20,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken Fries (10 pcs.)",
+      "price": 100,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken Popcorn (10 pcs.)",
+      "price": 100,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Cheese Chicken Balls (5 pcs.)",
+      "price": 120,
+      "protein": 20,
+      "carbs": 15,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Fish Fries (5 pcs.)",
+      "price": 120,
+      "protein": 20,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken Petty Burger",
+      "price": 140,
+      "protein": 15,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Chicken Hakka Noodles",
+      "price": 80,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Chicken Hakka Noodles",
+      "price": 120,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Egg Noodles",
+      "price": 70,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Egg Noodles",
+      "price": 100,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Chicken Schezwan Noodles",
+      "price": 80,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Chicken Schezwan Noodles",
+      "price": 120,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Chicken Singapuri Noodles",
+      "price": 90,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Chicken Singapuri Noodles",
+      "price": 140,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken Chilly",
+      "price": 180,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken Tikka",
+      "price": 100,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Malai Tikka",
+      "price": 130,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Pahadi Tikka",
+      "price": 160,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken Full Leg",
+      "price": 160,
+      "protein": 30,
+      "carbs": 5,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Pahadi Tandoori",
+      "price": 180,
+      "protein": 30,
+      "carbs": 5,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Malai Tandoori",
+      "price": 190,
+      "protein": 30,
+      "carbs": 5,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Tandoor Chicken",
+      "price": 220,
+      "protein": 30,
+      "carbs": 5,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Full Tandoor Chicken",
+      "price": 380,
+      "protein": 60,
+      "carbs": 10,
+      "fat": 30,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Omlet",
+      "price": 30,
+      "protein": 10,
+      "carbs": 2,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Half Fry",
+      "price": 30,
+      "protein": 10,
+      "carbs": 2,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Masala Half Fry",
+      "price": 50,
+      "protein": 10,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Bhurji",
+      "price": 50,
+      "protein": 10,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Egg Roll",
+      "price": 110,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Boil Tikka",
+      "price": 60,
+      "protein": 10,
+      "carbs": 5,
+      "fat": 5,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Boil Bhurji",
+      "price": 60,
+      "protein": 10,
+      "carbs": 5,
+      "fat": 5,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Egg Wrap",
+      "price": 60,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Paneer Wrap",
+      "price": 70,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken Wrap",
+      "price": 90,
+      "protein": 20,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Hunger Hub"
+    },
+    {
+      "name": "Chicken & Egg Wrap",
+      "price": 110,
+      "protein": 25,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Hunger Hub"
+    }
+  ]
+}

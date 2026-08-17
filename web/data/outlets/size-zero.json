@@ -1,0 +1,255 @@
+{
+  "id": "size-zero",
+  "name": "Size Zero",
+  "menuLink": "https://www.pufood.xyz/Menu/Size%20Zero.pdf",
+  "items": [
+    {
+      "name": "Veg Sandwich",
+      "price": 40,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 8,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Bombay Cheese Sandwich",
+      "price": 60,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 12,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Cheese Chilli Corn Grilled Sandwich",
+      "price": 60,
+      "protein": 9,
+      "carbs": 35,
+      "fat": 14,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Schezwan Cheese Grilled Corn Sandwich",
+      "price": 60,
+      "protein": 9,
+      "carbs": 35,
+      "fat": 14,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Veg Aloo Tikki Grilled Sandwich",
+      "price": 60,
+      "protein": 7,
+      "carbs": 40,
+      "fat": 12,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Peri Peri Cheese Grilled Sandwich",
+      "price": 60,
+      "protein": 9,
+      "carbs": 35,
+      "fat": 14,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Chatpata Cheese Grilled Sandwich",
+      "price": 60,
+      "protein": 9,
+      "carbs": 35,
+      "fat": 14,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Mexican Sandwich",
+      "price": 60,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 14,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Garlic Sandwich",
+      "price": 60,
+      "protein": 7,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Paneer Tandoori Grilled Sandwich",
+      "price": 60,
+      "protein": 12,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Paneer Bhurji Cheese Grilled Sandwich",
+      "price": 60,
+      "protein": 14,
+      "carbs": 40,
+      "fat": 16,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Cheese Garlic Bread",
+      "price": 70,
+      "protein": 7,
+      "carbs": 45,
+      "fat": 15,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Aloo Tikki Burger",
+      "price": 30,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Aloo Tikki Mayo Burger",
+      "price": 40,
+      "protein": 7,
+      "carbs": 40,
+      "fat": 12,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Aloo Tikki Schezwan Burger",
+      "price": 40,
+      "protein": 7,
+      "carbs": 40,
+      "fat": 12,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Chatpata Burger",
+      "price": 40,
+      "protein": 7,
+      "carbs": 40,
+      "fat": 12,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Garlic Burger",
+      "price": 40,
+      "protein": 7,
+      "carbs": 40,
+      "fat": 12,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Mexican Burger",
+      "price": 50,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 14,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Salsa Burger",
+      "price": 40,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 14,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Double Aloo Tikki Burger",
+      "price": 50,
+      "protein": 10,
+      "carbs": 45,
+      "fat": 15,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Veg Cheese Burger",
+      "price": 50,
+      "protein": 10,
+      "carbs": 45,
+      "fat": 16,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Paneer Bhurji Burger",
+      "price": 50,
+      "protein": 12,
+      "carbs": 40,
+      "fat": 18,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Peri Peri Cheese Burger",
+      "price": 50,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 16,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Salted Fries",
+      "price": 50,
+      "protein": 3,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Mayo Fries",
+      "price": 60,
+      "protein": 3,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Peri Peri Fries",
+      "price": 60,
+      "protein": 3,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Cheese Fries",
+      "price": 60,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 18,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Peri Peri Cheese Fries",
+      "price": 70,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 40,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 6,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Oreo Chocolate Shake",
+      "price": 40,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 8,
+      "outlet": "Size Zero"
+    },
+    {
+      "name": "Chocolate Crunch Shake",
+      "price": 40,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Size Zero"
+    }
+  ]
+}

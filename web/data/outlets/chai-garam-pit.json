@@ -1,0 +1,247 @@
+{
+  "id": "chai-garam-pit",
+  "name": "Chai Garam, PIT",
+  "menuLink": null,
+  "items": [
+    {
+      "name": "Kadak Chai",
+      "price": 15,
+      "protein": 1,
+      "carbs": 2,
+      "fat": 0,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Tulsi Chai",
+      "price": 25,
+      "protein": 1,
+      "carbs": 2,
+      "fat": 0,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Adrak Chai",
+      "price": 30,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 1,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Elaichi Chai",
+      "price": 30,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 1,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Tulsi-Adrak Chai",
+      "price": 30,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 1,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Dalchini-Adrak Chai",
+      "price": 35,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 1,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Adrak-Elaichi Chai",
+      "price": 35,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 1,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Gur Wali Chai",
+      "price": 40,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 1,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Gur-Elaichi Chai",
+      "price": 45,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 1,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Kulhad Wali Chai (Single Flavour)",
+      "price": 50,
+      "protein": 2,
+      "carbs": 5,
+      "fat": 2,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Kulhad Wali Chai (Double Flavour)",
+      "price": 55,
+      "protein": 2,
+      "carbs": 5,
+      "fat": 2,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Chai Garam SPECIAL (Premium Masala Chai)",
+      "price": 70,
+      "protein": 2,
+      "carbs": 6,
+      "fat": 2,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Veg Pasta (White/Red Sauce)",
+      "price": 50,
+      "protein": 7,
+      "carbs": 55,
+      "fat": 10,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Veg Pasta (Mixed Sauce)",
+      "price": 80,
+      "protein": 8,
+      "carbs": 60,
+      "fat": 12,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Veg Pasta (Tandoori Sauce)",
+      "price": 80,
+      "protein": 9,
+      "carbs": 60,
+      "fat": 12,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Aloo Tikki Burger",
+      "price": 60,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 12,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Veg Crispy Burger",
+      "price": 70,
+      "protein": 7,
+      "carbs": 42,
+      "fat": 14,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Paneer Burger",
+      "price": 80,
+      "protein": 10,
+      "carbs": 45,
+      "fat": 18,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Maggi (Plain)",
+      "price": 45,
+      "protein": 6,
+      "carbs": 45,
+      "fat": 12,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Maggi (Veg)",
+      "price": 50,
+      "protein": 7,
+      "carbs": 48,
+      "fat": 12,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Maggi (Masala)",
+      "price": 60,
+      "protein": 7,
+      "carbs": 50,
+      "fat": 14,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Maggi (Cheese)",
+      "price": 70,
+      "protein": 9,
+      "carbs": 50,
+      "fat": 20,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Margherita Pizza",
+      "price": 80,
+      "protein": 10,
+      "carbs": 60,
+      "fat": 12,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Cheese & Corn Pizza",
+      "price": 90,
+      "protein": 12,
+      "carbs": 62,
+      "fat": 14,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Sweet Corn Chaat",
+      "price": 50,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 4,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Sweet Lassi",
+      "price": 70,
+      "protein": 8,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Salted Lassi",
+      "price": 70,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 90,
+      "protein": 9,
+      "carbs": 40,
+      "fat": 6,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Hot Chocolate (Hershey's)",
+      "price": 80,
+      "protein": 8,
+      "carbs": 45,
+      "fat": 12,
+      "outlet": "Chai Garam, PIT"
+    },
+    {
+      "name": "Oreo Shake",
+      "price": 90,
+      "protein": 10,
+      "carbs": 50,
+      "fat": 14,
+      "outlet": "Chai Garam, PIT"
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "id": "medical-canteen",
+  "name": "Medical Canteen",
+  "menuLink": "https://www.pufood.xyz/Menu/Medical%20Canteen.pdf",
+  "items": [
+    {
+      "name": "Biscuit",
+      "price": 10,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Namkeen",
+      "price": 10,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Tea",
+      "price": 15,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Chocolate",
+      "price": 10,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Coffee",
+      "price": 10,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 1,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Icecream",
+      "price": 10,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Poha",
+      "price": 10,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 2,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Cake",
+      "price": 10,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Puff",
+      "price": 10,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Cheese Puff",
+      "price": 10,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Plain Maggi",
+      "price": 40,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Veg Fried Rice",
+      "price": 40,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Veg Maggi",
+      "price": 60,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Hakka Noodles",
+      "price": 50,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Cheese Maggi",
+      "price": 40,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Manchurian Rice",
+      "price": 50,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Aloo Sukhi Bhaji (Fast Special)",
+      "price": 10,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Dry Manchurian",
+      "price": 50,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Water Bottle",
+      "price": 10,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Manchurian Noodles",
+      "price": 60,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Cold Drink",
+      "price": 10,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Chinese Bhel",
+      "price": 60,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Chaas",
+      "price": 10,
+      "protein": 3,
+      "carbs": 5,
+      "fat": 2,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "American Chopsi",
+      "price": 70,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Lassi",
+      "price": 10,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Amul Cool",
+      "price": 10,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Paneer Chilli",
+      "price": 70,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Paper Boat Juice",
+      "price": 10,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Paneer 65",
+      "price": 70,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 10,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Full Dish (Sabji, Dal, Rice, 4 Roti)",
+      "price": 60,
+      "protein": 15,
+      "carbs": 70,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Half Dish (Sabji and 4 Roti)",
+      "price": 40,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Dal Fry & Jeera Rice",
+      "price": 50,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Aloo Paratha",
+      "price": 40,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Paneer Paratha",
+      "price": 50,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Cheese Paratha",
+      "price": 60,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 20,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Paneer Pulao",
+      "price": 70,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Cheese Pulao",
+      "price": 80,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Masala Rice",
+      "price": 80,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Paneer Butter Masala With 4 Roti",
+      "price": 80,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 20,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Chole Masala With 4 Roti",
+      "price": 80,
+      "protein": 10,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Paneer Bhurji With 4 Roti",
+      "price": 90,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Kadai Paneer With 4 Roti",
+      "price": 90,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Paneer Bhuna Masala With 4 Roti",
+      "price": 100,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Paneer Handi With 4 Roti",
+      "price": 100,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Mutter Paneer With 4 Roti",
+      "price": 100,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Paneer Diwani Handi With 4 Roti",
+      "price": 100,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Paneer Tawa Masala With 4 Roti",
+      "price": 100,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Cheese Butter Masala With 4 Roti",
+      "price": 100,
+      "protein": 15,
+      "carbs": 50,
+      "fat": 20,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Plain Dosa",
+      "price": 30,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Masala Dosa",
+      "price": 40,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Onion Dosa",
+      "price": 40,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Paneer Dosa",
+      "price": 60,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Onion Uttapam",
+      "price": 40,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Masala Uttapam",
+      "price": 40,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Cheese Dosa",
+      "price": 70,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Cheese Uttapam",
+      "price": 70,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Tomato Pasta",
+      "price": 50,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "White Sauce Pasta",
+      "price": 50,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Italian Pasta",
+      "price": 60,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Veg Pasta",
+      "price": 60,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Cheese Pasta",
+      "price": 70,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Neapolitan Pasta",
+      "price": 70,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Tomato Soup",
+      "price": 30,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Veg Hot & Sour Soup",
+      "price": 30,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Veg Noodles Soup",
+      "price": 30,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Veg Manchow Soup",
+      "price": 30,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 2,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Ginger Soup",
+      "price": 30,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 1,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Hot Garlic Soup",
+      "price": 30,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Mix Veg Soup",
+      "price": 30,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 2,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Bread Butter Sandwich",
+      "price": 30,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Bread Jam Sandwich",
+      "price": 30,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Veg Sandwich",
+      "price": 30,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Cheese Sandwich",
+      "price": 40,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "price": 40,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Extra Roti",
+      "price": 10,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 1,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Extra Dal",
+      "price": 10,
+      "protein": 5,
+      "carbs": 15,
+      "fat": 1,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Extra Sabji",
+      "price": 10,
+      "protein": 3,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Extra Cheese",
+      "price": 10,
+      "protein": 7,
+      "carbs": 1,
+      "fat": 10,
+      "outlet": "Medical Canteen"
+    },
+    {
+      "name": "Extra Dhai",
+      "price": 10,
+      "protein": 3,
+      "carbs": 5,
+      "fat": 5,
+      "outlet": "Medical Canteen"
+    }
+  ]
+}

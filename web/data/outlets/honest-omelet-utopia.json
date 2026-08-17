@@ -1,0 +1,255 @@
+{
+  "id": "honest-omelet-utopia",
+  "name": "Honest Omelet, Utopia",
+  "menuLink": "https://www.pufood.xyz/Menu/Honest%20Omlet.pdf",
+  "items": [
+    {
+      "name": "Boiled Egg",
+      "price": 25,
+      "protein": 13,
+      "carbs": 1,
+      "fat": 11,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Masala Boil Egg",
+      "price": 40,
+      "protein": 14,
+      "carbs": 2,
+      "fat": 12,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Green Boil Egg",
+      "price": 40,
+      "protein": 14,
+      "carbs": 2,
+      "fat": 12,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Omelet Regular",
+      "price": 30,
+      "protein": 14,
+      "carbs": 2,
+      "fat": 12,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Masala Omelet",
+      "price": 40,
+      "protein": 15,
+      "carbs": 3,
+      "fat": 12,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Indian Omelet",
+      "price": 40,
+      "protein": 15,
+      "carbs": 3,
+      "fat": 12,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Green Omelet",
+      "price": 40,
+      "protein": 15,
+      "carbs": 3,
+      "fat": 12,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Mayo Omelet",
+      "price": 35,
+      "protein": 14,
+      "carbs": 3,
+      "fat": 15,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Schezwan Omelet",
+      "price": 35,
+      "protein": 14,
+      "carbs": 3,
+      "fat": 13,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Tandoori Omelet",
+      "price": 35,
+      "protein": 14,
+      "carbs": 3,
+      "fat": 14,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Boil Omelet",
+      "price": 50,
+      "protein": 16,
+      "carbs": 3,
+      "fat": 14,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Cheese Omelet",
+      "price": 50,
+      "protein": 18,
+      "carbs": 3,
+      "fat": 20,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Pizza Omelet",
+      "price": 70,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 22,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Crush Omelet (Gravy)",
+      "price": 80,
+      "protein": 20,
+      "carbs": 6,
+      "fat": 24,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Honest Special Egg Roll",
+      "price": 90,
+      "protein": 22,
+      "carbs": 6,
+      "fat": 25,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Special Tikka Roll",
+      "price": 140,
+      "protein": 25,
+      "carbs": 8,
+      "fat": 28,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Egg Pulav",
+      "price": 80,
+      "protein": 12,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Boil Pulav",
+      "price": 100,
+      "protein": 14,
+      "carbs": 55,
+      "fat": 12,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Egg Biryani",
+      "price": 130,
+      "protein": 16,
+      "carbs": 60,
+      "fat": 14,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Egg Fried Rice",
+      "price": 90,
+      "protein": 14,
+      "carbs": 55,
+      "fat": 10,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Egg Manchurian Rice",
+      "price": 90,
+      "protein": 14,
+      "carbs": 55,
+      "fat": 12,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Egg Noodles",
+      "price": 90,
+      "protein": 12,
+      "carbs": 60,
+      "fat": 8,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Egg Bhel",
+      "price": 90,
+      "protein": 10,
+      "carbs": 50,
+      "fat": 6,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Egg Roll",
+      "price": 40,
+      "protein": 12,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Mayo Roll",
+      "price": 45,
+      "protein": 12,
+      "carbs": 5,
+      "fat": 12,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Schezwan Roll",
+      "price": 45,
+      "protein": 12,
+      "carbs": 5,
+      "fat": 12,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Tandoori Roll",
+      "price": 45,
+      "protein": 12,
+      "carbs": 5,
+      "fat": 12,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Mint Mayo Roll",
+      "price": 45,
+      "protein": 12,
+      "carbs": 5,
+      "fat": 12,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Boil Egg Roll",
+      "price": 50,
+      "protein": 13,
+      "carbs": 5,
+      "fat": 12,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Double Egg Roll",
+      "price": 60,
+      "protein": 16,
+      "carbs": 6,
+      "fat": 15,
+      "outlet": "Honest Omelet, Utopia"
+    },
+    {
+      "name": "Cheese Egg Roll",
+      "price": 60,
+      "protein": 18,
+      "carbs": 6,
+      "fat": 20,
+      "outlet": "Honest Omelet, Utopia"
+    }
+  ]
+}

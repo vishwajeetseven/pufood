@@ -1,0 +1,199 @@
+{
+  "id": "mahadev-refreshment-capitol",
+  "name": "Mahadev Refreshment, Capitol",
+  "menuLink": "https://www.pufood.xyz/Menu/Mahadev%20Refreshment.pdf",
+  "items": [
+    {
+      "name": "Chocolate Thick Shake",
+      "price": 60,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 8,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Vanilla Thick Shake",
+      "price": 60,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 7,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Mango Thick Shake",
+      "price": 60,
+      "protein": 3,
+      "carbs": 35,
+      "fat": 6,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Butterscotch Thick Shake",
+      "price": 60,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 8,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Saffron Thick Shake",
+      "price": 60,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 9,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Rose Thick Shake",
+      "price": 60,
+      "protein": 3,
+      "carbs": 34,
+      "fat": 6,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Strawberry Thick Shake",
+      "price": 60,
+      "protein": 3,
+      "carbs": 33,
+      "fat": 6,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Pineapple Thick Shake",
+      "price": 60,
+      "protein": 3,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Oreo Thick Shake",
+      "price": 70,
+      "protein": 5,
+      "carbs": 38,
+      "fat": 10,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Kit Kat Thick Shake",
+      "price": 70,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 12,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Brownie Nutella Thick Shake",
+      "price": 80,
+      "protein": 7,
+      "carbs": 42,
+      "fat": 14,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Dryfruit Shake",
+      "price": 110,
+      "protein": 8,
+      "carbs": 45,
+      "fat": 15,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Caju Anjeer Shake",
+      "price": 110,
+      "protein": 8,
+      "carbs": 44,
+      "fat": 14,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Stick Waffle (Dark / Milk)",
+      "price": 60,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 12,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Stick Waffle Triple Chocolate",
+      "price": 80,
+      "protein": 6,
+      "carbs": 50,
+      "fat": 14,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Red Velvet Waffle Cake",
+      "price": 350,
+      "protein": 10,
+      "carbs": 80,
+      "fat": 20,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Chocolate Waffle Cake",
+      "price": 350,
+      "protein": 12,
+      "carbs": 85,
+      "fat": 22,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Sizzling Brownie with Ice Cream",
+      "price": 120,
+      "protein": 6,
+      "carbs": 55,
+      "fat": 18,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Tea (Half)",
+      "price": 10,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 1,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Tea (Full)",
+      "price": 20,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Hot Coffee",
+      "price": 30,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 3,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Bournvita Hot",
+      "price": 50,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Lemon Soda",
+      "price": 50,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 0,
+      "outlet": "Mahadev Refreshment, Capitol"
+    },
+    {
+      "name": "Fruit Beer",
+      "price": 50,
+      "protein": 0,
+      "carbs": 18,
+      "fat": 0,
+      "outlet": "Mahadev Refreshment, Capitol"
+    }
+  ]
+}

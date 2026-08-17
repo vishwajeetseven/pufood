@@ -1,0 +1,407 @@
+{
+  "id": "bluez-biryani-cornor",
+  "name": "Bluez Biryani Cornor",
+  "menuLink": "https://www.pufood.xyz/Menu/Bluez%20Biryani%20Cornor.pdf",
+  "items": [
+    {
+      "name": "Plain Soda",
+      "price": 10,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "7UP (250ml)",
+      "price": 15,
+      "protein": 0,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Fruit Beer (250ml)",
+      "price": 15,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Thums Up (250ml)",
+      "price": 15,
+      "protein": 0,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Jeera Masala (250ml)",
+      "price": 15,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Litchi (250ml)",
+      "price": 15,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Fanta (250ml)",
+      "price": 15,
+      "protein": 0,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Blue Berry (250ml)",
+      "price": 15,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Lime Soda Sweet & Salt (250ml)",
+      "price": 20,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Sugandhi Soda (Nannari) (250ml)",
+      "price": 20,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Mango Juice",
+      "price": 20,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Pineapple Juice",
+      "price": 20,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Chicken Fry",
+      "price": 149,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Chicken Roast",
+      "price": 149,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Chicken Chilly",
+      "price": 159,
+      "protein": 25,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Chicken Lollipop",
+      "price": 149,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 149,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Lemon Chicken",
+      "price": 149,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Kaju Chicken",
+      "price": 159,
+      "protein": 25,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Garlic Chicken",
+      "price": 149,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Bluez Chicken Dry",
+      "price": 149,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Andhra Chicken",
+      "price": 149,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Pepper Chicken",
+      "price": 149,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Mutton Fry",
+      "price": 209,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Mutton 65",
+      "price": 199,
+      "protein": 25,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Mutton Chilly",
+      "price": 219,
+      "protein": 25,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Egg Rice",
+      "price": 100,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Double Egg Rice",
+      "price": 110,
+      "protein": 20,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Kaju Fried Rice",
+      "price": 160,
+      "protein": 10,
+      "carbs": 45,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Paneer Fried Rice",
+      "price": 170,
+      "protein": 15,
+      "carbs": 45,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Veg Fried Rice",
+      "price": 180,
+      "protein": 10,
+      "carbs": 45,
+      "fat": 10,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Hyderabad Chicken Dum Biryani",
+      "price": 210,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Bluez Special Chicken Biryani",
+      "price": 190,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Hyderabad Rambo Biryani",
+      "price": 190,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Roast Chicken Biryani",
+      "price": 190,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Chicken Moghalai Biryani",
+      "price": 170,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 200,
+      "protein": 20,
+      "carbs": 45,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Kaju Chicken Fried Rice",
+      "price": 200,
+      "protein": 20,
+      "carbs": 45,
+      "fat": 18,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Biryani Rice",
+      "price": 90,
+      "protein": 10,
+      "carbs": 45,
+      "fat": 10,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Mutton Dum Biryani",
+      "price": 270,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Mutton Bluez Special",
+      "price": 250,
+      "protein": 25,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Mutton Curry",
+      "price": 240,
+      "protein": 25,
+      "carbs": 10,
+      "fat": 20,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Chicken Boneless Masala",
+      "price": 260,
+      "protein": 25,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Kadai Chicken Curry",
+      "price": 250,
+      "protein": 25,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Mughalai Chicken Curry",
+      "price": 280,
+      "protein": 25,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Kaju Chicken Special",
+      "price": 270,
+      "protein": 25,
+      "carbs": 15,
+      "fat": 18,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Bluez Chicken Curry",
+      "price": 220,
+      "protein": 25,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Butter Chicken Curry",
+      "price": 340,
+      "protein": 25,
+      "carbs": 10,
+      "fat": 20,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Andhra Chicken Curry",
+      "price": 370,
+      "protein": 25,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    },
+    {
+      "name": "Kaju Curry",
+      "price": 160,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Bluez Biryani Cornor"
+    }
+  ]
+}

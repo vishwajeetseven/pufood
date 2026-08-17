@@ -1,0 +1,1423 @@
+{
+  "id": "indian-salt-near-architecture-building",
+  "name": "Indian Salt, Near Architecture Building",
+  "menuLink": "https://www.pufood.xyz/Menu/Indian%20Salt.pdf",
+  "items": [
+    {
+      "name": "Tea (20 ML)",
+      "price": 20,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Coffee (20 ML)",
+      "price": 20,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 1,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Fresh Lime Soda (150ML)",
+      "price": 50,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 375,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Butter Milk",
+      "price": 30,
+      "protein": 6,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Cold Coffee with Ice",
+      "price": 110,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Masala Butter Milk",
+      "price": 40,
+      "protein": 6,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Cream",
+      "price": 30,
+      "protein": 1,
+      "carbs": 2,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Mineral Water",
+      "price": 30,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Sweet Lassi",
+      "price": 55,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Cold Drinks Can",
+      "price": 30,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Milk Shake (Chocolate/Vanilla/Strawberry/Kaju Draksh)",
+      "price": 75,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Fountain Coke (250ML)",
+      "price": 30,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Watermelon Juice (300ML)",
+      "price": 70,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Pineapple Juice (300ML)",
+      "price": 85,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Seasonal Fruit Juice (300ML)",
+      "price": 90,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Mint Mojito (300ML)",
+      "price": 90,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Watermelon Mojito (300ML)",
+      "price": 90,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Blue Berry (300ML)",
+      "price": 90,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Vanilla Thick Shake (200ML)",
+      "price": 110,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Chocolate Chips Thick Shake (200ML)",
+      "price": 120,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Strawberry Thick Shake (200ML)",
+      "price": 140,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Kaju Draksh Thick Shake (200ML)",
+      "price": 150,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Kesar Pista Thick Shake (200ML)",
+      "price": 150,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Butter Scotch Thick Shake (200ML)",
+      "price": 150,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "American Nuts Thick Shake (200ML)",
+      "price": 150,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Chocolate Brownie",
+      "price": 110,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Kat Thick Shake",
+      "price": 120,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Almond Caramel Shake",
+      "price": 140,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Samosa (2 pcs)",
+      "price": 160,
+      "protein": 6,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Aloo Paratha With Curd",
+      "price": 160,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Mix Veg Bhajiya (100gm)",
+      "price": 160,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Mix Veg Paratha With Curd",
+      "price": 180,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Bread Pakoda",
+      "price": 160,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Paneer Paratha With Curd",
+      "price": 185,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Aloo Bhaji With Puri (4 pcs)",
+      "price": 195,
+      "protein": 5,
+      "carbs": 50,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Plain Dosa",
+      "price": 65,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Mysore Plain Dosa",
+      "price": 70,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Masala Dosa",
+      "price": 70,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Mysore Masala Dosa",
+      "price": 70,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Ghee Roasted Masala Dosa",
+      "price": 70,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Paneer Masala Dosa",
+      "price": 70,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Cheese Dosa",
+      "price": 110,
+      "protein": 10,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Chef's Special Dosa",
+      "price": 70,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Idli Sambhar (2 pcs)",
+      "price": 75,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Medu Vada (2 pcs)",
+      "price": 85,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Plain Uttapam",
+      "price": 110,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Tomato Uttapam",
+      "price": 90,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Onion Uttapam",
+      "price": 95,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Masala Uttapam",
+      "price": 95,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Tomato Soup",
+      "price": 90,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Lemon Coriander Soup",
+      "price": 290,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Hot and Sour Soup",
+      "price": 90,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Sweet Corn Soup",
+      "price": 90,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Fresh Green Salad",
+      "price": 150,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 2,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Russian Salad",
+      "price": 160,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Mexican Salad",
+      "price": 160,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Greek Salad",
+      "price": 170,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "French Fries",
+      "price": 50,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "French Fries Peri Peri",
+      "price": 60,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Cheese Garlic Bread",
+      "price": 80,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Honey Chilli Potato",
+      "price": 135,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Veg Manchurian Dry",
+      "price": 140,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Nachos With Cheese Dip",
+      "price": 140,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Paneer Chilli Dry",
+      "price": 150,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Jalapeno Cheese Ball (6 pcs)",
+      "price": 160,
+      "protein": 10,
+      "carbs": 15,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Tandoori Paneer Tikka (6 pcs)",
+      "price": 240,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Lasuni Paneer Tikka (6 pcs)",
+      "price": 240,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Malai Paneer Tikka (6 pcs)",
+      "price": 240,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Veg Makhani",
+      "price": 120,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Veg Kadai",
+      "price": 120,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Veg Saloni",
+      "price": 130,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Veg Kohinoor",
+      "price": 140,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "price": 135,
+      "protein": 15,
+      "carbs": 15,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Palak Paneer",
+      "price": 135,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Paneer Handi",
+      "price": 140,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Paneer Lababdar",
+      "price": 110,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Dal Makhani With Jeera Rice",
+      "price": 120,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Dal Fry With Jeera Rice",
+      "price": 130,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Veg Biryani With Raita",
+      "price": 130,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Chole With Steam Rice",
+      "price": 115,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Chole Bhature",
+      "price": 115,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Dal Khichdi With Curd",
+      "price": 120,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Pav Bhaji (2 Pcs Pav)",
+      "price": 120,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Extra Pav (2 Pcs)",
+      "price": 20,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 2,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Extra Bhature",
+      "price": 45,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Extra Tandoori Paratha",
+      "price": 30,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Platter 1: Paneer Tikka (3 pcs), Dal Makhani, Mint Chutney, Kachumber & Baby Naan",
+      "price": 190,
+      "protein": 20,
+      "carbs": 50,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Platter 2: Paneer Tikka (3 pcs), Dal Makhani, Mint Chutney, Kachumber & Jeera Rice",
+      "price": 190,
+      "protein": 20,
+      "carbs": 50,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Punjabi Platter: Paneer Subji, Dal Fry, Jeera Rice, Papad, & Tandoori Roti (2 pcs)",
+      "price": 150,
+      "protein": 20,
+      "carbs": 60,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Chinese Platter: Manchurian Gravy, Veg Fried Rice, & Hakka Noodles",
+      "price": 160,
+      "protein": 15,
+      "carbs": 60,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Hakka Noodles",
+      "price": 140,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Veg Fried Rice",
+      "price": 130,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Schezwan Noodle",
+      "price": 140,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Schezwan Fried Rice",
+      "price": 140,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Manchurian Fried Rice",
+      "price": 140,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Manchurian Gravy with Fried Rice",
+      "price": 140,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Manchurian Dry With Noodles",
+      "price": 150,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Manchurian Gravy With Schezwan Fried Rice",
+      "price": 140,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Manchurian Dry With Schezwan Noodles",
+      "price": 150,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Paneer Chilli Gravy With Fried Rice",
+      "price": 150,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Paneer Chilli Dry With Noodles",
+      "price": 150,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Chinese Bhel",
+      "price": 160,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Paneer Chilli Gravy With Schezwan Fried Rice",
+      "price": 160,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Pasta In Arabiatta Sauce",
+      "price": 180,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Pasta In Cheesy Paprika Sauce",
+      "price": 190,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Pasta In Alfredo Sauce",
+      "price": 180,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Pasta In Pink Sauce",
+      "price": 180,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Green Thai Curry With Rice",
+      "price": 210,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Red Thai Curry With Rice",
+      "price": 210,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Mexican Hot Pot",
+      "price": 180,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Italian Hot Pot",
+      "price": 180,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "German Hot Pot",
+      "price": 180,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Asian Green Hot Pot",
+      "price": 180,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Thai Hot Pot",
+      "price": 180,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Chinese Hot Pot",
+      "price": 180,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Indian Hot Pot",
+      "price": 180,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Paneer Sabji",
+      "price": 295,
+      "protein": 15,
+      "carbs": 15,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Paneer Lababdar",
+      "price": 295,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "price": 295,
+      "protein": 15,
+      "carbs": 15,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Paneer Handi",
+      "price": 295,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Kadai Paneer",
+      "price": 295,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Matka Paneer",
+      "price": 295,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Palak Paneer",
+      "price": 295,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Veg Sabji",
+      "price": 255,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Kadai Veg",
+      "price": 255,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Hariyali Veg",
+      "price": 255,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Vegetable Exotica",
+      "price": 260,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Tawa Veg",
+      "price": 295,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Plain Rice",
+      "price": 115,
+      "protein": 3,
+      "carbs": 40,
+      "fat": 1,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Jeera Rice",
+      "price": 170,
+      "protein": 3,
+      "carbs": 40,
+      "fat": 2,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Veg Pulav",
+      "price": 190,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Veg Biryani",
+      "price": 245,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Hyderabadi Biryani",
+      "price": 245,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Masala Papad",
+      "price": 45,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Roasted Papad",
+      "price": 40,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Fried Papad",
+      "price": 40,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Veg Raita",
+      "price": 80,
+      "protein": 3,
+      "carbs": 5,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Boondi Raita",
+      "price": 90,
+      "protein": 3,
+      "carbs": 10,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Pineapple Raita",
+      "price": 100,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Amritsari Aloo Kulcha",
+      "price": 150,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Amritsari Paneer Kulcha",
+      "price": 160,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Amritsari Cheese Kulcha",
+      "price": 170,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Amritsari Garlic Cheese Kulcha",
+      "price": 180,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Tangy-Mangy Paneer Kurkure",
+      "price": 190,
+      "protein": 15,
+      "carbs": 10,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Cheese Paprika Potato Finger",
+      "price": 170,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Chatpata Roasted Paneer Roll",
+      "price": 190,
+      "protein": 15,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Paneer Tikka Chaat",
+      "price": 190,
+      "protein": 15,
+      "carbs": 15,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Crunchy Munchy Mushroom",
+      "price": 180,
+      "protein": 5,
+      "carbs": 10,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Bread Butter",
+      "price": 30,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Bread Butter Jam",
+      "price": 30,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Veg Sandwich",
+      "price": 50,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Bombay Sandwich",
+      "price": 60,
+      "protein": 6,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "French Fries",
+      "price": 50,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Peri Peri French Fries",
+      "price": 60,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Cheese Garlic Bread",
+      "price": 90,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 12,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Margerita Pizza 8\"",
+      "price": 160,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 14,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "7 Cheese Pizza 8\"",
+      "price": 170,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Veg Pizza 8\"",
+      "price": 160,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 14,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Chef's Special Pizza 8\"",
+      "price": 180,
+      "protein": 12,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Paneer Pizza 8\"",
+      "price": 190,
+      "protein": 15,
+      "carbs": 35,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Coke Float",
+      "price": 90,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Strawberry Float",
+      "price": 90,
+      "protein": 1,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Blueberry Float",
+      "price": 90,
+      "protein": 1,
+      "carbs": 30,
+      "fat": 2,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Lemon Ice Tea",
+      "price": 90,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Blueberry Ice Tea",
+      "price": 90,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Peach Ice Tea",
+      "price": 90,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "price": 40,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Chocolate Chips Ice Cream",
+      "price": 50,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Strawberry Ice Cream",
+      "price": 50,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 5,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Kaju Draksh Ice Cream",
+      "price": 60,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Kesar Pista Ice Cream",
+      "price": 60,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Butter Scotch Ice Cream",
+      "price": 60,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "American Nuts Ice Cream",
+      "price": 60,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 15,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Gulab Jamun (2 pcs)",
+      "price": 110,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 10,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Walnut Brownie with Vanilla Ice Cream & Hot Chocolate",
+      "price": 190,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 20,
+      "outlet": "Indian Salt, Near Architecture Building"
+    },
+    {
+      "name": "Biscoff Cheese Cake",
+      "price": 200,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 20,
+      "outlet": "Indian Salt, Near Architecture Building"
+    }
+  ]
+}
